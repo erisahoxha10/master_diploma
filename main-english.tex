@@ -211,14 +211,12 @@ Climate change is one of the hottest topics of this century. GHG contribute the 
 	\centering
 	\includegraphics[width=\textwidth]{total_data_traffic_zb.png}
 	\caption{Total Data Traffic Forecast through 2030. Source: “Impact of AI on Electronics and Semiconductor Industries”, IBS, April 2020}
-	\label{fig:chor1}
 \end{figure}
 This growth of data processing and data storage has improved the quality of our life, but at the same time hundreds of MtCO2 are released yearly from this. As of today, USA has the largest number of data centers in the world with more than 2000 sites, thus causing highest carbon footprint per country based. While in the beginning of the century these data centers were not build thinking about their environmental impact, this has seemed to change in the recent years. There have been improvements in the way data centers are build, where they are build and there has been refinement in the hardware used. So the same algorithm can be executed in less power consumption. 
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{datacentermap.jpg}
 	\caption{Data Center distribution worldwide}
-	\label{fig:chor1}
 \end{figure}
 Many institutions have already migrated their services to clouds and decreasing their overall footprint. With big cloud providers like AWS, companies can decide where they want to host their services and can track their environmental effect while the resources are being managed more efficiently.Big companies have advanced in reducing carbon release and Google today uses 100\% green energy. But other smaller companies still do not have the right mastery energy management. 
 
@@ -238,7 +236,6 @@ In 2006, the British mathematician and entrepreneur Clive Humby coined the phras
 	\centering
 	\includegraphics[width=\textwidth]{leading-countries-by-number-of-data-centers-2024.png}
 	\caption{Source Statista\cite{statista_2024}}
-	\label{fig:chor1}
 \end{figure}
 
 Data centers constructed in the past did not take into consideration the environmental considerations. However, as the demand for various products, systems, and activities grew, it became evident that they had a significant carbon footprint. \cite{zhu2023future} concluded:
@@ -406,6 +403,105 @@ In this thesis I tried to include the latest publicly available research or deve
 %Papers and publications used in this thesis are related to electrical engineering, thermal engineering and climate change.
 
 %what is a computation?
+
+%%%%%%%%%%%  chapter4 %%%%%%%%%%%%%%%%%%%%
+
+\chapter{Energy used from servers}
+
+According to a report published by the International Energy Agency\cite{ieaDataCentres} in 2023, data centers worldwide were estimated to consume approximately 1-1.5\% of the world's electricity. While this figure may seem relatively modest, it assumes significance when considering the overall global energy consumption. Additionally, as our reliance on digital services continues to grow and more devices become interconnected, the demand placed on data centers and their energy consumption is expected to increase\cite{schomaker2015energy}. Compounding this issue is the fact that a significant portion of the energy used by data centers still comes from non-renewable sources\cite{ritchie2024energy}.
+
+In areas where coal continues to be the primary source of electricity, the environmental impact of data center operations is particularly significant\cite{finkelman2021future}. Data centers powered by coal emit a disproportionately higher amount of carbon emissions compared to those running on cleaner energy sources. As a result, even though data centers may only account for a small percentage of global energy consumption, their contribution to greenhouse gas emissions raises valid concerns.
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{recalibrating_global_data_center_energy-use_estimates.jpeg}
+	\caption{Recalibrating global data center energy-use estimates\cite{doi:10.1126/science.aba3758}}
+\end{figure}
+
+
+\section{Energy used for running servers}
+
+Servers are the primary powerhouses within data centers. They process vast amounts of data, ensuring  that  our  emails,  cloud  applications,  online games,  and  myriad  other  digital  services function seamlessly\cite{techtargetMajorServer}. Their constant  activity means they're persistently consuming electricity\cite{energyinnovationMuchEnergy}, and this continuous energy draw is a direct contributor to carbon emissions, especially if the electricity source is fossil fuel-based.
+
+The US data centers handled about 300 million Terabyte of data that consumed around 8.3 billion kWh per year in 2016, hence 27.7 kWh per Terabyte with a carbon footprint of approximately 35 kg CO2 per Terabyte
+of data\cite{corbett2018sustainable}.
+
+The energy consumption of switches accounts for approximately 15\% of the IT equipment. A 48-port switch consumes approximately 116–190 watts when fully loaded. As can be seen, reducing energy consumption in DC by adjusting the transfer rate of the switch ports is inefficient. Therefore, improving the ECER potential of DCs through flexible scheduling of switch resources is crucial\cite{ZHU2023104322}.
+
+
+Two cases to consider:
+\subsection{Idle servers}
+In data centers, the servers are not always active, as servers can be idle. Then, the power consumption of the counterparts can be divided into two parts. (1) Baseline power (Pbase), which is the power consumption when the machine is idle, includes the power consumption of the fans, CPU, memory, I/O and other motherboard components in their idle state and is often considered as a fixed value. (2) Active power (Pactive), which is the power consumption due to the workload, depends on the workload of the machine and the way it utilizes CPU, memory and I/O components. Hence, the power model can be expressed as the sum of baseline power and active power. 
+
+\subsection{Backup generators}
+Backup generators play a crucial role in ensuring the operational reliability of data centers. These generators, powered by diesel fuel, are responsible for generating electricity during power outages or routine testing. However, it is important to note that when these generators are activated, they produce direct emissions that can have an impact on the environment. While their operational hours may be limited compared to primary equipment, the combustion of diesel fuel leads to a substantial release of greenhouse gases (GHGs).
+
+\section{Energy used for thermal management}
+
+Historically, data centers have heavily relied on traditional HVAC (Heating, Ventilation, and Air Conditioning) systems to maintain desired temperatures. However, these systems are known for their high energy consumption. The main reason for this is their use of mechanical cooling, which involves compressors and refrigerants that consume significant amounts of energy, sometimes even matching the energy consumption of the servers themselves.
+
+In addition to the energy required to power the servers, a substantial amount of energy is dedicated to cooling them and maintaining optimal operating temperatures. This is necessary because the processors within the servers generate a significant amount of heat during operation. Consequently, server rooms tend to become hot due to the heat produced. To address this challenge, numerous measures have been implemented to effectively manage heat distribution and ensure efficient cooling within data centers.
+
+Operating computing systems for extended periods of time at high temperatures
+greatly reduces reliability, longevity of components and will likely decrease QoS. ASHRAE has in fact now recommended an acceptable operating temperature range of 18° to 27°C (64° to 81°F) to be optimal for system reliability. For environments with low levels of both copper and silver corrosion, the recommended temperature range is between 18° and 21°C (64 to 69.8 °F). However server manufacturer Dell states that the temperature “sweet spot” for their servers is 26.7°C (80°F)\cite{AVTECH}. Expensive IT equipment should not be operated in computer rooms or data centers where the ambient room temperature exceeds 85°F (30°C)\cite{42U_2016}.
+
+It is worth noting that the excessive energy consumption associated with traditional HVAC systems has prompted the exploration and adoption of more sustainable and energy-efficient cooling solutions in modern data centers. These innovative approaches aim to reduce both the environmental impact and operational costs of data center cooling. By employing advanced cooling techniques, such as liquid cooling, airflow optimization, and heat recycling, data centers can achieve greater energy efficiency and minimize their carbon footprint.
+
+Approximately 15–27\% of the energy consumed by DC can be reduced via research and development of advanced cooling technologies, including natural cooling and liquid cooling to achieve sustainability.
+
+
+
+1. Enhancing Natural Ventilation and Thermal Efficiency:
+Designs that prioritize natural ventilation, incorporate thermally conductive materials, and optimize server layout can significantly reduce the reliance on artificial cooling methods. By allowing for the efficient flow of air, these designs promote better airflow management and temperature regulation within data centers. Additionally, utilizing materials with high thermal conductivity helps in dissipating heat more effectively, ensuring that the servers remain at optimum operating temperatures. This combination of natural ventilation and thermally conducive materials creates a more energy-efficient environment within the data center.
+
+2. Utilizing Energy-Efficient Architectural Features:
+Implementing certain architectural nuances can further enhance the energy efficiency of a data center. For instance, roofs painted with reflective coatings help to reduce heat absorption from the sun, minimizing the need for additional cooling. Green roofs, which incorporate vegetation, provide natural insulation and cooling effects, reducing the overall energy demand. Additionally, incorporating thermal buffers such as double-wall constructions can act as a barrier against external temperature fluctuations, maintaining a more stable internal environment. By integrating these features, a data center can inherently become more energy-efficient.
+
+3. Innovative Layout Strategies:
+Hot/cold aisle containment is an effective strategy that involves arranging server racks in a way that consolidates hot exhausts in one direction and cold intakes in another. This segregation ensures that servers do not inadvertently recirculate hot air, thereby making cooling more effective and energy-efficient. By directing the airflow in a controlled manner, hot/cold aisle containment optimizes cooling efficiency and reduces energy wastage.
+
+Another layout strategy being explored is vertical server stacking, as opposed to the traditional horizontal alignment. By stacking servers vertically and strategically placing vents, this configuration takes advantage of the natural physics of heat rising. As hot air naturally moves upward, the vertical arrangement facilitates better heat dissipation, improving overall cooling efficiency.
+
+By implementing these design principles and layout strategies, data centers can significantly reduce their energy consumption, enhance cooling efficiency, and contribute to a more sustainable and environmentally friendly operation.
+
+DCs’ ECER strategies are affected by the differences in geographical location, natural resources and economic basis, and the single energy-saving method is difficult to meet the goal of zero-carbon emission.
+
+
+\subsection{Free cooling}
+There are several types of temperature management methods employed in servers and data centers, with air cooling being the most commonly utilized. Air cooling involves the use of fans that generate airflow to cool down the servers and distribute cold air to the hot components. Another air cooling technology worth mentioning is free cooling, which represents a more recent development in this field.
+
+In the case of free cooling, data centers located in extremely cold regions leverage the ambient temperature to maintain a consistent temperature within the server rooms. By harnessing the naturally low temperatures of their surroundings, these data centers are able to reduce their reliance on traditional cooling mechanisms. This approach not only results in lower energy consumption compared to conventional air cooling, but it also minimizes the environmental impact associated with cooling operations.
+
+However, it is important to note that free cooling has certain limitations, primarily due to its dependence on geographical positioning. Data centers that are situated in warmer climates or regions lacking a sufficiently cold environment may not be able to fully utilize this method. In such cases, alternative cooling techniques or a combination of different approaches may be necessary to ensure optimal temperature management and prevent overheating of the servers and related equipment.
+
+\subsection{Liquid cooling}
+
+Liquid cooling technology transfers heat via a flowing liquid (Evans, 2012), and its cooling capacity is approximately 1000–3000 times that of air, which can reduce energy consumption (Ovaska, Dragseth,\& Hanssen, 2016).
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid_cooling.jpg}
+	\caption{Single-phase submerged liquid cooling, Two-phase submerged liquid cooling.; Source: \cite{li2023china}}
+\end{figure}
+
+Liquid cooling is an advanced temperature management technique that surpasses the efficiency of air cooling. While the majority of current IT equipment is designed for air cooling, liquid cooling offers several notable advantages.
+
+The first liquid cooling technology involves attaching water tubes to metallic materials, enabling the flow of water to facilitate cooling. This method has demonstrated superior performance compared to conventional air cooling methods.
+
+Another liquid cooling approach entails submerging servers entirely in a dielectric liquid. By submerging the components in the dielectric fluid, the cooling efficiency is significantly enhanced. Initial testing has shown promising results, showcasing the potential of this method.
+
+It's important to acknowledge that maintaining a liquid cooling system presents certain challenges. In the case of dielectric cooling, the management of the liquid becomes more complex. To implement dielectric cooling effectively, substantial containers capable of accommodating all the components must be created. Such large-scale implementation is currently limited, with testing primarily conducted on smaller servers.
+
+Despite the potential benefits of liquid cooling, the transition from air cooling to liquid cooling requires careful consideration and adaptation of IT equipment. As technological advancements continue, it is expected that liquid cooling will become more prevalent and feasible for a wider range of applications.
+
+
+Case Studies of Successful Cooling Strategies:
+•Google's  DeepMind  AI  Solution:Google,  with  its  extensive  network  of  data centers, deployed its DeepMind AI to optimise cooling. The AI system analysed data from sensors and  made  real-time  decisions on  cooling  configurations.  The  result?  A  whopping  40\% reduction in cooling-related energy consumption(Google DeepMind, 2016).
+
+Facebook's Swedish Data Centre:Located in Luleå, Sweden, this data centre capitalises on its Arctic location by employing free cooling. The cold external air is used to cool the servers, while any excess heat generated is repurposed to warm office spaces. This approach has drastically curtailed the need for mechanical cooling(Harding, 2015).
+
 
 \blinddocument
 
