@@ -21,13 +21,14 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{57}{figure.caption.31}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{58}{figure.caption.32}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{58}{figure.caption.33}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{59}{figure.caption.34}%
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{60}{figure.caption.35}%
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{61}{figure.caption.36}%
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{61}{figure.caption.37}%
-\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{62}{figure.caption.38}%
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{63}{figure.caption.39}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{59}{figure.caption.31}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{60}{figure.caption.32}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{60}{figure.caption.33}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{61}{figure.caption.34}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{62}{figure.caption.35}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{63}{figure.caption.36}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{63}{figure.caption.37}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{64}{figure.caption.38}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{65}{figure.caption.39}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

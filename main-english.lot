@@ -11,8 +11,9 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces Example Table}}{63}{table.caption.40}%
-\contentsline {table}{\numberline {A.2}{\ignorespaces Example table for 4 constraints (W-Z), each having 4 parameters with (M und SD). Note: use always the same number of decimal places.}}{64}{table.caption.41}%
-\contentsline {table}{\numberline {A.3}{\ignorespaces Table directly generated from the values of a csf file.}}{64}{table.caption.42}%
-\contentsline {table}{\numberline {A.4}{\ignorespaces A sample long table.}}{64}{table.A.4}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Example Table}}{65}{table.caption.40}%
+\contentsline {table}{\numberline {A.2}{\ignorespaces Example table for 4 constraints (W-Z), each having 4 parameters with (M und SD). Note: use always the same number of decimal places.}}{66}{table.caption.41}%
+\contentsline {table}{\numberline {A.3}{\ignorespaces Table directly generated from the values of a csf file.}}{66}{table.caption.42}%
+\contentsline {table}{\numberline {A.4}{\ignorespaces A sample long table.}}{66}{table.A.4}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
