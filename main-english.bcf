@@ -2427,12 +2427,13 @@
     <bcf:citekey order="71" intorder="1">tao2022can</bcf:citekey>
     <bcf:citekey order="72" intorder="1">shahbaz2022impact</bcf:citekey>
     <bcf:citekey order="73" intorder="1">google-datacenters</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">google2020thirddecade</bcf:citekey>
     <bcf:citekey order="75" intorder="1">WSPA</bcf:citekey>
     <bcf:citekey order="76" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">WSPA</bcf:citekey>
     <bcf:citekey order="78" intorder="1">RVvdA2016</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">ApacheODE</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">ApacheODE</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">
