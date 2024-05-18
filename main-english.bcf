@@ -2418,12 +2418,21 @@
     <bcf:citekey order="62" intorder="1">li2023china</bcf:citekey>
     <bcf:citekey order="63" intorder="1">samaye2024energy</bcf:citekey>
     <bcf:citekey order="64" intorder="1">li2023china</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">RVvdA2016</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">RVvdA2016</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">ApacheODE</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">anand2021need</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">fox2009above</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">khanghahi2013cloud</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">6679892</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">alzakholi2020comparison</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">patterson2021carbon</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">tao2022can</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">shahbaz2022impact</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">google-datacenters</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">ApacheODE</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">

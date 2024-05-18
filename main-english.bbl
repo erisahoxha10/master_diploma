@@ -154,6 +154,44 @@
       \endverb
       \keyw{Data centers;Reliability;Data models;Load modeling;Energy consumption;Cooling;Analytical models;Data center;data center design;planning and operation;energy consumption modeling;data center reliability;reliability modeling}
     \endentry
+    \entry{anand2021need}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=05d2336d086cb803316d06d011a28fe8}{%
+           family={Anand},
+           familyi={A\bibinitperiod},
+           given={Abhineet},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3e1c1862c3a44a7094f0bdb210c675d0}{%
+           family={Chaudhary},
+           familyi={C\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9bf5bc003b309b2a0e901b338234a054}{%
+           family={Arvindhan},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0548d49976028de1b4f46d291c11c414}
+      \strng{fullhash}{8f66c18b09f93a587402d0361cdeaec7}
+      \strng{bibnamehash}{8f66c18b09f93a587402d0361cdeaec7}
+      \strng{authorbibnamehash}{8f66c18b09f93a587402d0361cdeaec7}
+      \strng{authornamehash}{0548d49976028de1b4f46d291c11c414}
+      \strng{authorfullhash}{8f66c18b09f93a587402d0361cdeaec7}
+      \field{labelalpha}{ACA21}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Communication and Computational Technology: Select Proceedings of ICACCT 2019}
+      \field{title}{The need for virtualization: when and why virtualization took over physical servers}
+      \field{year}{2021}
+      \field{pages}{1351\bibrangedash 1359}
+      \range{pages}{9}
+    \endentry
     \entry{abas2015review}{article}{}
       \name{author}{3}{}{%
         {{hash=1f17ae0cc81e51561658c0abc225925d}{%
@@ -255,6 +293,55 @@
       \verb{url}
       \verb http://ode.apache.org
       \endverb
+    \endentry
+    \entry{alzakholi2020comparison}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{5}{}{%
+        {{hash=1c564f7b9ec20b4f694196934f043ac5}{%
+           family={Alzakholi},
+           familyi={A\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a7cb518eccbaf1a02cbf2eeb0fed56b8}{%
+           family={Shukur},
+           familyi={S\bibinitperiod},
+           given={Hanan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9defa6fc3b42fe220bc159187f85e90d}{%
+           family={Zebari},
+           familyi={Z\bibinitperiod},
+           given={Rizgar},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fa57e791b732531bc82ba130638cd9a5}{%
+           family={Abas},
+           familyi={A\bibinitperiod},
+           given={Shakir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2dd3c9632d419c66cce6380e2f25e0de}{%
+           family={Sadeeq},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b90703d3f5f37f771a80a9dcf5d5b46}
+      \strng{fullhash}{12f6bfb8b4b5942ac255837931ee790b}
+      \strng{bibnamehash}{12f6bfb8b4b5942ac255837931ee790b}
+      \strng{authorbibnamehash}{12f6bfb8b4b5942ac255837931ee790b}
+      \strng{authornamehash}{4b90703d3f5f37f771a80a9dcf5d5b46}
+      \strng{authorfullhash}{12f6bfb8b4b5942ac255837931ee790b}
+      \field{labelalpha}{ASZ+20}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Science and Technology Trends}
+      \field{number}{1}
+      \field{title}{Comparison among cloud technologies and cloud performance}
+      \field{volume}{1}
+      \field{year}{2020}
+      \field{pages}{40\bibrangedash 47}
+      \range{pages}{8}
     \endentry
     \entry{techtargetMajorServer}{misc}{}
       \name{author}{2}{}{%
@@ -431,6 +518,75 @@
       \field{pages}{430\bibrangedash 439}
       \range{pages}{10}
     \endentry
+    \entry{fox2009above}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{9}{}{%
+        {{hash=3c5b94cecebf3f40a6ad1bfde24c6dd5}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Armando},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0687da4465846445b36b7800c1bb8038}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Rean},
+           giveni={R\bibinitperiod}}}%
+        {{hash=517b081b25cbe596de51a3cc6cb57a92}{%
+           family={Joseph},
+           familyi={J\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=97c841afbd6b1980e626582e11cd5c08}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Randy},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b7e52b880549e6be18423fc89e374185}{%
+           family={Konwinski},
+           familyi={K\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=be4e9543923533735a6b6ab0d3071b46}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gunho},
+           giveni={G\bibinitperiod}}}%
+        {{hash=64f58317379ddd1a24e0e6cba85ae78c}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4fb6cc742d611dd7706e52380e50cd4d}{%
+           family={Rabkin},
+           familyi={R\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=51d9ef26181e2e8a9dc546b401e0bb26}{%
+           family={Stoica},
+           familyi={S\bibinitperiod},
+           given={Ion},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{616b059e9e2d8e5d7febf9d2b1ddfa28}
+      \strng{fullhash}{beec3ab782ef4b6a47cb3685788938f9}
+      \strng{bibnamehash}{beec3ab782ef4b6a47cb3685788938f9}
+      \strng{authorbibnamehash}{beec3ab782ef4b6a47cb3685788938f9}
+      \strng{authornamehash}{616b059e9e2d8e5d7febf9d2b1ddfa28}
+      \strng{authorfullhash}{beec3ab782ef4b6a47cb3685788938f9}
+      \field{labelalpha}{FGJ+09}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dept. Electrical Eng. and Comput. Sciences, University of California, Berkeley, Rep. UCB/EECS}
+      \field{number}{13}
+      \field{title}{Above the clouds: A berkeley view of cloud computing}
+      \field{volume}{28}
+      \field{year}{2009}
+      \field{pages}{2009}
+      \range{pages}{1}
+    \endentry
     \entry{finkelman2021future}{article}{}
       \name{author}{3}{}{%
         {{hash=62715cdffd624b3af62da35ade7b0ee1}{%
@@ -470,6 +626,36 @@
       \field{year}{2021}
       \field{pages}{99\bibrangedash 112}
       \range{pages}{14}
+    \endentry
+    \entry{google-datacenters}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=531728f47c89524d0805ea3cedc9b049}{%
+           family={Hölzle},
+           familyi={H\bibinitperiod},
+           given={Urs},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{531728f47c89524d0805ea3cedc9b049}
+      \strng{fullhash}{531728f47c89524d0805ea3cedc9b049}
+      \strng{bibnamehash}{531728f47c89524d0805ea3cedc9b049}
+      \strng{authorbibnamehash}{531728f47c89524d0805ea3cedc9b049}
+      \strng{authornamehash}{531728f47c89524d0805ea3cedc9b049}
+      \strng{authorfullhash}{531728f47c89524d0805ea3cedc9b049}
+      \field{labelalpha}{Höl20}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Google Blog}
+      \field{month}{2}
+      \field{title}{Data centers are more energy efficient than ever}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://blog.google/outreach-initiatives/sustainability/data-centers-energy-efficient/
+      \endverb
+      \verb{url}
+      \verb https://blog.google/outreach-initiatives/sustainability/data-centers-energy-efficient/
+      \endverb
     \endentry
     \entry{humby2006data}{misc}{}
       \name{author}{1}{}{%
@@ -768,6 +954,77 @@
       \field{pages}{012038}
       \range{pages}{1}
     \endentry
+    \entry{khanghahi2013cloud}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2abbc892763767d0934360db7f6427a5}{%
+           family={Khanghahi},
+           familyi={K\bibinitperiod},
+           given={Niloofar},
+           giveni={N\bibinitperiod}}}%
+        {{hash=08fc16edf8bfc46fdb9aa62d5a9ffd6e}{%
+           family={Ravanmehr},
+           familyi={R\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea0ef44f782141dc44b4140f29978995}
+      \strng{fullhash}{ea0ef44f782141dc44b4140f29978995}
+      \strng{bibnamehash}{ea0ef44f782141dc44b4140f29978995}
+      \strng{authorbibnamehash}{ea0ef44f782141dc44b4140f29978995}
+      \strng{authornamehash}{ea0ef44f782141dc44b4140f29978995}
+      \strng{authorfullhash}{ea0ef44f782141dc44b4140f29978995}
+      \field{labelalpha}{KR13}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comput}
+      \field{number}{1}
+      \field{title}{Cloud computing performance evaluation: issues and challenges}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{29\bibrangedash 41}
+      \range{pages}{13}
+    \endentry
+    \entry{6679892}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c98b8df825976ea7cb8362592da21cc7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+        {{hash=10a8c96046b1a1849108bb216c52a653}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Ziqian},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=80aff662c299d0fb26c41069f8260559}{%
+           family={Rojas-Cessa},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b33d42955f40dca429de9344e3c49a01}
+      \strng{fullhash}{36fb2f1a7f29342d3c4f6e450f20553b}
+      \strng{bibnamehash}{36fb2f1a7f29342d3c4f6e450f20553b}
+      \strng{authorbibnamehash}{36fb2f1a7f29342d3c4f6e450f20553b}
+      \strng{authornamehash}{b33d42955f40dca429de9344e3c49a01}
+      \strng{authorfullhash}{36fb2f1a7f29342d3c4f6e450f20553b}
+      \field{labelalpha}{LDR13}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 IEEE 33rd International Conference on Distributed Computing Systems Workshops}
+      \field{title}{Task Scheduling and Server Provisioning for Energy-Efficient Cloud-Computing Data Centers}
+      \field{year}{2013}
+      \field{pages}{226\bibrangedash 231}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICDCSW.2013.68
+      \endverb
+      \keyw{Servers;Energy consumption;Time factors;Optimization;Data models;Scheduling;Histograms;Cloud computing;Energy;Green data centers;Task Scheduling;Greedy Algorithm;Integer Programming}
+    \endentry
     \entry{li2023china}{article}{}
       \name{author}{9}{}{%
         {{hash=9329c526ce7a2f58316f833464498691}{%
@@ -1003,6 +1260,92 @@
       \verb{url}
       \verb https://ana.blogs.com/maestros/2006/11/data_is_the_new.html
       \endverb
+    \endentry
+    \entry{patterson2021carbon}{article}{}
+      \name{author}{9}{}{%
+        {{hash=64f58317379ddd1a24e0e6cba85ae78c}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fa1b97983892cfef89de6a1b63f97bcc}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=841a83a4bb5e622d6e1bde4818879016}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Quoc},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=8b0338921cb1b7773c2e58d76fd85d2e}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4a0a460f145d999fdf51b3d49b9e5a8a}{%
+           family={Munguia},
+           familyi={M\bibinitperiod},
+           given={Lluis-Miquel},
+           giveni={L\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=15a3cabf7c44e8cbdb8419e4a4c26057}{%
+           family={Rothchild},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=07665baeb96d27e2487ae9b7ff6c48d9}{%
+           family={So},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=095cf8111ecdc58ffb35d96100b43040}{%
+           family={Texier},
+           familyi={T\bibinitperiod},
+           given={Maud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=62f954323339abeba6c6a240e9d2855b}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b3c2b2b185248740d5a9d106250800f}
+      \strng{fullhash}{e2528a6d9a18e142eff20b8dfffdcab2}
+      \strng{bibnamehash}{e2528a6d9a18e142eff20b8dfffdcab2}
+      \strng{authorbibnamehash}{e2528a6d9a18e142eff20b8dfffdcab2}
+      \strng{authornamehash}{8b3c2b2b185248740d5a9d106250800f}
+      \strng{authorfullhash}{e2528a6d9a18e142eff20b8dfffdcab2}
+      \field{labelalpha}{PGL+21}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2104.10350}
+      \field{title}{Carbon emissions and large neural network training}
+      \field{year}{2021}
+    \endentry
+    \entry{google2020thirddecade}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b0361c7c801f2c2503275338dc86d206}{%
+           family={Pichai},
+           familyi={P\bibinitperiod},
+           given={Sundar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0361c7c801f2c2503275338dc86d206}
+      \strng{fullhash}{b0361c7c801f2c2503275338dc86d206}
+      \strng{bibnamehash}{b0361c7c801f2c2503275338dc86d206}
+      \strng{authorbibnamehash}{b0361c7c801f2c2503275338dc86d206}
+      \strng{authornamehash}{b0361c7c801f2c2503275338dc86d206}
+      \strng{authorfullhash}{b0361c7c801f2c2503275338dc86d206}
+      \field{labelalpha}{Pic20}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://blog.google/outreach-initiatives/sustainability/our-third-decade-climate-action-realizing-carbon-free-future/}}
+      \field{title}{Our third decade of climate action: Realizing a carbon-free future}
+      \field{year}{2020}
     \endentry
     \entry{qazi2019towards}{article}{}
       \name{author}{7}{}{%
@@ -1465,6 +1808,94 @@
       \field{journaltitle}{https://www.gartner.com/en/newsroom/press-releases/2024-04-16-gartner-forecast-worldwide-it-spending-to-grow-8-percent-in-2024}
       \field{title}{{G}artner {F}orecasts {W}orldwide {I}{T} {S}pending to {G}row 8\% in 2024}
       \field{year}{2024}
+    \endentry
+    \entry{shahbaz2022impact}{article}{}
+      \name{author}{4}{}{%
+        {{hash=db2790fc4631f5bc313a7a6d27475501}{%
+           family={Shahbaz},
+           familyi={S\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e514c66256a94962c84f3d149bb25179}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jianda},
+           giveni={J\bibinitperiod}}}%
+        {{hash=411b229a1e70f63e9ea277f5d1c93e99}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Kangyin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3313b0fb30c52802abe615a883198713}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{379a10138465ecdfd8859fbb55b8bf54}
+      \strng{fullhash}{d3c8cb318284fd4b216b4c593c2dfc80}
+      \strng{bibnamehash}{d3c8cb318284fd4b216b4c593c2dfc80}
+      \strng{authorbibnamehash}{d3c8cb318284fd4b216b4c593c2dfc80}
+      \strng{authornamehash}{379a10138465ecdfd8859fbb55b8bf54}
+      \strng{authorfullhash}{d3c8cb318284fd4b216b4c593c2dfc80}
+      \field{labelalpha}{SWDZ22}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{The impact of digital economy on energy transition across the globe: The mediating role of government governance}
+      \field{volume}{166}
+      \field{year}{2022}
+      \field{pages}{112620}
+      \range{pages}{1}
+    \endentry
+    \entry{tao2022can}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7b29cc5f01d86d6776ea05347f0fea80}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Ran},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a1fe2c64bae1a8ba3d0986cc3aa748f7}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Chi-Wei},
+           giveni={C\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=5df011dc535f3d3d38ea4fcbc5355f9d}{%
+           family={Naqvi},
+           familyi={N\bibinitperiod},
+           given={Bushra},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7431e6fb36564002af55ddac66ec81c3}{%
+           family={Rizvi},
+           familyi={R\bibinitperiod},
+           given={Syed\bibnamedelimb Kumail\bibnamedelima Abbas},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{66cbc0c1d13bbd29753f9afeb371eb26}
+      \strng{fullhash}{34b07e3bd0366fc1cdba783388df27e0}
+      \strng{bibnamehash}{34b07e3bd0366fc1cdba783388df27e0}
+      \strng{authorbibnamehash}{34b07e3bd0366fc1cdba783388df27e0}
+      \strng{authornamehash}{66cbc0c1d13bbd29753f9afeb371eb26}
+      \strng{authorfullhash}{34b07e3bd0366fc1cdba783388df27e0}
+      \field{labelalpha}{TSNR22}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technological Forecasting and Social Change}
+      \field{title}{Can Fintech development pave the way for a transition towards low-carbon economy: A global perspective}
+      \field{volume}{174}
+      \field{year}{2022}
+      \field{pages}{121278}
+      \range{pages}{1}
     \endentry
     \entry{WSPA}{book}{}
       \name{author}{5}{}{%
