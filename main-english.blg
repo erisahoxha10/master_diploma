@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main-english.blg'
+[149] biber-MSWIN64:340> INFO - === 
+[197] Biber.pm:419> INFO - Reading 'main-english.bcf'
+[357] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
+[385] Biber.pm:4419> INFO - Processing section 0
+[401] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[471] bibtex.pm:1713> INFO - LaTeX decoding ...
+[574] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[672] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[672] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[672] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[672] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[684] bbl.pm:660> INFO - Writing 'main-english.bbl' with encoding 'UTF-8'
+[687] bbl.pm:763> INFO - Output to main-english.bbl
+[687] Biber.pm:131> WARN - Duplicate entry key: 'shahbaz2022impact' in file 'bibliography.bib', skipping ...
+[688] Biber.pm:133> INFO - WARNINGS: 1
