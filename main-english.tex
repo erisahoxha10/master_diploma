@@ -205,11 +205,78 @@
 
 
 \chapter{Introduction}
+\section{Motivation}
+Climate change is one of the hottest topics of this century. GHG contribute the most in heating of the planet. It is estimated that data centers alone cause 3.7\% of all greenhouse emissions, thus exceeding the emissions from commercial flights in 2022. The demands for IT services and technologies have been increasing with the advancements of machine learning, AI, cloud gaming, streaming etc. Data storage is estimated to reach 175ZB in 2025\cite{zhou2021role}. 
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{total_data_traffic_zb.png}
+	\caption{Total Data Traffic Forecast through 2030. Source: “Impact of AI on Electronics and Semiconductor Industries”, IBS, April 2020}
+	\label{fig:chor1}
+\end{figure}
+This growth of data processing and data storage has improved the quality of our life, but at the same time hundreds of MtCO2 are released yearly from this. As of today, USA has the largest number of data centers in the world with more than 2000 sites, thus causing highest carbon footprint per country based. While in the beginning of the century these data centers were not build thinking about their environmental impact, this has seemed to change in the recent years. There have been improvements in the way data centers are build, where they are build and there has been refinement in the hardware used. So the same algorithm can be executed in less power consumption. 
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{datacentermap.jpg}
+	\caption{Data Center distribution worldwide}
+	\label{fig:chor1}
+\end{figure}
+Many institutions have already migrated their services to clouds and decreasing their overall footprint. With big cloud providers like AWS, companies can decide where they want to host their services and can track their environmental effect while the resources are being managed more efficiently.Big companies have advanced in reducing carbon release and Google today uses 100\% green energy. But other smaller companies still do not have the right mastery energy management. 
 
-This thesis starts with \cref{chap:k2}.
+Instructions that that a computer what actions to perform are mainly softwares\cite{Britannica_2024}. Software does not consume energy by itself directly, it directs and influences the operations of hardware, therefore causing carbon emissions. In a survey committed by programmers, only 18\% of them stated that they build these programs with efficiency in mind. Considerable work has been done in the development of software with sustainability at its core, thanks to the advancements made in Software Engineering for Sustainability (SE4S). Nevertheless, since this is a relatively new field of study, there is still a significant amount of work to be carried out in this area.
 
-We can also typeset \verb|<text>verbatim text</text>|.
-Backticks are also rendered correctly: \verb|`words in backticks`|.
+
+%It will therefore be important to address sustainability holistically across the various components of total lifecycle exergy.
+%softwares are not optimized
+IT in some way has improved our lives in terms of: Life Satisfaction (Trust and Safety), Mobility (Culture and Sports), Integration (Sustainability) and Public Services\cite{nevado2019improving}. Now we can attend a company meeting from the comfort of our own homes instead of commuting to office and therefore lowering overall carbon release. Also there exist data centers that are just tackling the CO2 release itself. So, IT has done more good in terms of carbon emissions, but with the newest researches, the situation can be improved a lot still in terms of electricity production, space and thermal management. GeSISmarter report from 2020 stated the that greenhouse gas emissions can be reduced by 16.5\% (9.1GtCO2) with effective use of IT\cite{cosar2019carbon}. 
+
+
+\section{Problem statement}
+
+In 2006, the British mathematician and entrepreneur Clive Humby coined the phrase “Data is the new oil” \cite{humby2006data}. Michael Palmer expanded on Humby's quote by saying, "like oil, data is valuable, but if unrefined it cannot really be used [Oil] has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so, data must be broken down and analyzed for it to have value”\cite{palmer2006}. As of March 2024 there are currently 10593 data centers worldwide with US leading this with 5381 data centers\cite{data_centers_2024}. 
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{leading-countries-by-number-of-data-centers-2024.png}
+	\caption{Source Statista\cite{statista_2024}}
+	\label{fig:chor1}
+\end{figure}
+
+Data centers constructed in the past did not take into consideration the environmental considerations. However, as the demand for various products, systems, and activities grew, it became evident that they had a significant carbon footprint. \cite{zhu2023future} concluded:
+\begin{enumerate}
+	\item Approximately 20–40\% of the energy consumed by DC can be reduced by optimizing IT equipment, including server layout adjustment, virtualization technology, and storage equipment improvement.
+	\item Approximately 15–27\% of the energy consumed by DC can be reduced via research and development of advanced cooling technologies, including natural cooling and liquid cooling to achieve sustainability.
+	\item DCs' ECER strategies are affected by the differences in geographical location, natural resources and economic basis, and the single energy-saving method is difficult to meet the goal of zero-carbon emission.
+	\item The key challenges and potential opportunities in the future decarbonization path of DCs are summarized from the perspectives of policy reform, technological innovation, and resource diversification and management, which is great significance to the realization of zero-carbon DCs and the sustainable development of human society.
+\end{enumerate}
+
+
+% too many existing data centers
+% many new data centers are being build
+% large contribution in overall worldwide footprint
+% resources should be better managed
+% high demand of machine learning, ai, machine learning, video streaming and blockchain
+% to produce energy we can use renewable energy resources
+% cooling can also be guaranteed from different meas
+
+\section{Structure}
+
+In the following, the structure is outlines as follows:
+
+
+\begin{itemize}
+	\item Chapter 2 is the background of this all this and has three subpoints: Energy, Greenhouse Gases and Data Centers
+	\item Chapter 3 is the Study Design along where I included my research questions and the methodology in my research used to find answers for those questions
+	\item Chapter 4 is about all about Energy. In this chapter I studied separately the energy used for running servers and energy used for cooling
+	\item Chapter 5 is the hardware footprint of data centers in years
+	\item Chapter 6 is about Cloud and Virtualization and answers the research question 4
+	\item Chapter 7 is about Energy saved from data centers and clouds and the concept of Carbon-Free Energy Data centers
+	\item Chapter 8 - here there are the conclusions from my my research 
+\end{itemize}
+
+%This thesis starts with \cref{chap:k2}.
+
+%We can also typeset \verb|<text>verbatim text</text>|.
+%Backticks are also rendered correctly: \verb|`words in backticks`|.
 
 \chapter{Chapter Two}
 \label{chap:k2}
