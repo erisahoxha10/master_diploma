@@ -1019,6 +1019,29 @@
       \field{pages}{213\bibrangedash 215}
       \range{pages}{3}
     \endentry
+    \entry{Gartner2024}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e15398339966e40092bb9411fa5c6589}{%
+           family={STAMFORD},
+           familyi={S\bibinitperiod},
+           given={Conn.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e15398339966e40092bb9411fa5c6589}
+      \strng{fullhash}{e15398339966e40092bb9411fa5c6589}
+      \strng{bibnamehash}{e15398339966e40092bb9411fa5c6589}
+      \strng{authorbibnamehash}{e15398339966e40092bb9411fa5c6589}
+      \strng{authornamehash}{e15398339966e40092bb9411fa5c6589}
+      \strng{authorfullhash}{e15398339966e40092bb9411fa5c6589}
+      \field{labelalpha}{STA24}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{https://www.gartner.com/en/newsroom/press-releases/2024-04-16-gartner-forecast-worldwide-it-spending-to-grow-8-percent-in-2024}
+      \field{title}{{G}artner {F}orecasts {W}orldwide {I}{T} {S}pending to {G}row 8\% in 2024}
+      \field{year}{2024}
+    \endentry
     \entry{WSPA}{book}{}
       \name{author}{5}{}{%
         {{hash=ad25b96bff24b15f8bc4c35beab635c7}{%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  18 MAY 2024 18:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  18 MAY 2024 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3138,7 +3138,7 @@ e 361.
  [25] [26 <./graphics//data_center_structure.jpg>]
 chapter 3.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 11.28003pt on input line 365.
+(Font)              scaled to size 11.28003pt on input line 368.
 [27
 
 
@@ -3158,26 +3158,26 @@ chapter 5.
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 376.
+(Font)              scaled to size 10.95pt on input line 379.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 37
-6.
+9.
 (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 376.
+(Font)              scaled to size 9.85492pt on input line 379.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 376.
+(Font)              scaled to size 10.95pt on input line 379.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 376.
+(Font)              scaled to size 10.95pt on input line 379.
 
 [35{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
 pc.enc}{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i
 4-t1-1.enc}]
-Underfull \hbox (badness 1939) in paragraph at lines 377--377
+Underfull \hbox (badness 1939) in paragraph at lines 380--380
 []\T1/ntxtlf/m/n/10.95 (+20) H. Ritchie, P. Rosado. ^^P  Fos-sil fu-els^^Q. In:
  \T1/ntxtlf/m/it/10.95 (+20) Our World in Data \T1/ntxtlf/m/n/10.95 (+20) (2017
 ).
@@ -3464,7 +3464,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-<graphics//choreography.pdf, id=647, 588.1442pt x 377.82657pt>
+<graphics//choreography.pdf, id=649, 588.1442pt x 377.82657pt>
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 218.
@@ -3633,19 +3633,26 @@ L3 programming layer <2020/03/25>
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main-english.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main-english.run.xml'.
 \openout1 = `main-english.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 89654 strings out of 474485
- 2076439 string characters out of 5745150
- 3299061 words of memory out of 5000000
- 109906 multiletter control sequences out of 15000+600000
+ 89658 strings out of 474485
+ 2076588 string characters out of 5745150
+ 3299791 words of memory out of 5000000
+ 109909 multiletter control sequences out of 15000+600000
  698468 words of font info for 330 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  126i,21n,197p,10923b,3482s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3667,9 +3674,9 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (55 pages, 1687865 bytes).
+Output written on main-english.pdf (55 pages, 1689066 bytes).
 PDF statistics:
- 999 PDF objects out of 1000 (max. 8388607)
- 249 named destinations out of 1000 (max. 500000)
+ 1001 PDF objects out of 1200 (max. 8388607)
+ 250 named destinations out of 1000 (max. 500000)
  111033 words of extra memory for PDF output out of 128383 (max. 10000000)
 

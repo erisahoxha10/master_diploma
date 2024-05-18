@@ -2401,12 +2401,13 @@
     <bcf:citekey order="43" intorder="1">ZHU2023104322</bcf:citekey>
     <bcf:citekey order="44" intorder="1">ZHU2023104322</bcf:citekey>
     <bcf:citekey order="45" intorder="1">ZHU2023104322</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">Gartner2024</bcf:citekey>
     <bcf:citekey order="47" intorder="1">WSPA</bcf:citekey>
     <bcf:citekey order="48" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">WSPA</bcf:citekey>
     <bcf:citekey order="50" intorder="1">RVvdA2016</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">ApacheODE</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">ApacheODE</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">
