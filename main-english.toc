@@ -7,41 +7,44 @@
 \contentsline {section}{\numberline {2.1}Energy}{21}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Greenhouse gases}{23}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Data centers}{25}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Heading on Level\xspace 0 (chapter)}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Heading on Level\xspace 1 (section)}{27}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Heading on Level\xspace 2 (subsection)}{27}{subsection.3.1.1}%
-\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{27}{subsubsection*.17}%
-\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{28}{paragraph*.19}%
-\contentsline {section}{\numberline {3.2}Lists}{28}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Example for list\xspace (itemize)}{28}{subsection.3.2.1}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{28}{subsubsection*.21}%
-\contentsline {subsection}{\numberline {3.2.2}Example for list\xspace (enumerate)}{29}{subsection.3.2.2}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{29}{subsubsection*.23}%
-\contentsline {subsection}{\numberline {3.2.3}Example for list\xspace (description)}{29}{subsection.3.2.3}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{30}{subsubsection*.25}%
-\contentsline {chapter}{\numberline {4}Related Work}{31}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusion and Outlook}{33}{chapter.5}%
-\contentsline {chapter}{\nonumberline Bibliography}{35}{chapter*.27}%
-\contentsline {chapter}{\numberline {A}LaTeX Hints}{39}{appendix.A}%
-\contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{39}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Citations}{39}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Formulas and Equations}{40}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Sourcecode}{41}{section.A.4}%
-\contentsline {section}{\numberline {A.5}Pseudocode}{42}{section.A.5}%
-\contentsline {section}{\numberline {A.6}Figures}{43}{section.A.6}%
-\contentsline {section}{\numberline {A.7}More Illustrations}{43}{section.A.7}%
-\contentsline {section}{\numberline {A.8}Plots with pgfplots}{47}{section.A.8}%
-\contentsline {section}{\numberline {A.9}Figures with tikz}{47}{section.A.9}%
-\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{48}{section.A.10}%
-\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{48}{section.A.11}%
-\contentsline {section}{\numberline {A.12}Linguistic Forests}{48}{section.A.12}%
-\contentsline {section}{\numberline {A.13}Tables}{48}{section.A.13}%
-\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{48}{subsection.A.13.1}%
-\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{50}{section.A.14}%
-\contentsline {section}{\numberline {A.15}Abbreviations}{52}{section.A.15}%
-\contentsline {section}{\numberline {A.16}References}{53}{section.A.16}%
-\contentsline {section}{\numberline {A.17}Definitions}{53}{section.A.17}%
-\contentsline {section}{\numberline {A.18}Footnotes}{53}{section.A.18}%
-\contentsline {section}{\numberline {A.19}Various Things}{53}{section.A.19}%
-\contentsline {section}{\numberline {A.20}Closing remarks}{54}{section.A.20}%
+\contentsline {chapter}{\numberline {3}Study design}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research questions}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methodology}{27}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Heading on Level\xspace 0 (chapter)}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Heading on Level\xspace 1 (section)}{29}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Heading on Level\xspace 2 (subsection)}{29}{subsection.4.1.1}%
+\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{29}{subsubsection*.17}%
+\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{30}{paragraph*.19}%
+\contentsline {section}{\numberline {4.2}Lists}{30}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Example for list\xspace (itemize)}{30}{subsection.4.2.1}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{30}{subsubsection*.21}%
+\contentsline {subsection}{\numberline {4.2.2}Example for list\xspace (enumerate)}{31}{subsection.4.2.2}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{31}{subsubsection*.23}%
+\contentsline {subsection}{\numberline {4.2.3}Example for list\xspace (description)}{31}{subsection.4.2.3}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{32}{subsubsection*.25}%
+\contentsline {chapter}{\numberline {5}Related Work}{33}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion and Outlook}{35}{chapter.6}%
+\contentsline {chapter}{\nonumberline Bibliography}{37}{chapter*.27}%
+\contentsline {chapter}{\numberline {A}LaTeX Hints}{41}{appendix.A}%
+\contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{41}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Citations}{41}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Formulas and Equations}{42}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Sourcecode}{43}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Pseudocode}{44}{section.A.5}%
+\contentsline {section}{\numberline {A.6}Figures}{45}{section.A.6}%
+\contentsline {section}{\numberline {A.7}More Illustrations}{45}{section.A.7}%
+\contentsline {section}{\numberline {A.8}Plots with pgfplots}{49}{section.A.8}%
+\contentsline {section}{\numberline {A.9}Figures with tikz}{49}{section.A.9}%
+\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{50}{section.A.10}%
+\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{50}{section.A.11}%
+\contentsline {section}{\numberline {A.12}Linguistic Forests}{50}{section.A.12}%
+\contentsline {section}{\numberline {A.13}Tables}{50}{section.A.13}%
+\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{50}{subsection.A.13.1}%
+\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{52}{section.A.14}%
+\contentsline {section}{\numberline {A.15}Abbreviations}{54}{section.A.15}%
+\contentsline {section}{\numberline {A.16}References}{55}{section.A.16}%
+\contentsline {section}{\numberline {A.17}Definitions}{55}{section.A.17}%
+\contentsline {section}{\numberline {A.18}Footnotes}{55}{section.A.18}%
+\contentsline {section}{\numberline {A.19}Various Things}{55}{section.A.19}%
+\contentsline {section}{\numberline {A.20}Closing remarks}{56}{section.A.20}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
