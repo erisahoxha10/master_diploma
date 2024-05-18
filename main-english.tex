@@ -232,7 +232,7 @@ IT in some way has improved our lives in terms of: Life Satisfaction (Trust and 
 
 \section{Problem statement}
 
-In 2006, the British mathematician and entrepreneur Clive Humby coined the phrase “Data is the new oil” \cite{humby2006data}. Michael Palmer expanded on Humby's quote by saying, "like oil, data is valuable, but if unrefined it cannot really be used [Oil] has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so, data must be broken down and analyzed for it to have value”\cite{palmer2006}. As of March 2024 there are currently 10593 data centers worldwide with US leading this with 5381 data centers\cite{data_centers_2024}. 
+In 2006, the British mathematician and entrepreneur Clive Humby coined the phrase “Data is the new oil” \cite{humby2006data}. Michael Palmer expanded on Humby's quote by saying, "like oil, data is valuable, but if unrefined it cannot really be used [Oil] has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so, data must be broken down and analyzed for it to have value”\cite{palmer2006}. As of March 2024 there are currently 10593 data centers worldwide with US leading this with 5381 data centers\cite{statista_2024}. 
 
 \begin{figure}
 	\centering
@@ -278,10 +278,89 @@ In the following, the structure is outlines as follows:
 %We can also typeset \verb|<text>verbatim text</text>|.
 %Backticks are also rendered correctly: \verb|`words in backticks`|.
 
-\chapter{Chapter Two}
-\label{chap:k2}
+\chapter{Background}
 
-LaTeX hints are provided in \cref{chap:latexhints}.
+We start with providing insights into relevant background knowledge of this thesis. The relevant topics include: "data center", "data center carbon footprint", "data center energy consumption", "data center sustainability", "cloud efficiency", " energy conservation" and " emission reduction technology", " server thermal management", "cooling in data centers", "liquid cooling". 
+
+
+\section{Energy}
+The energy consumption of servers serves as the fundamental metric for assessing power and heat flow within data centers. In these environments, the interplay between IT equipment and cooling systems is tightly intertwined due to thermal considerations. In the context of China, data centers have reached a notable level of energy consumption, with their combined usage ranging between 120 and 130 billion kWh. This accounts for approximately 2\% of the total electricity consumption in the country. Similarly, in 2014, data centers in the United States consumed an estimated 70 billion kWh, representing roughly 1.8\% of the nation's overall electricity usage.\cite{JIN2020114806}. 
+
+
+The data center's energy consumption primarily stems from two main components: IT equipment and cooling equipment, which collectively account for approximately 90\% of the total energy usage\cite{JIN2020114806}. Figure 2.2 provides an illustration of the dynamics of energy and air flows within a data center. This visual representation offers valuable insights into the aspects of data center operations and highlights the interplay between energy consumption and airflow management. IT equipment, including servers, storage devices, and networking infrastructure, represents a significant portion of the energy consumed within a data center. These electronic devices require power to operate efficiently and process the vast amounts of data they handle. The energy consumed by IT equipment is influenced by factors such as the number of devices, their processing power, and their utilization rates\cite{von2016variations}. Additionally, cooling equipment plays a crucial role in maintaining optimal operating conditions within the data center environment. As IT equipment generates heat during operation, cooling systems, such as air conditioning units and precision cooling systems, are employed to regulate temperatures and prevent overheating. The energy consumed by cooling equipment is necessary to ensure the reliability and performance of the IT infrastructure\cite{rong2016optimizing}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{pie_chart_energy_draw.png}
+	\caption{Analysis of a typical 465 m2 data center, Source Emerson Network power\cite{emerson2015}}
+\end{figure}
+
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{energy_management.jpg}
+	\caption{The power flow and heat flow in general data centers \cite{JIN2020114806}}
+\end{figure}
+%\includegraphics{graphics/energy_management.jpg}
+
+Energy can be generated from various sources. Some of the most common methods of energy generation:
+
+Fossil Fuels: Fossil fuels such as coal, oil, and natural gas are burned to produce heat, which is then used to generate electricity. This process is commonly used in power plants\cite{owid-fossil-fuels}.
+
+Nuclear Energy: Nuclear power plants use a process called nuclear fission to generate heat. The heat produced by splitting atoms is used to create steam, which drives turbines and generates electricity\cite{ritchie2023nuclear}.
+
+Renewable Sources: Renewable energy sources include solar, wind, hydroelectric, geothermal, and biomass. Solar energy is generated by converting sunlight into electricity using photovoltaic cells. Wind energy is harnessed by wind turbines that convert the kinetic energy of the wind into electricity. Hydroelectric power is generated by capturing the energy of flowing or falling water. Geothermal energy utilizes the heat from the Earth's interior to generate electricity. Biomass energy is produced by burning organic matter such as wood, agricultural crops, or waste materials\cite{owid-renewable-energy}.
+
+Hydropower: Hydropower is a specific type of renewable energy that generates electricity through the force or energy of moving water, such as rivers or waterfalls. It involves the use of dams or flow-through turbines to convert the kinetic energy of moving water into electrical energy\cite{sipahutar2013renewable}.
+
+Tidal and Wave Energy: Tidal energy is generated by harnessing the power of ocean tides, while wave energy is generated by capturing the energy of ocean waves. Both methods involve specialized technologies to convert the mechanical energy of water into electricity\cite{khan2017review}.
+
+Fuel Cells: Fuel cells generate electricity through an electrochemical process, usually by combining hydrogen with oxygen to produce water and electricity. Fuel cells can use hydrogen derived from various sources, including natural gas, biomass, or renewable energy\cite{mekhilef2012comparative}.
+
+It's important to note that the availability and utilization of different energy sources can vary depending on factors such as geographical location, technological advancements, and economic considerations\cite{firozjaei2020effect}\cite{kryzia2019dampening}\cite{abas2015review}. The transition toward renewable and sustainable energy sources is gaining momentum globally due to concerns about climate change and the finite nature of fossil fuel resources\cite{qazi2019towards}.
+
+\section{Greenhouse gases}
+United Nations Climate Change Conference (COP26) held in Glasgow reached an agreement to ensure global net zero emissions by mid-century and to reduce global emissions by 45\% by 2030\cite{Arora_Mishra_2021}. 
+
+
+Greenhouse gases are gases in the atmosphere that absorb and emit radiation within the thermal infrared range. This process is the fundamental cause of the greenhouse effect. Carbon dioxide (chemical formula CO2) is an important greenhouse gas, which contributes 9\%–26\% of the greenhouse effect. 
+
+The greenhouse gasses included in CO2e calculations are\cite{dioxide2017overview}:
+\begin{itemize}
+	\item Carbon dioxide (CO2)
+	\item Nitrous oxide (N2O)
+	\item Methane (CH4)
+	\item Fluorinated Gases
+\end{itemize}
+
+A data center consumes significant amount of power and a mass of greenhouse gas is produced in the process of power generation. According to US Energy Information Administration\cite{US2023}, about 0.86 pounds (0.39 kg) of CO2 is released per kWh. Below is the descriptive map greenhouse emissions for each country. 
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{total-ghg-emissions.png}
+	\caption{Greenhouse gas emissions, 2022 \cite{owid-co2-and-greenhouse-gas-emissions}}
+\end{figure}
+
+
+Measuring CO2 emissions from data center computing presents challenges due to the intricate nature of data center infrastructure and the various factors that influence CO2 production, including data center efficiency and energy sources used\cite{wang2013review}. \cite{review_data_center_2021} estimated that 720 million tons of CO2 emissions will be released by data centers only in 2030. The amount of CO2 generated by data centers is influenced by multiple factors, with data center efficiency and energy sources being key variables. These variables can vary significantly across different data centers, making it difficult to accurately measure CO2 emissions. Additionally, data centers are complex environments with shared infrastructure utilized by multiple users and managed support systems, further complicating the precise calculation of CO2 emissions attributed to individual applications, users, or computing servers.
+
+\section{Data centers}
+
+%\includegraphics{graphics/datacentermap.jpg}
+A data center is a physical room, building or facility that houses IT infrastructure for building, running, and delivering applications and services, and for storing and managing the data associated with those applications and services\cite{ibmWhatData}.
+
+
+In Figure 2.4, we can observe the hierarchical structure of the data center (DC), which is divided into three distinct layers. Starting from the top layer, we find the core switches responsible for receiving data service instructions and transmitting them to the front-end servers through the network. Moving down to the middle layer, we encounter the aggregation switches, which serve as the connection point between the top and bottom layers. Their primary function is to facilitate the consolidation of data from various sources. Finally, at the base layer, we have the front-end and back-end servers. The front-end servers handle user instructions and requests, while the back-end servers allocate storage nodes\cite{ZHU2023104322}.
+
+The main objective of the DC is to effectively integrate and centralize network and storage resources using virtualization technology. This integration allows for efficient data processing. Additionally, the DC employs network node virtual functions to monitor, manage, and oversee the performance of individual nodes within the network. By leveraging these technologies, the DC is able to streamline operations and optimize resource allocation for enhanced performance\cite{ZHU2023104322}.
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{data_center_structure.jpg}
+	\caption{Diagrammatic representation of the DC's overall structure\cite{ZHU2023104322}}
+\end{figure}
 
 \blinddocument
 
