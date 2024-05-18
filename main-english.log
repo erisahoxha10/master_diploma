@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  18 MAY 2024 19:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  18 MAY 2024 19:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2974,9 +2974,9 @@ enc}]
 
 ]
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 19.49565pt on input line 117.
+(Font)              scaled to size 19.49565pt on input line 118.
 Package tocbasic Info: character protrusion at toc deactivated on input line 11
-7.
+8.
  (main-english.toc
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
 e 3.
@@ -3016,7 +3016,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/6.1'
 ])
 [6]
 Package tocbasic Info: character protrusion at lof deactivated on input line 12
-3.
+4.
  (main-english.lof) [7
 
 
@@ -3026,19 +3026,19 @@ c}] [8
 
 ]
 Package tocbasic Info: character protrusion at lot deactivated on input line 12
-4.
+5.
  (main-english.lot) [9] [10
 
 
 ]
 Package tocbasic Info: character protrusion at code deactivated on input line 1
-32.
+33.
  (main-english.code) [11] [12
 
 
 ]
 Package tocbasic Info: character protrusion at alg deactivated on input line 14
-0.
+1.
  (main-english.alg)
 Using TeX to sort glossary entries---this may take a while
 [13] [14
@@ -3056,14 +3056,14 @@ chapter 1.
 File: graphics//total_data_traffic_zb.png Graphic file (type png)
 <use graphics//total_data_traffic_zb.png>
 Package pdftex.def Info: graphics//total_data_traffic_zb.png  used on input lin
-e 212.
+e 213.
 (pdftex.def)             Requested size: 426.79135pt x 213.75621pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 213.
+(Font)              scaled to size 10.95pt on input line 214.
 <graphics//datacentermap.jpg, id=338, 520.94624pt x 274.626pt>
 File: graphics//datacentermap.jpg Graphic file (type jpg)
 <use graphics//datacentermap.jpg>
-Package pdftex.def Info: graphics//datacentermap.jpg  used on input line 218.
+Package pdftex.def Info: graphics//datacentermap.jpg  used on input line 219.
 (pdftex.def)             Requested size: 426.79135pt x 224.99362pt.
 [17 <./graphics//total_data_traffic_zb.png>]
 <graphics//leading-countries-by-number-of-data-centers-2024.png, id=352, 1003.7
@@ -3072,16 +3072,16 @@ File: graphics//leading-countries-by-number-of-data-centers-2024.png Graphic fi
 le (type png)
 <use graphics//leading-countries-by-number-of-data-centers-2024.png>
 Package pdftex.def Info: graphics//leading-countries-by-number-of-data-centers-
-2024.png  used on input line 237.
+2024.png  used on input line 238.
 (pdftex.def)             Requested size: 426.79135pt x 611.17026pt.
  [18 <./graphics//datacentermap.jpg>]
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
-e 264.
+e 265.
  (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 264.
+(Font)              scaled to size 10.95pt on input line 265.
 
 [19{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.en
 c}] [20 <./graphics//leading-countries-by-number-of-data-centers-2024.png>]
@@ -3090,13 +3090,13 @@ chapter 2.
 File: graphics//pie_chart_energy_draw.png Graphic file (type png)
 <use graphics//pie_chart_energy_draw.png>
 Package pdftex.def Info: graphics//pie_chart_energy_draw.png  used on input lin
-e 291.
+e 292.
 (pdftex.def)             Requested size: 426.79135pt x 249.39851pt.
 <graphics//energy_management.jpg, id=389, 374.09235pt x 305.05548pt>
 File: graphics//energy_management.jpg Graphic file (type jpg)
 <use graphics//energy_management.jpg>
-Package pdftex.def Info: graphics//energy_management.jpg  used on input line 29
-9.
+Package pdftex.def Info: graphics//energy_management.jpg  used on input line 30
+0.
 (pdftex.def)             Requested size: 426.79135pt x 348.05545pt.
 [21
 
@@ -3106,7 +3106,7 @@ Package pdftex.def Info: graphics//energy_management.jpg  used on input line 29
 File: graphics//total-ghg-emissions.png Graphic file (type png)
 <use graphics//total-ghg-emissions.png>
 Package pdftex.def Info: graphics//total-ghg-emissions.png  used on input line 
-338.
+339.
 (pdftex.def)             Requested size: 426.79135pt x 425.6193pt.
  [23 <./graphics//energy_management.jpg>] [24 <./graphics//total-ghg-emissions.
 png>]
@@ -3114,7 +3114,7 @@ png>]
 File: graphics//data_center_structure.jpg Graphic file (type jpg)
 <use graphics//data_center_structure.jpg>
 Package pdftex.def Info: graphics//data_center_structure.jpg  used on input lin
-e 358.
+e 359.
 (pdftex.def)             Requested size: 426.79135pt x 320.27092pt.
  [25] [26 <./graphics//data_center_structure.jpg>]
 chapter 3.
@@ -3132,11 +3132,11 @@ File: graphics//recalibrating_global_data_center_energy-use_estimates.jpeg Grap
 hic file (type jpg)
 <use graphics//recalibrating_global_data_center_energy-use_estimates.jpeg>
 Package pdftex.def Info: graphics//recalibrating_global_data_center_energy-use_
-estimates.jpeg  used on input line 418.
+estimates.jpeg  used on input line 419.
 (pdftex.def)             Requested size: 426.79135pt x 170.71548pt.
 [29 <./graphics//recalibrating_global_data_center_energy-use_estimates.jpeg>]
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 11.28003pt on input line 434.
+(Font)              scaled to size 11.28003pt on input line 435.
 
 [30] [31]
 <graphics//Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid_cool
@@ -3146,7 +3146,7 @@ _cooling.jpg Graphic file (type jpg)
 <use graphics//Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid_
 cooling.jpg>
 Package pdftex.def Info: graphics//Single-phase_submerged_liquid_coolingTwo-pha
-se_submerged_liquid_cooling.jpg  used on input line 485.
+se_submerged_liquid_cooling.jpg  used on input line 486.
 (pdftex.def)             Requested size: 426.79135pt x 180.52098pt.
  [32] [33 <./graphics//Single-phase_submerged_liquid_coolingTwo-phase_submerged
 _liquid_cooling.jpg>] [34
@@ -3170,26 +3170,26 @@ chapter 7.
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 517.
+(Font)              scaled to size 10.95pt on input line 518.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 517.
+(Font)              scaled to size 10.95pt on input line 518.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 51
-7.
+8.
 (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 517.
+(Font)              scaled to size 9.85492pt on input line 518.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 517.
+(Font)              scaled to size 10.95pt on input line 518.
 
 [43{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
 pc.enc}{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i
 4-t1-1.enc}] [44]
-Underfull \hbox (badness 1939) in paragraph at lines 518--518
+Underfull \hbox (badness 1939) in paragraph at lines 519--519
 []\T1/ntxtlf/m/n/10.95 (+20) H. Ritchie, P. Rosado. ^^P  Fos-sil fu-els^^Q. In:
  \T1/ntxtlf/m/it/10.95 (+20) Our World in Data \T1/ntxtlf/m/n/10.95 (+20) (2017
 ).
@@ -3652,7 +3652,7 @@ Package logreq Info: Writing requests to 'main-english.run.xml'.
 Here is how much of TeX's memory you used:
  89785 strings out of 474485
  2080980 string characters out of 5745150
- 3314347 words of memory out of 5000000
+ 3315347 words of memory out of 5000000
  109979 multiletter control sequences out of 15000+600000
  699408 words of font info for 343 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -3675,7 +3675,7 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (63 pages, 2169740 bytes).
+Output written on main-english.pdf (63 pages, 2171170 bytes).
 PDF statistics:
  1145 PDF objects out of 1200 (max. 8388607)
  281 named destinations out of 1000 (max. 500000)
