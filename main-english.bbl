@@ -1406,6 +1406,43 @@
       \field{pages}{113\bibrangedash 124}
       \range{pages}{12}
     \endentry
+    \entry{samaye2024energy}{article}{}
+      \name{author}{4}{}{%
+        {{hash=80c267ddcebc407e2ffd4ab3004ed039}{%
+           family={Samaye},
+           familyi={S\bibinitperiod},
+           given={Ismael},
+           giveni={I\bibinitperiod}}}%
+        {{hash=00f9e1a7861147f81a0c5e7036cc1cc3}{%
+           family={Leloup},
+           familyi={L\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=49a86ec306cd94dd0eff3e64ceb011a6}{%
+           family={Sassatelli},
+           familyi={S\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a2ed5ae52aa9876108fc44d03e5df747}{%
+           family={Gamatié},
+           familyi={G\bibinitperiod},
+           given={Abdoulaye},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{28e0faa46cd23fd7c2265210e23a4a0a}
+      \strng{fullhash}{53f7d120cb678c094a25f2c75bf4536f}
+      \strng{bibnamehash}{53f7d120cb678c094a25f2c75bf4536f}
+      \strng{authorbibnamehash}{53f7d120cb678c094a25f2c75bf4536f}
+      \strng{authornamehash}{28e0faa46cd23fd7c2265210e23a4a0a}
+      \strng{authorfullhash}{53f7d120cb678c094a25f2c75bf4536f}
+      \field{labelalpha}{SLSG24}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Energy-efficient Hardware Reuse for Sustainable Data Centres}
+      \field{year}{2024}
+    \endentry
     \entry{Gartner2024}{article}{}
       \name{author}{1}{}{%
         {{hash=e15398339966e40092bb9411fa5c6589}{%
