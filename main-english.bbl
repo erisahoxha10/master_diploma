@@ -138,9 +138,11 @@
       \strng{authorbibnamehash}{6f797adfa8f7e19fcd0b2bd4e0eb546a}
       \strng{authornamehash}{2f8d5b3525397fd3e7e17d3ba5597ddd}
       \strng{authorfullhash}{6f797adfa8f7e19fcd0b2bd4e0eb546a}
+      \field{extraname}{1}
       \field{labelalpha}{ABA21}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{1}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
@@ -153,6 +155,47 @@
       \verb 10.1109/ACCESS.2021.3125092
       \endverb
       \keyw{Data centers;Reliability;Data models;Load modeling;Energy consumption;Cooling;Analytical models;Data center;data center design;planning and operation;energy consumption modeling;data center reliability;reliability modeling}
+    \endentry
+    \entry{ahmed2021review}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4374935eb47bf48a9e6dc706209be02c}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Kazi\bibnamedelimb Main\bibnamedelima Uddin},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=bf3b0f7fb2c2e76e9103d30ac87c2887}{%
+           family={Bollen},
+           familyi={B\bibinitperiod},
+           given={Math\bibnamedelima HJ},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c82b84fa15d1547e4ebe6d6a58067d6e}{%
+           family={Alvarez},
+           familyi={A\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2f8d5b3525397fd3e7e17d3ba5597ddd}
+      \strng{fullhash}{6f797adfa8f7e19fcd0b2bd4e0eb546a}
+      \strng{bibnamehash}{6f797adfa8f7e19fcd0b2bd4e0eb546a}
+      \strng{authorbibnamehash}{6f797adfa8f7e19fcd0b2bd4e0eb546a}
+      \strng{authornamehash}{2f8d5b3525397fd3e7e17d3ba5597ddd}
+      \strng{authorfullhash}{6f797adfa8f7e19fcd0b2bd4e0eb546a}
+      \field{extraname}{2}
+      \field{labelalpha}{ABA21}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{A review of data centers energy consumption and reliability modeling}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{152536\bibrangedash 152563}
+      \range{pages}{28}
     \endentry
     \entry{anand2021need}{inproceedings}{}
       \name{author}{3}{}{%
@@ -426,6 +469,56 @@
       \field{volume}{600}
       \field{year}{2019}
     \endentry
+    \entry{chatzipapas2015challenge}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=d292cf4e394b299f0ca15476073dff57}{%
+           family={Chatzipapas},
+           familyi={C\bibinitperiod},
+           given={Angelos},
+           giveni={A\bibinitperiod}}}%
+        {{hash=01d6fd293f991b05e5f13a683449a57c}{%
+           family={Pediaditakis},
+           familyi={P\bibinitperiod},
+           given={Dimosthenis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=09ae1a3ea1b9378ac8ee4eb07cf4a0ba}{%
+           family={Rotsos},
+           familyi={R\bibinitperiod},
+           given={Charalampos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6ca75a1a7ecef92daf018c96dd8d5917}{%
+           family={Mancuso},
+           familyi={M\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c277a690b3be7e183b85a00be4828510}{%
+           family={Crowcroft},
+           familyi={C\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6906c2fc791367c3911de883a27af8c7}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f51b030afb5e3aeb2862622e9c6ce65}
+      \strng{fullhash}{0eecf5a33acdccd219b960a8ec8825bd}
+      \strng{bibnamehash}{0eecf5a33acdccd219b960a8ec8825bd}
+      \strng{authorbibnamehash}{0eecf5a33acdccd219b960a8ec8825bd}
+      \strng{authornamehash}{2f51b030afb5e3aeb2862622e9c6ce65}
+      \strng{authorfullhash}{0eecf5a33acdccd219b960a8ec8825bd}
+      \field{labelalpha}{CPR+15}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2015 ACM Sixth International Conference on Future Energy Systems}
+      \field{title}{Challenge: Resolving data center power bill disputes: The energy-performance trade-offs of consolidation}
+      \field{year}{2015}
+      \field{pages}{89\bibrangedash 94}
+      \range{pages}{6}
+    \endentry
     \entry{dioxide2017overview}{article}{}
       \name{author}{1}{}{%
         {{hash=ce3a57752669cf7f308704f710b64bd8}{%
@@ -447,6 +540,46 @@
       \field{labeltitlesource}{title}
       \field{title}{Overview of greenhouse gases}
       \field{year}{2017}
+    \endentry
+    \entry{dayarathna2015data}{article}{}
+      \name{author}{3}{}{%
+        {{hash=da24c36ad8228711f875dfff24742c1a}{%
+           family={Dayarathna},
+           familyi={D\bibinitperiod},
+           given={Miyuru},
+           giveni={M\bibinitperiod}}}%
+        {{hash=39087d50c8e12fffe07830bb9607b00c}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Yonggang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a30e451ae49594dc040d4f36aef9ef65}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4dbdba2ffa292c7f3655c50a22603241}
+      \strng{fullhash}{cdc0fee0912e7f0e3ad9faba8a067e86}
+      \strng{bibnamehash}{cdc0fee0912e7f0e3ad9faba8a067e86}
+      \strng{authorbibnamehash}{cdc0fee0912e7f0e3ad9faba8a067e86}
+      \strng{authornamehash}{4dbdba2ffa292c7f3655c50a22603241}
+      \strng{authorfullhash}{cdc0fee0912e7f0e3ad9faba8a067e86}
+      \field{labelalpha}{DWF15}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications surveys \& tutorials}
+      \field{number}{1}
+      \field{title}{Data center energy consumption modeling: A survey}
+      \field{volume}{18}
+      \field{year}{2015}
+      \field{pages}{732\bibrangedash 794}
+      \range{pages}{63}
     \endentry
     \entry{emerson2015}{misc}{}
       \name{author}{1}{}{%
@@ -1092,6 +1225,68 @@
       \field{year}{2023}
       \field{pages}{116248}
       \range{pages}{1}
+    \endentry
+    \entry{LIN201847}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3692a0834aa4f676d5e7d198a1c23d12}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Weiwei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=44ddd1947297940fae36faf60cfdc356}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haoyu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4b001f7abb5f2445c55fa67416725a5d}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yufeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1c6f4859fbca53d0cab5003ff5406b03}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Deyu},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a69c78fb07805a5ff414e4d9805e81b9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima Z.},
+           giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=e51911e17d0be2aaf958c1c9b55adaa3}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b3333e6e7652fd3956f68993139fa76}
+      \strng{fullhash}{e41d8ada4f32c6abb0297550fbdd308d}
+      \strng{bibnamehash}{e41d8ada4f32c6abb0297550fbdd308d}
+      \strng{authorbibnamehash}{e41d8ada4f32c6abb0297550fbdd308d}
+      \strng{authornamehash}{1b3333e6e7652fd3956f68993139fa76}
+      \strng{authorfullhash}{e41d8ada4f32c6abb0297550fbdd308d}
+      \field{labelalpha}{LWZ+18}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-0255}
+      \field{journaltitle}{Information Sciences}
+      \field{title}{A cloud server energy consumption measurement system for heterogeneous cloud environments}
+      \field{volume}{468}
+      \field{year}{2018}
+      \field{pages}{47\bibrangedash 62}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ins.2018.08.032
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0020025518306364
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0020025518306364
+      \endverb
+      \keyw{Cloud server,Heterogeneous cloud environment,Power measurement,Power model,Distributed system}
     \endentry
     \entry{doi:10.1126/science.aba3758}{article}{}
       \name{author}{5}{}{%
