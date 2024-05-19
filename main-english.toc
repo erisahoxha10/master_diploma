@@ -11,52 +11,52 @@
 \contentsline {section}{\numberline {3.1}Research questions}{27}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Methodology}{27}{section.3.2}%
 \contentsline {chapter}{\numberline {4}Energy used from Data Centers}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Energy used for running servers}{29}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Idle servers}{30}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Backup generators}{31}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Energy used for thermal management}{31}{section.4.2}%
+\contentsline {section}{\numberline {4.1}Energy used for running servers}{30}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Idle servers}{31}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Backup generators}{32}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Energy used for thermal management}{32}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Free cooling}{33}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{33}{subsection.4.2.2}%
-\contentsline {chapter}{\numberline {5}Hardware footprint}{35}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Clouds and virtualization}{37}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{39}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{40}{section.7.1}%
-\contentsline {chapter}{\numberline {8}Results}{41}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Heading on Level\xspace 0 (chapter)}{43}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Heading on Level\xspace 1 (section)}{43}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}Heading on Level\xspace 2 (subsection)}{43}{subsection.9.1.1}%
-\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{43}{subsubsection*.21}%
-\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{44}{paragraph*.23}%
-\contentsline {section}{\numberline {9.2}Lists}{44}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}Example for list\xspace (itemize)}{44}{subsection.9.2.1}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{44}{subsubsection*.25}%
-\contentsline {subsection}{\numberline {9.2.2}Example for list\xspace (enumerate)}{45}{subsection.9.2.2}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{45}{subsubsection*.27}%
-\contentsline {subsection}{\numberline {9.2.3}Example for list\xspace (description)}{45}{subsection.9.2.3}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{46}{subsubsection*.29}%
-\contentsline {chapter}{\numberline {10}Related Work}{47}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Conclusion and Outlook}{49}{chapter.11}%
-\contentsline {chapter}{\nonumberline Bibliography}{51}{chapter*.31}%
-\contentsline {chapter}{\numberline {A}LaTeX Hints}{57}{appendix.A}%
-\contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{57}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Citations}{57}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Formulas and Equations}{58}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Sourcecode}{59}{section.A.4}%
-\contentsline {section}{\numberline {A.5}Pseudocode}{60}{section.A.5}%
-\contentsline {section}{\numberline {A.6}Figures}{61}{section.A.6}%
-\contentsline {section}{\numberline {A.7}More Illustrations}{61}{section.A.7}%
-\contentsline {section}{\numberline {A.8}Plots with pgfplots}{65}{section.A.8}%
-\contentsline {section}{\numberline {A.9}Figures with tikz}{65}{section.A.9}%
-\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{66}{section.A.10}%
-\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{66}{section.A.11}%
-\contentsline {section}{\numberline {A.12}Linguistic Forests}{66}{section.A.12}%
-\contentsline {section}{\numberline {A.13}Tables}{66}{section.A.13}%
-\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{66}{subsection.A.13.1}%
-\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{68}{section.A.14}%
-\contentsline {section}{\numberline {A.15}Abbreviations}{70}{section.A.15}%
-\contentsline {section}{\numberline {A.16}References}{71}{section.A.16}%
-\contentsline {section}{\numberline {A.17}Definitions}{71}{section.A.17}%
-\contentsline {section}{\numberline {A.18}Footnotes}{71}{section.A.18}%
-\contentsline {section}{\numberline {A.19}Various Things}{71}{section.A.19}%
-\contentsline {section}{\numberline {A.20}Closing remarks}{72}{section.A.20}%
+\contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{34}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5}Hardware footprint}{37}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Clouds and virtualization}{39}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{42}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Results}{43}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Heading on Level\xspace 0 (chapter)}{45}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Heading on Level\xspace 1 (section)}{45}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Heading on Level\xspace 2 (subsection)}{45}{subsection.9.1.1}%
+\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{45}{subsubsection*.22}%
+\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{46}{paragraph*.24}%
+\contentsline {section}{\numberline {9.2}Lists}{46}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Example for list\xspace (itemize)}{46}{subsection.9.2.1}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{46}{subsubsection*.26}%
+\contentsline {subsection}{\numberline {9.2.2}Example for list\xspace (enumerate)}{47}{subsection.9.2.2}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{47}{subsubsection*.28}%
+\contentsline {subsection}{\numberline {9.2.3}Example for list\xspace (description)}{47}{subsection.9.2.3}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{48}{subsubsection*.30}%
+\contentsline {chapter}{\numberline {10}Related Work}{49}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Conclusion and Outlook}{51}{chapter.11}%
+\contentsline {chapter}{\nonumberline Bibliography}{53}{chapter*.32}%
+\contentsline {chapter}{\numberline {A}LaTeX Hints}{59}{appendix.A}%
+\contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{59}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Citations}{59}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Formulas and Equations}{60}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Sourcecode}{61}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Pseudocode}{62}{section.A.5}%
+\contentsline {section}{\numberline {A.6}Figures}{63}{section.A.6}%
+\contentsline {section}{\numberline {A.7}More Illustrations}{63}{section.A.7}%
+\contentsline {section}{\numberline {A.8}Plots with pgfplots}{67}{section.A.8}%
+\contentsline {section}{\numberline {A.9}Figures with tikz}{67}{section.A.9}%
+\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{68}{section.A.10}%
+\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{68}{section.A.11}%
+\contentsline {section}{\numberline {A.12}Linguistic Forests}{68}{section.A.12}%
+\contentsline {section}{\numberline {A.13}Tables}{68}{section.A.13}%
+\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{68}{subsection.A.13.1}%
+\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{70}{section.A.14}%
+\contentsline {section}{\numberline {A.15}Abbreviations}{72}{section.A.15}%
+\contentsline {section}{\numberline {A.16}References}{73}{section.A.16}%
+\contentsline {section}{\numberline {A.17}Definitions}{73}{section.A.17}%
+\contentsline {section}{\numberline {A.18}Footnotes}{73}{section.A.18}%
+\contentsline {section}{\numberline {A.19}Various Things}{73}{section.A.19}%
+\contentsline {section}{\numberline {A.20}Closing remarks}{74}{section.A.20}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

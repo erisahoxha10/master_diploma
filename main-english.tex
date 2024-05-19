@@ -409,9 +409,18 @@ In this thesis I tried to include the latest publicly available research or deve
 
 \chapter{Energy used from Data Centers}
 
+The US data centers handled about 300 million Terabyte of data that consumed around 8.3 billion kWh per year in 2016, hence 27.7 kWh per Terabyte with a carbon footprint of approximately 35 kg CO2 per Terabyte of data\cite{corbett2018sustainable}.
+
 According to a report published by the International Energy Agency\cite{ieaDataCentres} in 2023, data centers worldwide were estimated to consume approximately 1-1.5\% of the world's electricity. While this figure may seem relatively modest, it assumes significance when considering the overall global energy consumption. Additionally, as our reliance on digital services continues to grow and more devices become interconnected, the demand placed on data centers and their energy consumption is expected to increase\cite{schomaker2015energy}. Compounding this issue is the fact that a significant portion of the energy used by data centers still comes from non-renewable sources\cite{ritchie2024energy}.
 
 In areas where coal continues to be the primary source of electricity, the environmental impact of data center operations is particularly significant\cite{finkelman2021future}. Data centers powered by coal emit a disproportionately higher amount of carbon emissions compared to those running on cleaner energy sources. As a result, even though data centers may only account for a small percentage of global energy consumption, their contribution to greenhouse gas emissions raises valid concerns.
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{recalibrating_global_data_center_energy-use_estimates.jpeg}
+	\caption{Recalibrating global data center energy-use estimates\cite{doi:10.1126/science.aba3758}}
+\end{figure}
 
 The power consumption of a data center is influenced by a variety of factors, including the hardware specifications and internal infrastructure, the computational workloads, the types of applications running, and the cooling requirements\cite{dayarathna2015data}. These variables make the overall power usage difficult to measure precisely. Additionally, the power consumption of the IT equipment, cooling systems, and power conditioning infrastructure within the data center are all closely interrelated.
 
@@ -423,12 +432,13 @@ Servers are the primary powerhouses within data centers. They process vast amoun
 The total energy consumption of a server is the collective sum of the energy consumed by all its individual hardware components. This includes the energy used by the CPU(s), memory modules, storage drives, network interfaces, power supply, cooling fans, and any other active components within the server\cite{ahmed2021review}. 
 
 
-A depiction of electricity consumption is depicted in the figure below where it is clear that CPU consumes the most of energy with 32\%.
+A depiction of electricity consumption is depicted in the figure \ref{component_wise_consumption} where it is clear that CPU consumes the most of energy with 32\%.
 
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{Component-wise-energy-consumption-of-a-server.png}
 	\caption{Component-wise energy consumption of a server; Source\cite{ahmed2021review}}
+	\label{component_wise_consumption}
 \end{figure}
 
 The energy consumption of each individual component is influenced by factors such as the component's power rating, utilization level, and operating conditions. The total server energy consumption can be calculated by measuring or estimating the power draw of each component and then adding them together. According to \cite{chatzipapas2015challenge} total energy estimation of the system is calculated as below (E\textsubscript{base} accounts for the un-addressable energy losses including the idle energy consumption of the server):
@@ -437,21 +447,27 @@ The energy consumption of each individual component is influenced by factors suc
 	E\textsubscript{total} = E\textsubscript{base} + E\textsubscript{cpu} + E\textsubscript{disk} + E\textsubscript{net} + E\textsubscript{mem}
 \end{center}
 
-Monitoring the energy usage of individual server components can provide valuable insights into optimizing the server's overall energy efficiency. This can involve techniques like right-sizing hardware, implementing power management features, and optimizing workload distribution to reduce unnecessary energy consumption\cite{LIN201847}.
+Monitoring the energy usage of individual server components can provide valuable insights into optimizing the server's overall energy efficiency. This can involve techniques like right-sizing hardware, implementing power management features, and optimizing workload distribution to reduce unnecessary energy consumption\cite{LIN201847}. An example would be the comparison between two different processors like ATOM and Xeon\cite{iccusaIntelAtom}. The figure \ref{servers_comparison} shows power consumption comparison of two servers.
+In an Atom-based server, the memory subsystem consumes the largest portion of the overall power. The Atom processor itself has a relatively modest power draw, but the memory modules and associated components have to work harder to compensate for the processor's limited memory capabilities, resulting in high memory power consumption\cite{turley2014white}. On the other hand, in a Xeon-based server, the CPUs are the main power consumers. Xeon processors are designed for high-performance server workloads and have significantly higher power requirements compared to Atom. The CPU cores, cache hierarchy, and advanced features all contribute to the Xeon's greater power draw. While the memory subsystem also consumes power, it is not as dominant a factor as in the Atom-based system, as Xeon processors have more memory channels and higher memory bandwidth\cite{servethehomeMemoryBandwidth}.
 
-The US data centers handled about 300 million Terabyte of data that consumed around 8.3 billion kWh per year in 2016, hence 27.7 kWh per Terabyte with a carbon footprint of approximately 35 kg CO2 per Terabyte
-of data\cite{corbett2018sustainable}.
 
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{recalibrating_global_data_center_energy-use_estimates.jpeg}
-	\caption{Recalibrating global data center energy-use estimates\cite{doi:10.1126/science.aba3758}}
+	\includegraphics[width=\textwidth]{power_breakdown_across_the_components_of_two_servers.jpg}
+	\caption{Power breakdown across the components of two servers\cite{dayarathna2015data}}
+	\label{servers_comparison}
 \end{figure}
 
 
-Two cases to consider:
+
 \subsection{Idle servers}
-In data centers, the servers are not always active, as servers can be idle. Then, the power consumption of the counterparts can be divided into two parts. (1) Baseline power (Pbase), which is the power consumption when the machine is idle, includes the power consumption of the fans, CPU, memory, I/O and other motherboard components in their idle state and is often considered as a fixed value. (2) Active power (Pactive), which is the power consumption due to the workload, depends on the workload of the machine and the way it utilizes CPU, memory and I/O components. Hence, the power model can be expressed as the sum of baseline power and active power. 
+In data centers, the servers are not always active, as servers can be idle. Then, the power consumption of the counterparts can be divided into two parts.
+
+\begin{description}
+	\item[Baseline power] P\textsubscript{base}, which is the power consumption when the machine is idle, includes the power consumption of the fans, CPU, memory, I/O and other motherboard components in their idle state and is often considered as a fixed value.
+	\item[Active power] P\textsubscript{active}, which is the power consumption due to the workload, depends on the workload of the machine and the way it utilizes CPU, memory and I/O components. Hence, the power model can be expressed as the sum of baseline power and active power.
+\end{description}
+
 
 \subsection{Backup generators}
 Backup generators play a crucial role in ensuring the operational reliability of data centers. These generators, powered by diesel fuel, are responsible for generating electricity during power outages or routine testing. However, it is important to note that when these generators are activated, they produce direct emissions that can have an impact on the environment. While their operational hours may be limited compared to primary equipment, the combustion of diesel fuel leads to a substantial release of greenhouse gases (GHGs).

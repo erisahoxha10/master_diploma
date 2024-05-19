@@ -10,26 +10,27 @@
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrammatic representation of the DC's overall structure\blx@tocontentsinit {0}\cite {ZHU2023104322}}}{26}{figure.caption.15}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{30}{figure.caption.16}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Recalibrating global data center energy-use estimates\blx@tocontentsinit {0}\cite {doi:10.1126/science.aba3758}}}{31}{figure.caption.17}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Single-phase submerged liquid cooling, Two-phase submerged liquid cooling.; Source: \blx@tocontentsinit {0}\cite {li2023china}}}{34}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Recalibrating global data center energy-use estimates\blx@tocontentsinit {0}\cite {doi:10.1126/science.aba3758}}}{29}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{30}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{31}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Single-phase submerged liquid cooling, Two-phase submerged liquid cooling.; Source: \blx@tocontentsinit {0}\cite {li2023china}}}{34}{figure.caption.19}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces The range of PUE; Source: IDC Foresight Industry Research Institute}}{36}{figure.caption.19}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The range of PUE; Source: IDC Foresight Industry Research Institute}}{38}{figure.caption.20}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{61}{figure.caption.32}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{62}{figure.caption.33}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{62}{figure.caption.34}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{63}{figure.caption.35}%
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{64}{figure.caption.36}%
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{65}{figure.caption.37}%
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{65}{figure.caption.38}%
-\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{66}{figure.caption.39}%
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{67}{figure.caption.40}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{63}{figure.caption.33}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{64}{figure.caption.34}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{64}{figure.caption.35}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{65}{figure.caption.36}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{66}{figure.caption.37}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{67}{figure.caption.38}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{67}{figure.caption.39}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{68}{figure.caption.40}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{69}{figure.caption.41}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
