@@ -399,7 +399,7 @@ Spending on data center systems is expected to see a notable jump in growth from
 %5.	Experiment to track the footprint of a server and make comparisons to the software computations
 
 
-When I started conducting my research about energy and CO2 of cloud/backend processing, I saw that the most energy consumption comes from this massive server rooms that would process data non stop, called data centers. So I focused my study on data centers, their infrastructure and the energy that these rooms were consuming. Servers are the primary powerhouses within data centers.
+Before starting conducting the research about energy and CO2 of cloud/backend processing, I saw that the most energy consumption comes from this massive server rooms that would process data non stop, called data centers. So I focused my study on data centers, their infrastructure and the energy that these rooms were consuming. Servers are the primary powerhouses within data centers.
 In this thesis I tried to include the latest publicly available research or development of the specific topic because some old papers were not relevant anymore. There were many old publications about data centers and their energy consumption, whose outcome was already applied in real life several times or their outcome was overridden. Papers and publications used in this thesis are related to electrical engineering, thermal engineering and climate change. As a resource for this thesis I also checked the activity of main cloud providers such as AWS, Google and Microsoft. Even though these companies are working independently from each other, they have all made huge advancements in their common goal to reach net zero carbon emissions.
 
 %Energy and CO2 are two different things, but in data center context they are closely related. Data centers do need energy to run and to keep the server rooms temperature optimal. But to generate this energy, usually electricity, tons of CO2 is released in the atmosphere. Carbon release is the outcome that should be reduced and it is causing the harmful greenhouse effect to our planet.
@@ -441,7 +441,7 @@ The power consumption of a data center is influenced by a variety of factors, in
 
 \section{Energy used for running Servers}
 
-Servers are the primary powerhouses within data centers. They process vast amounts of data, ensuring  that  our  emails,  cloud  applications,  online games,  and  myriad  other  digital  services function seamlessly\cite{techtargetMajorServer}. Their constant  activity means they're persistently consuming electricity\cite{energyinnovationMuchEnergy}, and this continuous energy draw is a direct contributor to carbon emissions, especially if the electricity source is fossil fuel-based.
+Servers are the primary powerhouses within data centers. They process vast amounts of data, ensuring  that  our  emails,  cloud  applications, online games, and many other digital services function seamlessly\cite{techtargetMajorServer}. Their constant  activity means they're persistently consuming electricity\cite{energyinnovationMuchEnergy}, and this continuous energy draw is a direct contributor to carbon emissions, especially if the electricity source is fossil fuel-based.
 
 The total energy consumption of a server is the collective sum of the energy consumed by all its individual hardware components. This includes the energy used by the CPU(s), memory modules, storage drives, network interfaces, power supply, cooling fans, and any other active components within the server\cite{ahmed2021review}. 
 
@@ -462,7 +462,7 @@ The energy consumption of each individual component is influenced by factors suc
 \end{center}
 
 Monitoring the energy usage of individual server components can provide valuable insights into optimizing the server's overall energy efficiency. This can involve techniques like right-sizing hardware, implementing power management features, and optimizing workload distribution to reduce unnecessary energy consumption\cite{LIN201847}. An example would be the comparison between two different processors like ATOM and Xeon\cite{iccusaIntelAtom}. The figure \ref{servers_comparison} shows power consumption comparison of two servers.
-In an Atom-based server, the memory subsystem consumes the largest portion of the overall power. The Atom processor itself has a relatively modest power draw, but the memory modules and associated components have to work harder to compensate for the processor's limited memory capabilities, resulting in high memory power consumption\cite{turley2014white}. On the other hand, in a Xeon-based server, the CPUs are the main power consumers. Xeon processors are designed for high-performance server workloads and have significantly higher power requirements compared to Atom. The CPU cores, cache hierarchy, and advanced features all contribute to the Xeon's greater power draw. While the memory subsystem also consumes power, it is not as dominant a factor as in the Atom-based system, as Xeon processors have more memory channels and higher memory bandwidth\cite{servethehomeMemoryBandwidth}.
+In an Atom-based server, the memory subsystem consumes the largest portion of the overall power. The Atom processor itself has a relatively modest power draw, but the memory modules and associated components have to work harder to compensate for the processor's limited memory capabilities, resulting in high memory power consumption\cite{turley2014white}. On the other hand, in a Xeon-based server, the CPUs are the main power consumers. Xeon processors are designed for high-performance server workloads and have significantly higher power requirements compared to Atom. The CPU cores, cache hierarchy, and advanced features all contribute to the Xeon's greater power draw. While the memory subsystem of Xeon also consumes power (19\%), it is not as dominant factor as in the Atom-based system (48\%)\cite{servethehomeMemoryBandwidth}.
 
 
 \begin{figure}
@@ -475,17 +475,21 @@ In an Atom-based server, the memory subsystem consumes the largest portion of th
 
 
 \subsection{Server States}
-In data centers, the servers are not always active, as servers can be idle. Then, the power consumption of the counterparts can be divided into two parts.
+In data centers, the servers are not always active, as servers can be idle. Furthermore, there are two cases to consider at energy consumption of servers:
 
 \begin{description}
-	\item[Baseline power] P\textsubscript{base}, which is the power consumption when the machine is idle, includes the power consumption of the fans, CPU, memory, I/O and other motherboard components in their idle state and is often considered as a fixed value. Idle servers are troublesome because they are not efficient and expensive\cite{raritanIdleServer}. In 2015, it was estimated that servers were wasting 30\% of energy in idle state, but the situation has improved a lot since then\cite{computerweeklyWasteEnergy}\cite{basmadjian2012modelling}. Methods like PowerNap have been proposed\cite{powernap_server} that eliminate idle power in servers by quickly transitioning in and out of an ultra-low power state. This method reduced in average power relative up to 70\% for Web 2.0 servers.
+	\item[Baseline power] P\textsubscript{base}, which is the power consumption when the machine is idle, includes the power consumption of the fans, CPU, memory, I/O and other motherboard components in their idle state and is often considered as a fixed value. Idle servers are troublesome because they are not efficient and they are expensive\cite{raritanIdleServer}. In 2015, it was estimated that servers were wasting 30\% of energy in idle state, but the situation has improved a lot since then\cite{computerweeklyWasteEnergy}\cite{basmadjian2012modelling}. Methods like PowerNap have been proposed\cite{powernap_server} that eliminate idle power in servers by quickly transitioning in and out of an ultra-low power state. This method reduced in average power up to 70\% for Web 2.0 servers.
 	
 	\item[Active power] P\textsubscript{active}, which is the power consumption due to the workload, depends on the workload of the machine and the way it utilizes CPU, memory and I/O components. Hence, the power model can be expressed as the sum of baseline power and active power\cite{JIN2020114806}. 
+	
+	\begin{center}
+		P\textsubscript{total} = P\textsubscript{base} + P\textsubscript{active}
+	\end{center}
 \end{description}
 
 
 \subsection{Backup Generators}
-Backup generators play a crucial role in ensuring the operational reliability of data centers. These generators, powered by diesel fuel, are responsible for generating electricity during power outages or routine testing. However, it is important to note that when these generators are activated, they produce direct emissions that can have an impact on the environment. While their operational hours may be limited compared to primary equipment, the combustion of fuel leads to a higher release of greenhouse gases (GHGs)\cite{jiang2015energy}.
+Backup generators play a crucial role in ensuring the operational reliability of data centers. These generators, powered by diesel fuel, are responsible for generating electricity during power outages or routine testing. However, it is important to note that when these generators are activated, they produce direct emissions that can have an impact on the environment. While their operational hours may be limited compared to primary equipment, the combustion of fuel leads to a higher release of \gls{ghg}\cite{jiang2015energy}.
 
 \section{Energy used for Thermal Management}
 
@@ -502,23 +506,25 @@ In addition to the energy required to power the servers, a substantial amount of
 \end{figure}
 
 Operating computing systems for extended periods of time at high temperatures
-greatly reduces reliability, longevity of components and will likely decrease QoS. ASHRAE has in fact now recommended an acceptable operating temperature range of 18° to 27°C (64° to 81°F) to be optimal for system reliability. For environments with low levels of both copper and silver corrosion, the recommended temperature range is between 18° and 21°C (64 to 69.8 °F). However server manufacturer Dell states that the temperature “sweet spot” for their servers is 26.7°C (80°F)\cite{AVTECH}. Expensive IT equipment should not be operated in computer rooms or data centers where the ambient room temperature exceeds 85°F (30°C)\cite{42U_2016}.
+greatly reduces reliability, longevity of components and will likely decrease QoS. ASHRAE has in fact now recommended an acceptable operating temperature range of 18° to 27°C (64° to 81°F) to be optimal for system reliability. For environments with low levels of both copper and silver corrosion, the recommended temperature range is between 18° and 21°C (64 to 69.8 °F). However, server manufacturer Dell states that the temperature “sweet spot” for their servers is 26.7°C (80°F)\cite{AVTECH}. Expensive IT equipment should not be operated in computer rooms or data centers where the ambient room temperature exceeds  30°C (85°F)\cite{42U_2016}.
 
 It is worth noting that the excessive energy consumption associated with traditional HVAC systems has prompted the exploration and adoption of more sustainable and energy-efficient cooling solutions in modern data centers\cite{nadjahi2018review}. These innovative approaches aim to reduce both the environmental impact and operational costs of data center cooling. By employing advanced cooling techniques, such as liquid cooling, airflow optimization, and heat recycling, data centers can achieve greater energy efficiency and minimize their carbon footprint.
 
-According to \cite{ZHU2023104322} approximately 15–27\% of the energy consumed by DC can be reduced via research and development of advanced cooling technologies, including natural cooling and liquid cooling to achieve sustainability.
+According to \cite{ZHU2023104322} approximately 15–27\% of the energy consumed by \gls{dc} can be reduced via research and development of advanced cooling technologies, including natural cooling and liquid cooling to achieve sustainability.
 
 Below are some strategies and layout designs that improve air circulation in the server rooms:
 \begin{description}
 	
 	\item[Enhancing Natural Ventilation and Thermal Efficiency]
-	Designs that prioritize natural ventilation, use thermally conductive materials, and optimize server layout can reduce the need for artificial cooling. By enabling efficient airflow, these designs improve temperature regulation in data centers. Materials with high thermal conductivity also help dissipate heat more effectively, keeping servers at optimal operating temperatures. This combination of natural ventilation and thermally conductive materials creates a more energy-efficient data center environment.\cite{zhang2021optimization}\cite{stavreva2023best}.
+	Designs that prioritize natural ventilation, use thermally conductive materials, and optimize server layout can reduce the need for artificial cooling. By enabling efficient airflow, these designs improve temperature regulation in data centers. Materials with high thermal conductivity also help dissipate heat more effectively, keeping servers at optimal operating temperatures. The combination of natural ventilation and thermally conductive materials creates a more energy-efficient data center environment\cite{zhang2021optimization}\cite{stavreva2023best}.
+	
+	%%% elaborate this more
 
 	\item[Utilizing Energy-Efficient Architectural Features]
-	Implementing certain architectural designs can further enhance the energy efficiency of a data center\cite{moazamigoodarzi2019influence}. For instance, roofs painted with reflective coatings help to reduce heat absorption from the sun, minimizing the need for additional cooling\cite{akbari2003measured}. Green roofs, which incorporate vegetation, provide natural insulation and cooling effects, reducing the overall energy demand\cite{susca2011positive}. Additionally, incorporating thermal buffers such as double-wall constructions can act as a barrier against external temperature fluctuations, maintaining a more stable internal environment. By integrating these features, a data center can inherently become more energy-efficient\cite{ewim2023impact}.
+	Implementing certain architectural designs can further enhance the energy efficiency of a data center\cite{moazamigoodarzi2019influence}. For instance, roofs painted with reflective coatings help to reduce heat absorption from the sun, minimizing the need for additional cooling\cite{akbari2003measured}. Green roofs, which incorporate vegetation, provide natural insulation and cooling effects, reducing the overall energy demand\cite{susca2011positive}. Additionally, incorporating thermal buffers such as double-wall constructions can act as a barrier against external temperature fluctuations, maintaining a more stable internal environment\cite{ewim2023impact}.
 
 	\item[Innovative Layout Strategies]
-	Hot/cold aisle containment is a cooling strategy for data centers. It involves arranging server racks so that the hot air exhausts are directed one way, and the cold air intakes are directed the other way. This separation of hot and cold airflows helps prevent hot air from being recirculated back into the cold aisle. This improves the overall cooling efficiency and reduces energy consumption\cite{jin2020case}\cite{jin2019effects}.
+	Hot/cold aisle containment is a cooling strategy for data centers. It involves arranging server racks so that the hot air exhausts are directed one way, and the cold air intakes are directed the other way. This separation of hot and cold airflows helps prevent hot air from being recirculated back into the cold aisle\cite{jin2020case}\cite{jin2019effects}.
 	
 	Another layout strategy being explored is vertical server stacking. This configuration takes advantage of the natural physics of heat rising, as hot air naturally moves upward. By stacking servers vertically and strategically placing vents, the vertical arrangement can facilitate better heat dissipation and improve cooling efficiency\cite{jin2020case}\cite{jin2019effects}.
 
@@ -526,14 +532,14 @@ Below are some strategies and layout designs that improve air circulation in the
 
 By implementing these design principles and layout strategies, data centers can significantly reduce their energy consumption, enhance cooling efficiency, and contribute to a more sustainable and environmentally friendly operation.
 
-The strategies for achieving energy-efficient and carbon-emission reduction (ECER) in different districts (DCs) can vary based on factors like geographical location, natural resources, and economic foundations. A single energy-saving approach may not be sufficient to meet the goal of zero-carbon emission across all DCs.
+The strategies for achieving \gls{ecer} in different districts \gls{dc}s can vary based on factors like geographical location, natural resources, and economic foundations. A single energy-saving approach may not be sufficient to meet the goal of zero-carbon emission across all \gls{dc}s.
 
 
 \subsection{Free Cooling}
 There are several types of temperature management methods employed in servers and data centers, with air cooling being the most commonly utilized. Air cooling involves the use of fans that generate airflow to cool down the servers and distribute cold air to the hot components. Another air cooling technology worth mentioning is free cooling\cite{data4groupCloserLook}, which represents a more recent development in this field.
 
 In the case of free cooling, data centers located in extremely cold regions leverage the ambient temperature to maintain a consistent temperature within the server rooms\cite{data4groupCloserLook}. By harnessing the naturally low temperatures of their surroundings, these data centers are able to reduce their reliance on traditional cooling mechanisms. Data centers have several options for free cooling approaches. One is airside free cooling, which uses outside air to directly cool the data center without mechanical refrigeration. Another is waterside free cooling, which relies on a water-based heat exchange system to leverage natural cold water sources. The third main approach is heat pipe free cooling, which utilizes a network of heat pipes to transfer heat from the data center to the outside. 
-The choice of free cooling method depends on factors like the local climate, water availability, and the facility's specific cooling requirements. Data centers that are situated in warmer climates or regions lacking a sufficiently cold environment may not be able to fully utilize this method. In such cases, many data centers end up using a blend of these free cooling techniques to enhance energy efficiency and to ensure optimal temperature management and prevent overheating of the servers and related equipment\cite{zhang2014free}.
+The choice of free cooling method depends on factors like the local climate, water availability, and the facility's specific cooling requirements. Data centers that are situated in warmer climates or regions lacking a sufficiently cold environment may not be able to fully utilize this method. In such cases, many data centers end up using a combination of these free cooling techniques to enhance energy efficiency and to ensure optimal temperature management and prevent overheating of the servers and related equipment\cite{zhang2014free}.
 
 Free cooling approach not only results in lower energy consumption compared to conventional air cooling, but it also minimizes the environmental impact associated with cooling operations\cite{datacenterdynamicsExploringData}.
 
@@ -567,11 +573,11 @@ Liquid cooling is an advanced temperature management technique that surpasses th
 	\label{indirect_cooling}
 \end{figure}
 
-2. In direct liquid cooling, the coolant flows directly over the surfaces of electronic components, enabling highly efficient heat transfer by eliminating the additional thermal interface present in indirect liquid cooling systems. The coolants used are typically dielectric fluids - electrically insulating liquids that can safely make direct contact with active electronics, providing both effective cooling and electrical isolation, in contrast to the separated coolant loop of indirect liquid cooling approaches\cite{khalaj2017review}\cite{submerImmersionCooling}.
+2. Direct liquid cooling, the coolant flows directly over the surfaces of electronic components, enabling highly efficient heat transfer by eliminating the additional thermal interface present in indirect liquid cooling systems. The coolants used are typically dielectric fluids - electrically insulating liquids that can safely make direct contact with active electronics, providing both effective cooling and electrical isolation\cite{khalaj2017review}\cite{submerImmersionCooling}.
 
 It's important to acknowledge that maintaining a liquid cooling system presents certain challenges\cite{azarifar2024liquid}. In the case of dielectric cooling, the management of the liquid becomes more complex\cite{submerImmersionCooling}. To implement dielectric cooling effectively, substantial containers capable of accommodating all the components must be created. Such large-scale implementation is currently limited, with testing primarily conducted on smaller servers.
 
-Immersion cooling 1,400 times better thermal conductor than air\cite{submerImmersionCooling} which translates to being way more energy efficient. However the transition from air cooling to liquid cooling requires careful consideration and adaptation of IT equipment. As technological advancements continue, it is expected that liquid cooling will become more prevalent and feasible for a wider range of applications.
+Immersion cooling is 1,400 times better thermal conductor than air\cite{submerImmersionCooling} which translates to being way more energy efficient. As technological advancements continue, it is expected that liquid cooling will become more prevalent and feasible for a wider range of applications.
 
 
 %%%%%%%%%%%%%   Chapter5   %%%%%%%%%%%%%%%

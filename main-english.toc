@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {4.1.1}Server States}{31}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {4.1.2}Backup Generators}{31}{subsection.4.1.2}%
 \contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{32}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{34}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{33}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{34}{subsection.4.2.2}%
 \contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{37}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Clouds and Virtualization}{39}{chapter.6}%

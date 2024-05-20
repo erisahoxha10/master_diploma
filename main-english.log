@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3149,22 +3149,22 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 (Font)              scaled to size 11.28003pt on input line 477.
  [30 <./graphics//Component-wise-energy-consumption-of-a-server.png>]
 [31 <./graphics//power_breakdown_across_the_components_of_two_servers.jpg>]
-<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=617, 415.5525
+<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=618, 415.5525
 pt x 121.6545pt>
 File: graphics//Cooling_System_with_Raised_Floor_Configuration.png Graphic file
  (type png)
 <use graphics//Cooling_System_with_Raised_Floor_Configuration.png>
 Package pdftex.def Info: graphics//Cooling_System_with_Raised_Floor_Configurati
-on.png  used on input line 499.
+on.png  used on input line 503.
 (pdftex.def)             Requested size: 426.79135pt x 124.94911pt.
 
 [32 <./graphics//Cooling_System_with_Raised_Floor_Configuration.png>] [33]
-<graphics//indirect_water_cooling_system.png, id=664, 1822.4085pt x 829.9005pt>
+<graphics//indirect_water_cooling_system.png, id=671, 1822.4085pt x 829.9005pt>
 
 File: graphics//indirect_water_cooling_system.png Graphic file (type png)
 <use graphics//indirect_water_cooling_system.png>
 Package pdftex.def Info: graphics//indirect_water_cooling_system.png  used on i
-nput line 565.
+nput line 571.
 (pdftex.def)             Requested size: 426.79135pt x 194.35548pt.
 
 [34] [35 <./graphics//indirect_water_cooling_system.png>] [36
@@ -3172,11 +3172,11 @@ nput line 565.
 
 ]
 chapter 5.
-<graphics//dc_component_recycling_process.png, id=702, 1445.4pt x 794.97pt>
+<graphics//dc_component_recycling_process.png, id=707, 1445.4pt x 794.97pt>
 File: graphics//dc_component_recycling_process.png Graphic file (type png)
 <use graphics//dc_component_recycling_process.png>
 Package pdftex.def Info: graphics//dc_component_recycling_process.png  used on 
-input line 600.
+input line 606.
 (pdftex.def)             Requested size: 426.79135pt x 234.73245pt.
 [37] [38 <./graphics//dc_component_recycling_process.png>]
 chapter 6.
@@ -3214,26 +3214,26 @@ chapter 11.
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 696.
+(Font)              scaled to size 10.95pt on input line 702.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 696.
+(Font)              scaled to size 10.95pt on input line 702.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 69
-6.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 70
+2.
 (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 696.
+(Font)              scaled to size 9.85492pt on input line 702.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 696.
+(Font)              scaled to size 10.95pt on input line 702.
 
 [53{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
 pc.enc}{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i
 4-t1-1.enc}] [54] [55] [56]
-Underfull \hbox (badness 1939) in paragraph at lines 697--697
+Underfull \hbox (badness 1939) in paragraph at lines 703--703
 []\T1/ntxtlf/m/n/10.95 (+20) H. Ritchie, P. Rosado. ^^P  Fos-sil fu-els^^Q. In:
  \T1/ntxtlf/m/it/10.95 (+20) Our World in Data \T1/ntxtlf/m/n/10.95 (+20) (2017
 ).
@@ -3241,7 +3241,7 @@ Underfull \hbox (badness 1939) in paragraph at lines 697--697
 
 [57] [58]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 696.
+(Font)              scaled to size 6.1pt on input line 702.
  [59] (latexhints-english.tex [60]
 chapter A.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
@@ -3519,7 +3519,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-<graphics//choreography.pdf, id=1153, 588.1442pt x 377.82657pt>
+<graphics//choreography.pdf, id=1158, 588.1442pt x 377.82657pt>
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 218.
@@ -3688,6 +3688,11 @@ L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main-english.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main-english.run.xml'.
 \openout1 = `main-english.run.xml'.
 
@@ -3718,9 +3723,9 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (77 pages, 2744024 bytes).
+Output written on main-english.pdf (77 pages, 2744640 bytes).
 PDF statistics:
- 1562 PDF objects out of 1728 (max. 8388607)
+ 1567 PDF objects out of 1728 (max. 8388607)
  372 named destinations out of 1000 (max. 500000)
  111146 words of extra memory for PDF output out of 128383 (max. 10000000)
 
