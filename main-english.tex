@@ -516,39 +516,48 @@ The strategies for achieving energy-efficient and carbon-emission reduction (ECE
 
 
 \subsection{Free cooling}
-There are several types of temperature management methods employed in servers and data centers, with air cooling being the most commonly utilized. Air cooling involves the use of fans that generate airflow to cool down the servers and distribute cold air to the hot components. Another air cooling technology worth mentioning is free cooling, which represents a more recent development in this field.
+There are several types of temperature management methods employed in servers and data centers, with air cooling being the most commonly utilized. Air cooling involves the use of fans that generate airflow to cool down the servers and distribute cold air to the hot components. Another air cooling technology worth mentioning is free cooling\cite{data4groupCloserLook}, which represents a more recent development in this field.
 
-In the case of free cooling, data centers located in extremely cold regions leverage the ambient temperature to maintain a consistent temperature within the server rooms. By harnessing the naturally low temperatures of their surroundings, these data centers are able to reduce their reliance on traditional cooling mechanisms. This approach not only results in lower energy consumption compared to conventional air cooling, but it also minimizes the environmental impact associated with cooling operations.
+In the case of free cooling, data centers located in extremely cold regions leverage the ambient temperature to maintain a consistent temperature within the server rooms\cite{data4groupCloserLook}. By harnessing the naturally low temperatures of their surroundings, these data centers are able to reduce their reliance on traditional cooling mechanisms. Data centers have several options for free cooling approaches. One is airside free cooling, which uses outside air to directly cool the data center without mechanical refrigeration. Another is waterside free cooling, which relies on a water-based heat exchange system to leverage natural cold water sources. The third main approach is heat pipe free cooling, which utilizes a network of heat pipes to transfer heat from the data center to the outside. 
+The choice of free cooling method depends on factors like the local climate, water availability, and the facility's specific cooling requirements. Data centers that are situated in warmer climates or regions lacking a sufficiently cold environment may not be able to fully utilize this method. In such cases, many data centers end up using a blend of these free cooling techniques to enhance energy efficiency and to ensure optimal temperature management and prevent overheating of the servers and related equipment\cite{zhang2014free}.
 
-However, it is important to note that free cooling has certain limitations, primarily due to its dependence on geographical positioning. Data centers that are situated in warmer climates or regions lacking a sufficiently cold environment may not be able to fully utilize this method. In such cases, alternative cooling techniques or a combination of different approaches may be necessary to ensure optimal temperature management and prevent overheating of the servers and related equipment.
+Free cooling approach not only results in lower energy consumption compared to conventional air cooling, but it also minimizes the environmental impact associated with cooling operations\cite{datacenterdynamicsExploringData}.
+
+Examples of data centers that use free cooling are:
+\begin{itemize}
+	\item Google has built its data centers in Hanima, where they use seawater from the Bay of Finland for the cooling system\cite{datacentersGoogleData}
+	\item Microsoft has drowned 864 servers 22 km from the Scottish coast and uses local cooling to reduce energy consumption\cite{qzNewestGreentech}
+\end{itemize}
+
+
 
 \subsection{Liquid cooling}
 
-Liquid cooling technology transfers heat via a flowing liquid (Evans, 2012), and its cooling capacity is approximately 1000–3000 times that of air, which can reduce energy consumption (Ovaska, Dragseth,\& Hanssen, 2016).
+Liquid cooling systems use fluids to dissipate heat more effectively than air cooling. The cooling capacity of liquid systems is typically 1000-3000 times greater than air cooling. This improved heat transfer can enable slightly lower energy consumption in some applications that utilize liquid cooling.\cite{ZHU2023104322}.
 
+
+%\begin{figure}
+%	\centering
+%	\includegraphics[width=\textwidth]{Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid_cooling.jpg}
+%	\caption{Single-phase submerged liquid cooling, Two-phase submerged liquid cooling.; Source: \cite{li2023china}}
+%\end{figure}
+
+Liquid cooling is an advanced temperature management technique that surpasses the efficiency of air cooling. While the majority of current IT equipment is designed for air cooling, liquid cooling offers several notable advantages\cite{xu2023thermal}.
+
+1. Indirect liquid cooling is a method of heat removal where the heat source and liquid coolant do not directly interact. To implement this approach, the traditional air-cooled heat sink must be replaced with a liquid-cooled alternative, such as an evaporator. This change allows for more efficient heat transfer from the source to the coolant, and can result in smaller component sizes and greater heat dissipation capabilities compared to air cooling\cite{khalaj2017review}. Figure \ref{indirect_cooling} shows a schematic diagram of this kind of cooling technology.
 
 \begin{figure}
 	\centering
-	\includegraphics[width=\textwidth]{Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid_cooling.jpg}
-	\caption{Single-phase submerged liquid cooling, Two-phase submerged liquid cooling.; Source: \cite{li2023china}}
+	\includegraphics[width=\textwidth]{indirect_water_cooling_system.png}
+	\caption{The schematic diagram of indirect water cooling system; Source: \cite{khalaj2017review}}
+	\label{indirect_cooling}
 \end{figure}
 
-Liquid cooling is an advanced temperature management technique that surpasses the efficiency of air cooling. While the majority of current IT equipment is designed for air cooling, liquid cooling offers several notable advantages.
+2. In direct liquid cooling, the coolant flows directly over the surfaces of electronic components, enabling highly efficient heat transfer by eliminating the additional thermal interface present in indirect liquid cooling systems. The coolants used are typically dielectric fluids - electrically insulating liquids that can safely make direct contact with active electronics, providing both effective cooling and electrical isolation, in contrast to the separated coolant loop of indirect liquid cooling approaches\cite{khalaj2017review}\cite{submerImmersionCooling}.
 
-The first liquid cooling technology involves attaching water tubes to metallic materials, enabling the flow of water to facilitate cooling. This method has demonstrated superior performance compared to conventional air cooling methods.
+It's important to acknowledge that maintaining a liquid cooling system presents certain challenges\cite{azarifar2024liquid}. In the case of dielectric cooling, the management of the liquid becomes more complex\cite{submerImmersionCooling}. To implement dielectric cooling effectively, substantial containers capable of accommodating all the components must be created. Such large-scale implementation is currently limited, with testing primarily conducted on smaller servers.
 
-Another liquid cooling approach entails submerging servers entirely in a dielectric liquid. By submerging the components in the dielectric fluid, the cooling efficiency is significantly enhanced. Initial testing has shown promising results, showcasing the potential of this method.
-
-It's important to acknowledge that maintaining a liquid cooling system presents certain challenges. In the case of dielectric cooling, the management of the liquid becomes more complex. To implement dielectric cooling effectively, substantial containers capable of accommodating all the components must be created. Such large-scale implementation is currently limited, with testing primarily conducted on smaller servers.
-
-Despite the potential benefits of liquid cooling, the transition from air cooling to liquid cooling requires careful consideration and adaptation of IT equipment. As technological advancements continue, it is expected that liquid cooling will become more prevalent and feasible for a wider range of applications.
-
-
-Case Studies of Successful Cooling Strategies:
-•Google's  DeepMind  AI  Solution:Google,  with  its  extensive  network  of  data centers, deployed its DeepMind AI to optimise cooling. The AI system analysed data from sensors and  made  real-time  decisions on  cooling  configurations.  The  result?  A  whopping  40\% reduction in cooling-related energy consumption(Google DeepMind, 2016).
-
-Facebook's Swedish Data Centre:Located in Luleå, Sweden, this data centre capitalises on its Arctic location by employing free cooling. The cold external air is used to cool the servers, while any excess heat generated is repurposed to warm office spaces. This approach has drastically curtailed the need for mechanical cooling(Harding, 2015).
-
+Immersion cooling 1,400 times better thermal conductor than air\cite{submerImmersionCooling} which translates to being way more energy efficient. However the transition from air cooling to liquid cooling requires careful consideration and adaptation of IT equipment. As technological advancements continue, it is expected that liquid cooling will become more prevalent and feasible for a wider range of applications.
 
 
 %%%%%%%%%%%%%   Chapter5   %%%%%%%%%%%%%%%

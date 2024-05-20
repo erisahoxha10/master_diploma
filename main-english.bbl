@@ -114,6 +114,44 @@
       \verb https://www.42u.com/cooling/data-center-temperature.htm
       \endverb
     \endentry
+    \entry{azarifar2024liquid}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bfe86e1206b8345336fea2dc0816ff69}{%
+           family={Azarifar},
+           familyi={A\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f66228da70ffddf880b05e09db940d31}{%
+           family={Arik},
+           familyi={A\bibinitperiod},
+           given={Mehmet},
+           giveni={M\bibinitperiod}}}%
+        {{hash=424748695e9e83efb28b125c5e406488}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Je-Young},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d0714d277d4d6af6703d48bf72915855}
+      \strng{fullhash}{b561111898ef3a21038a8853df1676d0}
+      \strng{bibnamehash}{b561111898ef3a21038a8853df1676d0}
+      \strng{authorbibnamehash}{b561111898ef3a21038a8853df1676d0}
+      \strng{authornamehash}{d0714d277d4d6af6703d48bf72915855}
+      \strng{authorfullhash}{b561111898ef3a21038a8853df1676d0}
+      \field{labelalpha}{AAC24}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Thermal Engineering}
+      \field{title}{Liquid cooling of data centers: A necessity facing challenges}
+      \field{year}{2024}
+      \field{pages}{123112}
+      \range{pages}{1}
+    \endentry
     \entry{review_data_center_2021}{article}{}
       \name{author}{3}{}{%
         {{hash=4374935eb47bf48a9e6dc706209be02c}{%
@@ -633,6 +671,48 @@
       \field{year}{2015}
       \field{pages}{89\bibrangedash 94}
       \range{pages}{6}
+    \endentry
+    \entry{datacentersGoogleData}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a406675a7535c5ce18dbd861d3acf04f}{%
+           family={datacenters.com},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{a406675a7535c5ce18dbd861d3acf04f}
+      \strng{fullhash}{a406675a7535c5ce18dbd861d3acf04f}
+      \strng{bibnamehash}{a406675a7535c5ce18dbd861d3acf04f}
+      \strng{authorbibnamehash}{a406675a7535c5ce18dbd861d3acf04f}
+      \strng{authornamehash}{a406675a7535c5ce18dbd861d3acf04f}
+      \strng{authorfullhash}{a406675a7535c5ce18dbd861d3acf04f}
+      \field{labelalpha}{dat09}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.datacenters.com/google-hamina-finland}}
+      \field{title}{Google: Hamina Finland Data Center}
+      \field{year}{2009}
+    \endentry
+    \entry{data4groupCloserLook}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2e7f708d5fbec2bda9855c13120f0b33}{%
+           family={DATA4},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e7f708d5fbec2bda9855c13120f0b33}
+      \strng{fullhash}{2e7f708d5fbec2bda9855c13120f0b33}
+      \strng{bibnamehash}{2e7f708d5fbec2bda9855c13120f0b33}
+      \strng{authorbibnamehash}{2e7f708d5fbec2bda9855c13120f0b33}
+      \strng{authornamehash}{2e7f708d5fbec2bda9855c13120f0b33}
+      \strng{authorfullhash}{2e7f708d5fbec2bda9855c13120f0b33}
+      \field{labelalpha}{DAT21}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.data4group.com/en/datacenter-dictionary/free-cooling/}}
+      \field{title}{A CLOSER LOOK AT FREE COOLING}
+      \field{year}{2021}
     \endentry
     \entry{dioxide2017overview}{article}{}
       \name{author}{1}{}{%
@@ -1321,6 +1401,40 @@
       \field{year}{2016}
       \field{pages}{147\bibrangedash 158}
       \range{pages}{12}
+    \endentry
+    \entry{khalaj2017review}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f2b8f808d08594352ea66b7ecc84b610}{%
+           family={Khalaj},
+           familyi={K\bibinitperiod},
+           given={Ali\bibnamedelima Habibi},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f882b56e7023742633939d385e1e873b}{%
+           family={Halgamuge},
+           familyi={H\bibinitperiod},
+           given={Saman\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{087b1049da364c868c143fbb704855a4}
+      \strng{fullhash}{087b1049da364c868c143fbb704855a4}
+      \strng{bibnamehash}{087b1049da364c868c143fbb704855a4}
+      \strng{authorbibnamehash}{087b1049da364c868c143fbb704855a4}
+      \strng{authornamehash}{087b1049da364c868c143fbb704855a4}
+      \strng{authorfullhash}{087b1049da364c868c143fbb704855a4}
+      \field{labelalpha}{KH17}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied energy}
+      \field{title}{A Review on efficient thermal management of air-and liquid-cooled data centers: From chip to the cooling system}
+      \field{volume}{205}
+      \field{year}{2017}
+      \field{pages}{1165\bibrangedash 1188}
+      \range{pages}{24}
     \endentry
     \entry{khan2017review}{article}{}
       \name{author}{4}{}{%
@@ -2077,6 +2191,53 @@
       \field{pages}{63837\bibrangedash 63851}
       \range{pages}{15}
     \endentry
+    \entry{qzNewestGreentech}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=131dd6dc47bf89ea3b0ebb7362bf5436}{%
+           family={Rathi},
+           familyi={R\bibinitperiod},
+           given={Akshat},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{131dd6dc47bf89ea3b0ebb7362bf5436}
+      \strng{fullhash}{131dd6dc47bf89ea3b0ebb7362bf5436}
+      \strng{bibnamehash}{131dd6dc47bf89ea3b0ebb7362bf5436}
+      \strng{authorbibnamehash}{131dd6dc47bf89ea3b0ebb7362bf5436}
+      \strng{authornamehash}{131dd6dc47bf89ea3b0ebb7362bf5436}
+      \strng{authorfullhash}{131dd6dc47bf89ea3b0ebb7362bf5436}
+      \field{labelalpha}{Rat18}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://qz.com/1298583/microsoft-is-now-operating-a-data-center-under-the-sea}}
+      \field{title}{The newest green-tech idea: drown data centers at sea}
+      \field{year}{2018}
+    \endentry
+    \entry{datacenterdynamicsExploringData}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3475fb767a7af9a8288ed81e1f5db244}{%
+           family={Reeves},
+           familyi={R\bibinitperiod},
+           given={Gemma},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3475fb767a7af9a8288ed81e1f5db244}
+      \strng{fullhash}{3475fb767a7af9a8288ed81e1f5db244}
+      \strng{bibnamehash}{3475fb767a7af9a8288ed81e1f5db244}
+      \strng{authorbibnamehash}{3475fb767a7af9a8288ed81e1f5db244}
+      \strng{authornamehash}{3475fb767a7af9a8288ed81e1f5db244}
+      \strng{authorfullhash}{3475fb767a7af9a8288ed81e1f5db244}
+      \field{labelalpha}{Ree21}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.datacenterdynamics.com/en/opinions/exploring-data-centers-free-cooling-potential/}}
+      \field{month}{10}
+      \field{title}{Exploring data centers' free cooling potential}
+      \field{year}{2021}
+    \endentry
     \entry{owid-fossil-fuels}{article}{}
       \name{author}{2}{}{%
         {{hash=a6d904a648976069036f5eddb4ad0151}{%
@@ -2631,6 +2792,34 @@
       \field{pages}{112620}
       \range{pages}{1}
     \endentry
+    \entry{submerImmersionCooling}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=695b512b067b90120b9b635cb6406030}{%
+           family={Technologies},
+           familyi={T\bibinitperiod},
+           given={Submer},
+           giveni={S\bibinitperiod}}}%
+        {{hash=11dea90c95215df03b66cdf7b6c8dfa0}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Submer},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{30daa12b674ceb56fb47dd75b46c8826}
+      \strng{fullhash}{30daa12b674ceb56fb47dd75b46c8826}
+      \strng{bibnamehash}{30daa12b674ceb56fb47dd75b46c8826}
+      \strng{authorbibnamehash}{30daa12b674ceb56fb47dd75b46c8826}
+      \strng{authornamehash}{30daa12b674ceb56fb47dd75b46c8826}
+      \strng{authorfullhash}{30daa12b674ceb56fb47dd75b46c8826}
+      \field{labelalpha}{TI24}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://submer.com/immersion-cooling/}}
+      \field{title}{Immersion Cooling}
+      \field{year}{2024}
+    \endentry
     \entry{tao2022can}{article}{}
       \name{author}{4}{}{%
         {{hash=7b29cc5f01d86d6776ea05347f0fea80}{%
@@ -2781,6 +2970,46 @@
       \field{pages}{639\bibrangedash 656}
       \range{pages}{18}
     \endentry
+    \entry{xu2023thermal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=57c61ada296f77da84d7903b2630c865}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Sijun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4563929dd9bf330936657a202afad07a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6eac7e8e0e7a7be5bdf7cfa2282dfa0c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zilong},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{643a5395046bac887e098c17f068ca14}
+      \strng{fullhash}{d2d17dc167c1b99a519b606d3ec76cd2}
+      \strng{bibnamehash}{d2d17dc167c1b99a519b606d3ec76cd2}
+      \strng{authorbibnamehash}{d2d17dc167c1b99a519b606d3ec76cd2}
+      \strng{authornamehash}{643a5395046bac887e098c17f068ca14}
+      \strng{authorfullhash}{d2d17dc167c1b99a519b606d3ec76cd2}
+      \field{labelalpha}{XZW23}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{3}
+      \field{title}{Thermal management and energy consumption in air, liquid, and free cooling systems for data centers: A review}
+      \field{volume}{16}
+      \field{year}{2023}
+      \field{pages}{1279}
+      \range{pages}{1}
+    \endentry
     \entry{zhou2021role}{article}{}
       \name{author}{1}{}{%
         {{hash=b54d8097161c8ca92d2e5778b649c4e9}{%
@@ -2925,6 +3154,56 @@
       \field{year}{2021}
       \field{pages}{1973\bibrangedash 1996}
       \range{pages}{24}
+    \endentry
+    \entry{zhang2014free}{article}{}
+      \name{author}{5}{}{%
+        {{hash=95a2b9e27ff2fea592b1939db8304e34}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hainan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=51f0b4b8e637df46ae631a6140aa658a}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={Shuangquan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e12b8336d0ed49c30cddb8e8f78b5dd5}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Hongbo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0604676bf076d68e607b3c4f6a8ecad6}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Huiming},
+           giveni={H\bibinitperiod}}}%
+        {{hash=584b1697e112e619a400a33dab1d9f70}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Changqing},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{789e5efbdcddcfbc0c3a0c5365866692}
+      \strng{fullhash}{296520ceff15128c36f5511dfafe6fd6}
+      \strng{bibnamehash}{296520ceff15128c36f5511dfafe6fd6}
+      \strng{authorbibnamehash}{296520ceff15128c36f5511dfafe6fd6}
+      \strng{authornamehash}{789e5efbdcddcfbc0c3a0c5365866692}
+      \strng{authorfullhash}{296520ceff15128c36f5511dfafe6fd6}
+      \field{extraname}{3}
+      \field{labelalpha}{ZSX+14}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and sustainable energy reviews}
+      \field{title}{Free cooling of data centers: A review}
+      \field{volume}{35}
+      \field{year}{2014}
+      \field{pages}{171\bibrangedash 182}
+      \range{pages}{12}
     \endentry
     \entry{zhu2023future}{article}{}
       \name{author}{9}{}{%
