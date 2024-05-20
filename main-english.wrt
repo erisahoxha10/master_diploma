@@ -11,7 +11,7 @@
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}Motivation}{17}{section.1.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces Total Data Traffic Forecast through 2030. Source: “Impact of AI on Electronics and Semiconductor Industries”, IBS, April 2020}}{17}{figure.caption.9}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces Data Center distribution worldwide}}{18}{figure.caption.10}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {1.2}Problem statement}{18}{section.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}Problem Statement}{18}{section.1.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Structure}{19}{section.1.3}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {1.3}{\ignorespaces Source Statista\blx@tocontentsinit {0}\cite {statista_2024}}}{20}{figure.caption.11}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Background}{21}{chapter.2}\protected@file@percent }
@@ -22,16 +22,16 @@
 \@writefile{toc}{\contentsline {section}{\numberline {2.1}Energy}{21}{section.2.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Analysis of a typical 465 m2 data center, Source Emerson Network power\blx@tocontentsinit {0}\cite {emerson2015}}}{22}{figure.caption.12}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces The power flow and heat flow in general data centers \blx@tocontentsinit {0}\cite {JIN2020114806}}}{23}{figure.caption.13}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2.2}Greenhouse gases}{23}{section.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Greenhouse Gases}{23}{section.2.2}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Greenhouse gas emissions, 2022 \blx@tocontentsinit {0}\cite {owid-co2-and-greenhouse-gas-emissions}}}{24}{figure.caption.14}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2.3}Data centers}{25}{section.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Data Centers}{25}{section.2.3}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrammatic representation of the DC's overall structure\blx@tocontentsinit {0}\cite {ZHU2023104322}}}{26}{figure.caption.15}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {3}Study design}{27}{chapter.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Study Design}{27}{chapter.3}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {3.1}Research questions}{27}{section.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Research Questions}{27}{section.3.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {3.2}Methodology}{27}{section.3.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {4}Energy used from Data Centers}{29}{chapter.4}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
@@ -40,22 +40,22 @@
 \@writefile{lopytx}{\addvspace {10\p@ }}
 \@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Recalibrating global data center energy-use estimates\blx@tocontentsinit {0}\cite {doi:10.1126/science.aba3758}}}{29}{figure.caption.16}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{30}{figure.caption.17}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Energy used for running servers}{30}{section.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Energy used for running Servers}{30}{section.4.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{31}{figure.caption.18}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Server states}{31}{subsection.4.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Backup generators}{32}{subsection.4.1.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Energy used for thermal management}{32}{section.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Server States}{31}{subsection.4.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Backup Generators}{32}{subsection.4.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{32}{section.4.2}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{33}{figure.caption.19}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free cooling}{34}{subsection.4.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{34}{subsection.4.2.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{35}{figure.caption.20}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{35}{subsection.4.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{35}{subsection.4.2.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{37}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
 \@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{38}{figure.caption.21}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {6}Clouds and virtualization}{39}{chapter.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Clouds and Virtualization}{39}{chapter.6}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}

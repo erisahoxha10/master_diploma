@@ -1,24 +1,24 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{17}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Motivation}{17}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Problem statement}{18}{section.1.2}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{18}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Structure}{19}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Background}{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Energy}{21}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Greenhouse gases}{23}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Data centers}{25}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Study design}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Research questions}{27}{section.3.1}%
+\contentsline {section}{\numberline {2.2}Greenhouse Gases}{23}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Data Centers}{25}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Study Design}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Questions}{27}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Methodology}{27}{section.3.2}%
 \contentsline {chapter}{\numberline {4}Energy used from Data Centers}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Energy used for running servers}{30}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Server states}{31}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Backup generators}{32}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Energy used for thermal management}{32}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Free cooling}{34}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{35}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.1}Energy used for running Servers}{30}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Server States}{31}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Backup Generators}{32}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{32}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{34}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{35}{subsection.4.2.2}%
 \contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{37}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Clouds and virtualization}{39}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Clouds and Virtualization}{39}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{41}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{42}{section.7.1}%
 \contentsline {chapter}{\numberline {8}Results}{43}{chapter.8}%
