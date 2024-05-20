@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {4.2}Energy used for thermal management}{32}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Free cooling}{34}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{35}{subsection.4.2.2}%
-\contentsline {chapter}{\numberline {5}Hardware footprint}{37}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{37}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Clouds and virtualization}{39}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{41}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{42}{section.7.1}%
@@ -25,18 +25,18 @@
 \contentsline {chapter}{\numberline {9}Heading on Level\xspace 0 (chapter)}{45}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Heading on Level\xspace 1 (section)}{45}{section.9.1}%
 \contentsline {subsection}{\numberline {9.1.1}Heading on Level\xspace 2 (subsection)}{45}{subsection.9.1.1}%
-\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{45}{subsubsection*.23}%
-\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{46}{paragraph*.25}%
+\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{45}{subsubsection*.22}%
+\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{46}{paragraph*.24}%
 \contentsline {section}{\numberline {9.2}Lists}{46}{section.9.2}%
 \contentsline {subsection}{\numberline {9.2.1}Example for list\xspace (itemize)}{46}{subsection.9.2.1}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{46}{subsubsection*.27}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{46}{subsubsection*.26}%
 \contentsline {subsection}{\numberline {9.2.2}Example for list\xspace (enumerate)}{47}{subsection.9.2.2}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{47}{subsubsection*.29}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{47}{subsubsection*.28}%
 \contentsline {subsection}{\numberline {9.2.3}Example for list\xspace (description)}{47}{subsection.9.2.3}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{48}{subsubsection*.31}%
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{48}{subsubsection*.30}%
 \contentsline {chapter}{\numberline {10}Related Work}{49}{chapter.10}%
 \contentsline {chapter}{\numberline {11}Conclusion and Outlook}{51}{chapter.11}%
-\contentsline {chapter}{\nonumberline Bibliography}{53}{chapter*.33}%
+\contentsline {chapter}{\nonumberline Bibliography}{53}{chapter*.32}%
 \contentsline {chapter}{\numberline {A}LaTeX Hints}{61}{appendix.A}%
 \contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{61}{section.A.1}%
 \contentsline {section}{\numberline {A.2}Citations}{61}{section.A.2}%

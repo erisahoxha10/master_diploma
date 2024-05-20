@@ -49,12 +49,11 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free cooling}{34}{subsection.4.2.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{35}{figure.caption.20}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{35}{subsection.4.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Hardware footprint}{37}{chapter.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{37}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces The range of PUE; Source: IDC Foresight Industry Research Institute}}{38}{figure.caption.21}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {6}Clouds and virtualization}{39}{chapter.6}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
@@ -78,15 +77,15 @@
 \@writefile{lopytx}{\addvspace {10\p@ }}
 \@writefile{toc}{\contentsline {section}{\numberline {9.1}Heading on Level\xspace 1 (section)}{45}{section.9.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {9.1.1}Heading on Level\xspace 2 (subsection)}{45}{subsection.9.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{45}{subsubsection*.23}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{46}{paragraph*.25}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{45}{subsubsection*.22}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{46}{paragraph*.24}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {9.2}Lists}{46}{section.9.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {9.2.1}Example for list\xspace (itemize)}{46}{subsection.9.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{46}{subsubsection*.27}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{46}{subsubsection*.26}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {9.2.2}Example for list\xspace (enumerate)}{47}{subsection.9.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{47}{subsubsection*.29}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{47}{subsubsection*.28}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {9.2.3}Example for list\xspace (description)}{47}{subsection.9.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{48}{subsubsection*.31}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{48}{subsubsection*.30}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {10}Related Work}{49}{chapter.10}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
@@ -97,7 +96,7 @@
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\nonumberline Bibliography}{53}{chapter*.33}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\nonumberline Bibliography}{53}{chapter*.32}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
@@ -114,28 +113,28 @@
 \@writefile{toc}{\contentsline {section}{\numberline {A.4}Sourcecode}{63}{section.A.4}\protected@file@percent }
 \@writefile{alg}{\contentsline {Algorithmus}{\numberline {A.1}{\ignorespaces Sample algorithm}}{64}{Algorithmus.A.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.5}Pseudocode}{64}{section.A.5}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{65}{figure.caption.34}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{65}{figure.caption.33}\protected@file@percent }
 \@writefile{alg}{\contentsline {Algorithmus}{\numberline {A.2}{\ignorespaces Description \relax }}{65}{Algorithmus.A.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.6}Figures}{65}{section.A.6}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.7}More Illustrations}{65}{section.A.7}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{66}{figure.caption.35}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{66}{figure.caption.36}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{67}{figure.caption.37}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{68}{figure.caption.38}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{66}{figure.caption.34}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{66}{figure.caption.35}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{67}{figure.caption.36}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{68}{figure.caption.37}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.8}Plots with pgfplots}{69}{section.A.8}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{69}{figure.caption.39}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{69}{figure.caption.40}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{69}{figure.caption.38}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{69}{figure.caption.39}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.9}Figures with tikz}{69}{section.A.9}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{70}{figure.caption.41}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{70}{figure.caption.40}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{70}{section.A.10}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{70}{section.A.11}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.12}Linguistic Forests}{70}{section.A.12}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.13}Tables}{70}{section.A.13}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{70}{subsection.A.13.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{71}{figure.caption.42}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {A.1}{\ignorespaces Example Table}}{71}{table.caption.43}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {A.2}{\ignorespaces Example table for 4 constraints (W-Z), each having 4 parameters with (M und SD). Note: use always the same number of decimal places.}}{72}{table.caption.44}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {A.3}{\ignorespaces Table directly generated from the values of a csf file.}}{72}{table.caption.45}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{71}{figure.caption.41}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {A.1}{\ignorespaces Example Table}}{71}{table.caption.42}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {A.2}{\ignorespaces Example table for 4 constraints (W-Z), each having 4 parameters with (M und SD). Note: use always the same number of decimal places.}}{72}{table.caption.43}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {A.3}{\ignorespaces Table directly generated from the values of a csf file.}}{72}{table.caption.44}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{72}{section.A.14}\protected@file@percent }
 \@writefile{lot}{\contentsline {table}{\numberline {A.4}{\ignorespaces A sample long table.}}{72}{table.A.4}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A.15}Abbreviations}{74}{section.A.15}\protected@file@percent }
