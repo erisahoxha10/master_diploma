@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3086,35 +3086,35 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 [19{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.en
 c}] [20 <./graphics//leading-countries-by-number-of-data-centers-2024.png>]
 chapter 2.
-<graphics//pie_chart_energy_draw.png, id=455, 407.121pt x 237.88875pt>
+<graphics//pie_chart_energy_draw.png, id=457, 407.121pt x 237.88875pt>
 File: graphics//pie_chart_energy_draw.png Graphic file (type png)
 <use graphics//pie_chart_energy_draw.png>
 Package pdftex.def Info: graphics//pie_chart_energy_draw.png  used on input lin
 e 296.
 (pdftex.def)             Requested size: 426.79135pt x 249.39851pt.
-<graphics//energy_management.jpg, id=458, 374.09235pt x 305.05548pt>
+<graphics//energy_management.jpg, id=466, 374.09235pt x 305.05548pt>
 File: graphics//energy_management.jpg Graphic file (type jpg)
 <use graphics//energy_management.jpg>
 Package pdftex.def Info: graphics//energy_management.jpg  used on input line 30
-4.
+8.
 (pdftex.def)             Requested size: 426.79135pt x 348.05545pt.
 [21
 
 
-] [22 <./graphics//pie_chart_energy_draw.png>]
-<graphics//total-ghg-emissions.png, id=494, 3412.75pt x 3403.71625pt>
+] [22 <./graphics//pie_chart_energy_draw.png>] [23 <./graphics//energy_manageme
+nt.jpg>]
+<graphics//total-ghg-emissions.png, id=508, 3412.75pt x 3403.71625pt>
 File: graphics//total-ghg-emissions.png Graphic file (type png)
 <use graphics//total-ghg-emissions.png>
 Package pdftex.def Info: graphics//total-ghg-emissions.png  used on input line 
-343.
+350.
 (pdftex.def)             Requested size: 426.79135pt x 425.6193pt.
- [23 <./graphics//energy_management.jpg>] [24 <./graphics//total-ghg-emissions.
-png>]
-<graphics//data_center_structure.jpg, id=515, 397.16522pt x 298.0338pt>
+ [24 <./graphics//total-ghg-emissions.png>]
+<graphics//data_center_structure.jpg, id=527, 397.16522pt x 298.0338pt>
 File: graphics//data_center_structure.jpg Graphic file (type jpg)
 <use graphics//data_center_structure.jpg>
 Package pdftex.def Info: graphics//data_center_structure.jpg  used on input lin
-e 363.
+e 372.
 (pdftex.def)             Requested size: 426.79135pt x 320.27092pt.
  [25] [26 <./graphics//data_center_structure.jpg>]
 chapter 3.
@@ -3126,45 +3126,45 @@ chapter 3.
 
 ]
 chapter 4.
-<graphics//Component-wise-energy-consumption-of-a-server.png, id=548, 289.68225
+<graphics//Component-wise-energy-consumption-of-a-server.png, id=563, 289.68225
 pt x 173.448pt>
 File: graphics//Component-wise-energy-consumption-of-a-server.png Graphic file 
 (type png)
 <use graphics//Component-wise-energy-consumption-of-a-server.png>
 Package pdftex.def Info: graphics//Component-wise-energy-consumption-of-a-serve
-r.png  used on input line 443.
+r.png  used on input line 453.
 (pdftex.def)             Requested size: 426.79135pt x 255.56361pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 448.
+(Font)              scaled to size 8.0pt on input line 458.
 [29]
-<graphics//power_breakdown_across_the_components_of_two_servers.jpg, id=568, 42
+<graphics//power_breakdown_across_the_components_of_two_servers.jpg, id=583, 42
 9.40425pt x 220.4235pt>
 File: graphics//power_breakdown_across_the_components_of_two_servers.jpg Graphi
 c file (type jpg)
 <use graphics//power_breakdown_across_the_components_of_two_servers.jpg>
 Package pdftex.def Info: graphics//power_breakdown_across_the_components_of_two
-_servers.jpg  used on input line 460.
+_servers.jpg  used on input line 470.
 (pdftex.def)             Requested size: 426.79135pt x 219.09439pt.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 11.28003pt on input line 467.
+(Font)              scaled to size 11.28003pt on input line 477.
  [30 <./graphics//Component-wise-energy-consumption-of-a-server.png>]
 [31 <./graphics//power_breakdown_across_the_components_of_two_servers.jpg>]
-<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=602, 415.5525
+<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=617, 415.5525
 pt x 121.6545pt>
 File: graphics//Cooling_System_with_Raised_Floor_Configuration.png Graphic file
  (type png)
 <use graphics//Cooling_System_with_Raised_Floor_Configuration.png>
 Package pdftex.def Info: graphics//Cooling_System_with_Raised_Floor_Configurati
-on.png  used on input line 489.
+on.png  used on input line 499.
 (pdftex.def)             Requested size: 426.79135pt x 124.94911pt.
 
 [32 <./graphics//Cooling_System_with_Raised_Floor_Configuration.png>] [33]
-<graphics//indirect_water_cooling_system.png, id=649, 1822.4085pt x 829.9005pt>
+<graphics//indirect_water_cooling_system.png, id=664, 1822.4085pt x 829.9005pt>
 
 File: graphics//indirect_water_cooling_system.png Graphic file (type png)
 <use graphics//indirect_water_cooling_system.png>
 Package pdftex.def Info: graphics//indirect_water_cooling_system.png  used on i
-nput line 555.
+nput line 565.
 (pdftex.def)             Requested size: 426.79135pt x 194.35548pt.
 
 [34] [35 <./graphics//indirect_water_cooling_system.png>] [36
@@ -3172,11 +3172,11 @@ nput line 555.
 
 ]
 chapter 5.
-<graphics//dc_component_recycling_process.png, id=687, 1445.4pt x 794.97pt>
+<graphics//dc_component_recycling_process.png, id=702, 1445.4pt x 794.97pt>
 File: graphics//dc_component_recycling_process.png Graphic file (type png)
 <use graphics//dc_component_recycling_process.png>
 Package pdftex.def Info: graphics//dc_component_recycling_process.png  used on 
-input line 590.
+input line 600.
 (pdftex.def)             Requested size: 426.79135pt x 234.73245pt.
 [37] [38 <./graphics//dc_component_recycling_process.png>]
 chapter 6.
@@ -3214,26 +3214,26 @@ chapter 11.
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 686.
+(Font)              scaled to size 10.95pt on input line 696.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 686.
+(Font)              scaled to size 10.95pt on input line 696.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 68
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 69
 6.
 (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 686.
+(Font)              scaled to size 9.85492pt on input line 696.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 686.
+(Font)              scaled to size 10.95pt on input line 696.
 
 [53{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
 pc.enc}{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i
 4-t1-1.enc}] [54] [55] [56]
-Underfull \hbox (badness 1939) in paragraph at lines 687--687
+Underfull \hbox (badness 1939) in paragraph at lines 697--697
 []\T1/ntxtlf/m/n/10.95 (+20) H. Ritchie, P. Rosado. ^^P  Fos-sil fu-els^^Q. In:
  \T1/ntxtlf/m/it/10.95 (+20) Our World in Data \T1/ntxtlf/m/n/10.95 (+20) (2017
 ).
@@ -3241,7 +3241,7 @@ Underfull \hbox (badness 1939) in paragraph at lines 687--687
 
 [57] [58]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 686.
+(Font)              scaled to size 6.1pt on input line 696.
  [59] (latexhints-english.tex [60]
 chapter A.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
@@ -3519,7 +3519,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-<graphics//choreography.pdf, id=1134, 588.1442pt x 377.82657pt>
+<graphics//choreography.pdf, id=1153, 588.1442pt x 377.82657pt>
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 218.
@@ -3686,25 +3686,17 @@ Package nag Warning: 1 complaints in total.
 LaTeX2e <2023-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main-english.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main-english.run.xml'.
 \openout1 = `main-english.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 90409 strings out of 474485
- 2098618 string characters out of 5745150
- 3379270 words of memory out of 5000000
- 110482 multiletter control sequences out of 15000+600000
+ 90418 strings out of 474485
+ 2098781 string characters out of 5745150
+ 3379834 words of memory out of 5000000
+ 110491 multiletter control sequences out of 15000+600000
  700780 words of font info for 358 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  126i,21n,197p,10923b,3482s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3726,9 +3718,9 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (77 pages, 2740850 bytes).
+Output written on main-english.pdf (77 pages, 2744024 bytes).
 PDF statistics:
- 1543 PDF objects out of 1728 (max. 8388607)
+ 1562 PDF objects out of 1728 (max. 8388607)
  372 named destinations out of 1000 (max. 500000)
  111146 words of extra memory for PDF output out of 128383 (max. 10000000)
 
