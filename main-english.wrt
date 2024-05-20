@@ -10,8 +10,8 @@
 \@writefile{lopytx}{\addvspace {10\p@ }}
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}Motivation}{17}{section.1.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces Total Data Traffic Forecast through 2030. Source: “Impact of AI on Electronics and Semiconductor Industries”, IBS, April 2020}}{17}{figure.caption.9}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces Data Center distribution worldwide; Source: Data Center Map}}{18}{figure.caption.10}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {1.2}Problem Statement}{18}{section.1.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces Data Center distribution worldwide; Source: Data Center Map \blx@tocontentsinit {0}\cite {datacentermapDataCenters}}}{18}{figure.caption.10}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}Problem Statement}{19}{section.1.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Structure}{19}{section.1.3}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {1.3}{\ignorespaces Leading countries by the number of data centers; Source Statista\blx@tocontentsinit {0}\cite {statista_2024}}}{20}{figure.caption.11}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Background}{21}{chapter.2}\protected@file@percent }

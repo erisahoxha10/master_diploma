@@ -1820,6 +1820,29 @@
       \endverb
       \keyw{Cloud server,Heterogeneous cloud environment,Power measurement,Power model,Distributed system}
     \endentry
+    \entry{datacentermapDataCenters}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=06bb954dc48090734ccee19c5075feab}{%
+           family={Map},
+           familyi={M\bibinitperiod},
+           given={Data\bibnamedelima Center},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{06bb954dc48090734ccee19c5075feab}
+      \strng{fullhash}{06bb954dc48090734ccee19c5075feab}
+      \strng{bibnamehash}{06bb954dc48090734ccee19c5075feab}
+      \strng{authorbibnamehash}{06bb954dc48090734ccee19c5075feab}
+      \strng{authornamehash}{06bb954dc48090734ccee19c5075feab}
+      \strng{authorfullhash}{06bb954dc48090734ccee19c5075feab}
+      \field{labelalpha}{Map24}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.datacentermap.com/datacenters/}}
+      \field{title}{Data Centers}
+      \field{year}{2024}
+    \endentry
     \entry{powernap_server}{article}{}
       \name{author}{3}{}{%
         {{hash=8e1493be9c25cbcff4be9509c0696452}{%
@@ -1873,66 +1896,6 @@
       \verb https://doi.org/10.1145/2528521.1508269
       \endverb
       \keyw{servers,power management}
-    \endentry
-    \entry{doi:10.1126/science.aba3758}{article}{}
-      \name{author}{5}{}{%
-        {{hash=f60849884bee24169fdade67f4446732}{%
-           family={Masanet},
-           familyi={M\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-        {{hash=8096724142e90c2bbd9770089f76969b}{%
-           family={Shehabi},
-           familyi={S\bibinitperiod},
-           given={Arman},
-           giveni={A\bibinitperiod}}}%
-        {{hash=43514fc3264df0756440cc8aa45b5556}{%
-           family={Lei},
-           familyi={L\bibinitperiod},
-           given={Nuoa},
-           giveni={N\bibinitperiod}}}%
-        {{hash=2912904f92df0eacbcb2f7fbeaedfaea}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Sarah},
-           giveni={S\bibinitperiod}}}%
-        {{hash=1120ab390aacef8b6273606f9224131f}{%
-           family={Koomey},
-           familyi={K\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{6bf4e7bfb6687766914748c756d98ea2}
-      \strng{fullhash}{945efed2e485d54521243e9a7acb67c7}
-      \strng{bibnamehash}{945efed2e485d54521243e9a7acb67c7}
-      \strng{authorbibnamehash}{945efed2e485d54521243e9a7acb67c7}
-      \strng{authornamehash}{6bf4e7bfb6687766914748c756d98ea2}
-      \strng{authorfullhash}{945efed2e485d54521243e9a7acb67c7}
-      \field{labelalpha}{MSL+20}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Growth in energy use has slowed owing to efficiency gains that smart policies can help maintain in the near term Data centers represent the information backbone of an increasingly digitalized world. Demand for their services has been rising rapidly (1), and data-intensive technologies such as artificial intelligence, smart and connected energy systems, distributed manufacturing systems, and autonomous vehicles promise to increase demand further (2). Given that data centers are energy-intensive enterprises, estimated to account for around 1\% of worldwide electricity use, these trends have clear implications for global energy demand and must be analyzed rigorously. Several oft-cited yet simplistic analyses claim that the energy used by the world's data centers has doubled over the past decade and that their energy use will triple or even quadruple within the next decade (3–5). Such estimates contribute to a conventional wisdom (5, 6) that as demand for data center services rises rapidly, so too must their global energy use. But such extrapolations based on recent service demand growth indicators overlook strong countervailing energy efficiency trends that have occurred in parallel (see the first figure). Here, we integrate new data from different sources that have emerged recently and suggest more modest growth in global data center energy use (see the second figure). This provides policy-makers and energy analysts a recalibrated understanding of global data center energy use, its drivers, and near-term efficiency potential.}
-      \field{journaltitle}{Science}
-      \field{number}{6481}
-      \field{title}{Recalibrating global data center energy-use estimates}
-      \field{volume}{367}
-      \field{year}{2020}
-      \field{pages}{984\bibrangedash 986}
-      \range{pages}{3}
-      \verb{doi}
-      \verb 10.1126/science.aba3758
-      \endverb
-      \verb{eprint}
-      \verb https://www.science.org/doi/pdf/10.1126/science.aba3758
-      \endverb
-      \verb{urlraw}
-      \verb https://www.science.org/doi/abs/10.1126/science.aba3758
-      \endverb
-      \verb{url}
-      \verb https://www.science.org/doi/abs/10.1126/science.aba3758
-      \endverb
     \endentry
     \entry{mekhilef2012comparative}{article}{}
       \name{author}{3}{}{%
@@ -2251,6 +2214,51 @@
       \field{journaltitle}{arXiv preprint arXiv:2104.10350}
       \field{title}{Carbon emissions and large neural network training}
       \field{year}{2021}
+    \endentry
+    \entry{pang2015programmers}{article}{}
+      \name{author}{4}{}{%
+        {{hash=693ee03985b6d98388abc2322c797056}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Candy},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a1c3b1c7ade656b4f3b8d9faf9e8608e}{%
+           family={Hindle},
+           familyi={H\bibinitperiod},
+           given={Abram},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc191f92000b5aaddb093f1dbf1d7974}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Bram},
+           giveni={B\bibinitperiod}}}%
+        {{hash=37a79f9b3d67c262a89ed8c5521d654f}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Ahmed\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{098a4136ad0b60b62c8a58ecbdd7db2c}
+      \strng{fullhash}{9a28ed1088979ba4d8b8fa6fda4ba8ab}
+      \strng{bibnamehash}{9a28ed1088979ba4d8b8fa6fda4ba8ab}
+      \strng{authorbibnamehash}{9a28ed1088979ba4d8b8fa6fda4ba8ab}
+      \strng{authornamehash}{098a4136ad0b60b62c8a58ecbdd7db2c}
+      \strng{authorfullhash}{9a28ed1088979ba4d8b8fa6fda4ba8ab}
+      \field{labelalpha}{PHAH15}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Software}
+      \field{number}{3}
+      \field{title}{What do programmers know about software energy consumption?}
+      \field{volume}{33}
+      \field{year}{2015}
+      \field{pages}{83\bibrangedash 89}
+      \range{pages}{7}
     \endentry
     \entry{google2020thirddecade}{misc}{}
       \name{author}{1}{}{%
@@ -2981,6 +2989,36 @@
       \field{title}{{G}artner {F}orecasts {W}orldwide {I}{T} {S}pending to {G}row 8\% in 2024}
       \field{year}{2024}
     \endentry
+    \entry{swacha2022models}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f8b6cb4e5c5b0423414f1badee0c458}{%
+           family={Swacha},
+           familyi={S\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{fullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{bibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{authorbibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{authornamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{authorfullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \field{labelalpha}{Swa22}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{number}{1}
+      \field{title}{Models of sustainable software: A scoping review}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{551}
+      \range{pages}{1}
+    \endentry
     \entry{shahbaz2022impact}{article}{}
       \name{author}{4}{}{%
         {{hash=db2790fc4631f5bc313a7a6d27475501}{%
@@ -3024,6 +3062,29 @@
       \field{year}{2022}
       \field{pages}{112620}
       \range{pages}{1}
+    \endentry
+    \entry{blogAccelerateAdvanced}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c16e6a82f9219f98a1d562f076fce88c}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={Devon},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c16e6a82f9219f98a1d562f076fce88c}
+      \strng{fullhash}{c16e6a82f9219f98a1d562f076fce88c}
+      \strng{bibnamehash}{c16e6a82f9219f98a1d562f076fce88c}
+      \strng{authorbibnamehash}{c16e6a82f9219f98a1d562f076fce88c}
+      \strng{authornamehash}{c16e6a82f9219f98a1d562f076fce88c}
+      \strng{authorfullhash}{c16e6a82f9219f98a1d562f076fce88c}
+      \field{labelalpha}{Swe23}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://blog.google/outreach-initiatives/sustainability/advanced-clean-energy-google-paper/}}
+      \field{title}{How we can accelerate advanced clean energy technologies}
+      \field{year}{2023}
     \endentry
     \entry{submerImmersionCooling}{misc}{}
       \name{author}{2}{}{%

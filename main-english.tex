@@ -207,27 +207,28 @@
 
 \chapter{Introduction}
 \section{Motivation}
-Climate change is one of the hottest topics of this century. GHG contribute the most in heating of the planet. It is estimated that data centers alone cause 3.7\% of all greenhouse emissions, thus exceeding the emissions from commercial flights in 2022. The demands for IT services and technologies have been increasing with the advancements of machine learning, AI, cloud gaming, streaming etc. Data storage is estimated to reach 175ZB in 2025\cite{zhou2021role}. 
+The issue of climate change has been a topic of discussion in the present day. \gls{ghg} contribute the most in heating of the planet. It is estimated that data centers alone cause 3.7\% of all greenhouse emissions, thus exceeding the emissions from commercial flights in 2022. The demand for \gls{it} services and technologies has been increasing with the advancements of machine learning, \gls{ai}, cloud gaming, streaming etc. Data storage is estimated to reach 175 ZB in 2025\cite{zhou2021role} as figure \ref{total_data_traffic} shows. 
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{total_data_traffic_zb.png}
 	\caption{Total Data Traffic Forecast through 2030. Source: “Impact of AI on Electronics and Semiconductor Industries”, IBS, April 2020}
+	\label{total_data_traffic}
 \end{figure}
 This growth of data processing and data storage has improved the quality of our life, but at the same time hundreds of MtCO2 are released yearly from this. As of today, USA has the largest number of data centers in the world with more than 2000 sites, thus causing highest carbon footprint per country based. Figure \ref{datacentermap} shows a distribution of data centers worldwide. While in the beginning of the century these data centers were not build thinking about their environmental impact, this has seemed to change in the recent years. There have been improvements in the way data centers are build, where they are build and there has been refinement in the hardware used. So the same algorithm can be executed in less power consumption. 
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{datacentermap.jpg}
-	\caption{Data Center distribution worldwide; Source: Data Center Map}
+	\caption{Data Center distribution worldwide; Source: Data Center Map \cite{datacentermapDataCenters}}
 	\label{datacentermap}
 \end{figure}
-Many institutions have already migrated their services to clouds and decreasing their overall footprint. With big cloud providers like AWS, companies can decide where they want to host their services and can track their environmental effect while the resources are being managed more efficiently.Big companies have advanced in reducing carbon release and Google today uses 100\% green energy. But other smaller companies still do not have the right mastery energy management. 
+Many institutions have already migrated their services to clouds and decreasing their overall footprint. With big cloud providers like \gls{aws}, companies can decide where they want to host their services and can track their environmental effect while the resources are being managed more efficiently. Big companies have advanced in reducing carbon release and Google today uses 100\% green energy\cite{blogAccelerateAdvanced}. But other smaller companies still do not have the right mastery energy in  management. 
 
-Instructions that that a computer what actions to perform are mainly softwares\cite{Britannica_2024}. Software does not consume energy by itself directly, it directs and influences the operations of hardware, therefore causing carbon emissions. In a survey committed by programmers, only 18\% of them stated that they build these programs with efficiency in mind. Considerable work has been done in the development of software with sustainability at its core, thanks to the advancements made in Software Engineering for Sustainability (SE4S). Nevertheless, since this is a relatively new field of study, there is still a significant amount of work to be carried out in this area.
+Software that runs on servers are indirectly the cause of energy consumption, as it tells the computer what actions to perform\cite{Britannica_2024}. Software does not consume energy by itself directly, but it directs and influences the operations of hardware, therefore causing carbon emissions. In a survey committed by programmers, only 18\% of them stated that they build these programs with efficiency in mind\cite{pang2015programmers}. Considerable work has been done in the development of software with sustainability at its core, thanks to the advancements made in \gls{se4s} \cite{swacha2022models}. Nevertheless, since this is a relatively new field of study, there is still a significant amount of work to be carried out in this area.
 
 
 %It will therefore be important to address sustainability holistically across the various components of total lifecycle exergy.
 %softwares are not optimized
-IT in some way has improved our lives in terms of: Life Satisfaction (Trust and Safety), Mobility (Culture and Sports), Integration (Sustainability) and Public Services\cite{nevado2019improving}. Now we can attend a company meeting from the comfort of our own homes instead of commuting to office and therefore lowering overall carbon release. Also there exist data centers that are just tackling the CO2 release itself. So, IT has done more good in terms of carbon emissions, but with the newest researches, the situation can be improved a lot still in terms of electricity production, space and thermal management. GeSISmarter report from 2020 stated the that greenhouse gas emissions can be reduced by 16.5\% (9.1GtCO2) with effective use of IT\cite{cosar2019carbon}. 
+IT in some way has improved our lives in terms of: Life Satisfaction (Trust and Safety), Mobility (Culture and Sports), Integration (Sustainability) and Public Services\cite{nevado2019improving}. Now we can attend a company meeting from the comfort of our own homes instead of commuting to office and therefore lowering overall carbon release. Also there exist data centers that are just tackling the CO2 release itself. So, IT has done more good in terms of carbon emissions, but with the newest researches, the situation can be improved a lot still in terms of electricity production, space and thermal management. GeSISmarter report from 2020 stated the that greenhouse gas emissions can be reduced by 16.5\% (9.1GtCO2) with effective use of \gls{it} \cite{cosar2019carbon}. 
 
 
 \section{Problem Statement}
@@ -242,10 +243,10 @@ In 2006, the British mathematician and entrepreneur Clive Humby coined the phras
 
 Data centers constructed in the past did not take into consideration the environmental considerations. However, as the demand for various products, systems, and activities grew, it became evident that they had a significant carbon footprint. \cite{zhu2023future} concluded:
 \begin{enumerate}
-	\item Approximately 20–40\% of the energy consumed by DC can be reduced by optimizing IT equipment, including server layout adjustment, virtualization technology, and storage equipment improvement.
+	\item Approximately 20–40\% of the energy consumed by \gls{dc} can be reduced by optimizing \gls{it} equipment, including server layout adjustment, virtualization technology, and storage equipment improvement.
 	\item Approximately 15–27\% of the energy consumed by DC can be reduced via research and development of advanced cooling technologies, including natural cooling and liquid cooling to achieve sustainability.
-	\item DCs' ECER strategies are affected by the differences in geographical location, natural resources and economic basis, and the single energy-saving method is difficult to meet the goal of zero-carbon emission.
-	\item The key challenges and potential opportunities in the future decarbonization path of DCs are summarized from the perspectives of policy reform, technological innovation, and resource diversification and management, which is great significance to the realization of zero-carbon DCs and the sustainable development of human society.
+	\item \gls{dc}s' \gls{ecer} strategies are affected by the differences in geographical location, natural resources and economic basis, and the single energy-saving method is difficult to meet the goal of zero-carbon emission.
+	\item The key challenges and potential opportunities in the future decarbonization path of \gls{dc}s are summarized from the perspectives of policy reform, technological innovation, and resource diversification and management, which is great significance to the realization of zero-carbon \gls{dc}s and the sustainable development of human society.
 \end{enumerate}
 
 
@@ -259,11 +260,13 @@ Data centers constructed in the past did not take into consideration the environ
 
 \section{Structure}
 
-In the following, the structure is outlines as follows:
+In the following, the structure is outlined as follows:
+
+%change it to third person - recommended by Ruben
 
 
 \begin{itemize}
-	\item Chapter 2 is the background of this all this and has three subpoints: Energy, Greenhouse Gases and Data Centers
+	\item Chapter 2 is the background of this all this theses and has three subpoints: Energy, Greenhouse Gases and Data Centers
 	\item Chapter 3 is the Study Design along where I included my research questions and the methodology in my research used to find answers for those questions
 	\item Chapter 4 is about all about Energy. In this chapter I studied separately the energy used for running servers and energy used for cooling
 	\item Chapter 5 is the hardware footprint of data centers in years
