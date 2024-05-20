@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  19 MAY 2024 20:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 02:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3160,13 +3160,13 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
  [31 <./graphics//power_breakdown_across_the_components_of_two_servers.jpg>] [3
 2] [33]
 <graphics//Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid_cool
-ing.jpg, id=562, 342.41525pt x 144.82909pt>
+ing.jpg, id=572, 342.41525pt x 144.82909pt>
 File: graphics//Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid
 _cooling.jpg Graphic file (type jpg)
 <use graphics//Single-phase_submerged_liquid_coolingTwo-phase_submerged_liquid_
 cooling.jpg>
 Package pdftex.def Info: graphics//Single-phase_submerged_liquid_coolingTwo-pha
-se_submerged_liquid_cooling.jpg  used on input line 520.
+se_submerged_liquid_cooling.jpg  used on input line 521.
 (pdftex.def)             Requested size: 426.79135pt x 180.52098pt.
 
 [34 <./graphics//Single-phase_submerged_liquid_coolingTwo-phase_submerged_liqui
@@ -3175,11 +3175,11 @@ d_cooling.jpg>] [35] [36
 
 ]
 chapter 5.
-<graphics//pue_range2012-2019.jpg, id=580, 248.75334pt x 124.44894pt>
+<graphics//pue_range2012-2019.jpg, id=591, 248.75334pt x 124.44894pt>
 File: graphics//pue_range2012-2019.jpg Graphic file (type jpg)
 <use graphics//pue_range2012-2019.jpg>
 Package pdftex.def Info: graphics//pue_range2012-2019.jpg  used on input line 5
-55.
+56.
 (pdftex.def)             Requested size: 426.79135pt x 213.522pt.
 [37] [38 <./graphics//pue_range2012-2019.jpg>]
 chapter 6.
@@ -3217,26 +3217,26 @@ chapter 11.
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 653.
+(Font)              scaled to size 10.95pt on input line 654.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 653.
+(Font)              scaled to size 10.95pt on input line 654.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 65
-3.
+4.
 (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 653.
+(Font)              scaled to size 9.85492pt on input line 654.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 653.
+(Font)              scaled to size 10.95pt on input line 654.
 
 [53{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
 pc.enc}{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i
 4-t1-1.enc}] [54] [55]
-Underfull \hbox (badness 1939) in paragraph at lines 654--654
+Underfull \hbox (badness 1939) in paragraph at lines 655--655
 []\T1/ntxtlf/m/n/10.95 (+20) H. Ritchie, P. Rosado. ^^P  Fos-sil fu-els^^Q. In:
  \T1/ntxtlf/m/it/10.95 (+20) Our World in Data \T1/ntxtlf/m/n/10.95 (+20) (2017
 ).
@@ -3521,7 +3521,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-<graphics//choreography.pdf, id=925, 588.1442pt x 377.82657pt>
+<graphics//choreography.pdf, id=948, 588.1442pt x 377.82657pt>
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 218.
@@ -3703,11 +3703,11 @@ Package logreq Info: Writing requests to 'main-english.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 89953 strings out of 474485
- 2086939 string characters out of 5745150
- 3338843 words of memory out of 5000000
- 110094 multiletter control sequences out of 15000+600000
- 699912 words of font info for 348 fonts, out of 8000000 for 9000
+ 89985 strings out of 474485
+ 2088100 string characters out of 5745150
+ 3343412 words of memory out of 5000000
+ 110115 multiletter control sequences out of 15000+600000
+ 700294 words of font info for 351 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  126i,21n,197p,10923b,3482s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inc
@@ -3728,9 +3728,9 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (75 pages, 2527363 bytes).
+Output written on main-english.pdf (75 pages, 2533871 bytes).
 PDF statistics:
- 1324 PDF objects out of 1440 (max. 8388607)
- 324 named destinations out of 1000 (max. 500000)
+ 1349 PDF objects out of 1440 (max. 8388607)
+ 329 named destinations out of 1000 (max. 500000)
  111146 words of extra memory for PDF output out of 128383 (max. 10000000)
 

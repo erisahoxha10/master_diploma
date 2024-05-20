@@ -460,17 +460,18 @@ In an Atom-based server, the memory subsystem consumes the largest portion of th
 
 
 
-\subsection{Idle servers}
+\subsection{Server states}
 In data centers, the servers are not always active, as servers can be idle. Then, the power consumption of the counterparts can be divided into two parts.
 
 \begin{description}
-	\item[Baseline power] P\textsubscript{base}, which is the power consumption when the machine is idle, includes the power consumption of the fans, CPU, memory, I/O and other motherboard components in their idle state and is often considered as a fixed value.
-	\item[Active power] P\textsubscript{active}, which is the power consumption due to the workload, depends on the workload of the machine and the way it utilizes CPU, memory and I/O components. Hence, the power model can be expressed as the sum of baseline power and active power.
+	\item[Baseline power] P\textsubscript{base}, which is the power consumption when the machine is idle, includes the power consumption of the fans, CPU, memory, I/O and other motherboard components in their idle state and is often considered as a fixed value. Idle servers are troublesome because they are not efficient and expensive\cite{raritanIdleServer}. In 2015, it was estimated that servers were wasting 30\% of energy in idle state, but the situation has improved a lot since then\cite{computerweeklyWasteEnergy}\cite{basmadjian2012modelling}. Methods like PowerNap have been proposed\cite{powernap_server} that eliminate idle power in servers by quickly transitioning in and out of an ultra-low power state. This method reduced in average power relative up to 70\% for Web 2.0 servers.
+	
+	\item[Active power] P\textsubscript{active}, which is the power consumption due to the workload, depends on the workload of the machine and the way it utilizes CPU, memory and I/O components. Hence, the power model can be expressed as the sum of baseline power and active power\cite{JIN2020114806}. 
 \end{description}
 
 
 \subsection{Backup generators}
-Backup generators play a crucial role in ensuring the operational reliability of data centers. These generators, powered by diesel fuel, are responsible for generating electricity during power outages or routine testing. However, it is important to note that when these generators are activated, they produce direct emissions that can have an impact on the environment. While their operational hours may be limited compared to primary equipment, the combustion of diesel fuel leads to a substantial release of greenhouse gases (GHGs).
+Backup generators play a crucial role in ensuring the operational reliability of data centers. These generators, powered by diesel fuel, are responsible for generating electricity during power outages or routine testing. However, it is important to note that when these generators are activated, they produce direct emissions that can have an impact on the environment. While their operational hours may be limited compared to primary equipment, the combustion of fuel leads to a higher release of greenhouse gases (GHGs)\cite{jiang2015energy}.
 
 \section{Energy used for thermal management}
 

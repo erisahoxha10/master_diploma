@@ -415,6 +415,67 @@
       \field{title}{7 major server hardware components you should know}
       \field{year}{2021}
     \endentry
+    \entry{basmadjian2012modelling}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f6fa835ad5d6df6f130ed402b1cf7889}{%
+           family={Basmadjian},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ce12a26dd1b1fe184b02aae61f863026}{%
+           family={Niedermeier},
+           familyi={N\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c75bc6e01a1c66601f847d644ad01d7d}{%
+           family={De\bibnamedelima Meer},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9aa27523bda894f0185b55e3916daba2}
+      \strng{fullhash}{2d71ff89ef211d44802199b68b318578}
+      \strng{bibnamehash}{2d71ff89ef211d44802199b68b318578}
+      \strng{authorbibnamehash}{2d71ff89ef211d44802199b68b318578}
+      \strng{authornamehash}{9aa27523bda894f0185b55e3916daba2}
+      \strng{authorfullhash}{2d71ff89ef211d44802199b68b318578}
+      \field{labelalpha}{BND12}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 Sustainable Internet and ICT for Sustainability (SustainIT)}
+      \field{title}{Modelling and analysing the power consumption of idle servers}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{raritanIdleServer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=43cdc4d0d0063b5dbe46050c0a3934c7}{%
+           family={Ciesla},
+           familyi={C\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{43cdc4d0d0063b5dbe46050c0a3934c7}
+      \strng{fullhash}{43cdc4d0d0063b5dbe46050c0a3934c7}
+      \strng{bibnamehash}{43cdc4d0d0063b5dbe46050c0a3934c7}
+      \strng{authorbibnamehash}{43cdc4d0d0063b5dbe46050c0a3934c7}
+      \strng{authornamehash}{43cdc4d0d0063b5dbe46050c0a3934c7}
+      \strng{authorfullhash}{43cdc4d0d0063b5dbe46050c0a3934c7}
+      \field{labelalpha}{Cie19}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.raritan.com/blog/detail/idle-server-what-does-this-mean-for-your-data-center}}
+      \field{title}{Idle Server; What Does This Mean For Your Data Center?}
+      \field{year}{2019}
+    \endentry
     \entry{corbett2018sustainable}{article}{}
       \name{author}{1}{}{%
         {{hash=ac504b4b7f49c0eb75c573d1d2c74296}{%
@@ -540,6 +601,29 @@
       \field{labeltitlesource}{title}
       \field{title}{Overview of greenhouse gases}
       \field{year}{2017}
+    \endentry
+    \entry{computerweeklyWasteEnergy}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1cb9a97530e617714e11bf2cd6b941db}{%
+           family={Doidg},
+           familyi={D\bibinitperiod},
+           given={Fleur},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{1cb9a97530e617714e11bf2cd6b941db}
+      \strng{fullhash}{1cb9a97530e617714e11bf2cd6b941db}
+      \strng{bibnamehash}{1cb9a97530e617714e11bf2cd6b941db}
+      \strng{authorbibnamehash}{1cb9a97530e617714e11bf2cd6b941db}
+      \strng{authornamehash}{1cb9a97530e617714e11bf2cd6b941db}
+      \strng{authorfullhash}{1cb9a97530e617714e11bf2cd6b941db}
+      \field{labelalpha}{Doi22}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.computerweekly.com/feature/A-waste-of-energy-Dealing-with-idle-servers-in-the-datacentre}}
+      \field{title}{A waste of energy: Dealing with idle servers in the datacentre}
+      \field{year}{2022}
     \endentry
     \entry{dayarathna2015data}{article}{}
       \name{author}{3}{}{%
@@ -957,6 +1041,41 @@
       \endverb
       \keyw{Server,Power consumption model,Data center,Energy performance}
     \endentry
+    \entry{jiang2015energy}{book}{}
+      \name{author}{3}{}{%
+        {{hash=fcb33f0c8626d335119785afb031c1db}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6e179b37ac2319805ed0b07b8975e83c}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a39e14b30fc12aef88508f8f8cbf9cfc}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{02768d2788f983dd8fa2fbfb41e793f8}
+      \strng{fullhash}{3ed85c620957746c3acde2e5474088e3}
+      \strng{bibnamehash}{3ed85c620957746c3acde2e5474088e3}
+      \strng{authorbibnamehash}{3ed85c620957746c3acde2e5474088e3}
+      \strng{authornamehash}{02768d2788f983dd8fa2fbfb41e793f8}
+      \strng{authorfullhash}{3ed85c620957746c3acde2e5474088e3}
+      \field{labelalpha}{JYC15}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Energy management of internet data centers in smart grid}
+      \field{year}{2015}
+    \endentry
     \entry{von2016variations}{inproceedings}{}
       \name{author}{6}{}{%
         {{hash=31410335bdd209f1951d02b659f18720}{%
@@ -1308,6 +1427,60 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0020025518306364
       \endverb
       \keyw{Cloud server,Heterogeneous cloud environment,Power measurement,Power model,Distributed system}
+    \endentry
+    \entry{powernap_server}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8e1493be9c25cbcff4be9509c0696452}{%
+           family={Meisner},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cf253b4573fc7f5cadac46c1b567ee30}{%
+           family={Gold},
+           familyi={G\bibinitperiod},
+           given={Brian\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=90ca42048340f1a0820209537adf0d8d}{%
+           family={Wenisch},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{4e999a360e4c568e6a75d3a713a5de49}
+      \strng{fullhash}{9efbcc54ac52fd3c8b9acede534e72df}
+      \strng{bibnamehash}{9efbcc54ac52fd3c8b9acede534e72df}
+      \strng{authorbibnamehash}{9efbcc54ac52fd3c8b9acede534e72df}
+      \strng{authornamehash}{4e999a360e4c568e6a75d3a713a5de49}
+      \strng{authorfullhash}{9efbcc54ac52fd3c8b9acede534e72df}
+      \field{labelalpha}{MGW09}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0163-5964}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{PowerNap: eliminating server idle power}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{205\bibrangedash 216}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2528521.1508269
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2528521.1508269
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2528521.1508269
+      \endverb
+      \keyw{servers,power management}
     \endentry
     \entry{doi:10.1126/science.aba3758}{article}{}
       \name{author}{5}{}{%

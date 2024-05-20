@@ -42,11 +42,11 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{30}{figure.caption.17}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.1}Energy used for running servers}{30}{section.4.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{31}{figure.caption.18}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Idle servers}{31}{subsection.4.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Server states}{31}{subsection.4.1.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Backup generators}{32}{subsection.4.1.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.2}Energy used for thermal management}{32}{section.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free cooling}{33}{subsection.4.2.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Single-phase submerged liquid cooling, Two-phase submerged liquid cooling.; Source: \blx@tocontentsinit {0}\cite {li2023china}}}{34}{figure.caption.19}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free cooling}{34}{subsection.4.2.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{34}{subsection.4.2.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {5}Hardware footprint}{37}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}

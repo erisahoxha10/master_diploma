@@ -12,10 +12,10 @@
 \contentsline {section}{\numberline {3.2}Methodology}{27}{section.3.2}%
 \contentsline {chapter}{\numberline {4}Energy used from Data Centers}{29}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Energy used for running servers}{30}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Idle servers}{31}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.1}Server states}{31}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {4.1.2}Backup generators}{32}{subsection.4.1.2}%
 \contentsline {section}{\numberline {4.2}Energy used for thermal management}{32}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Free cooling}{33}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.1}Free cooling}{34}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Liquid cooling}{34}{subsection.4.2.2}%
 \contentsline {chapter}{\numberline {5}Hardware footprint}{37}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Clouds and virtualization}{39}{chapter.6}%
