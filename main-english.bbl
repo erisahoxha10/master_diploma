@@ -235,6 +235,36 @@
       \field{pages}{1351\bibrangedash 1359}
       \range{pages}{9}
     \endentry
+    \entry{akbari2003measured}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6e4c1c4a6cfb7a90fc255fca03e1239b}{%
+           family={Akbari},
+           familyi={A\bibinitperiod},
+           given={Hashem},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6e4c1c4a6cfb7a90fc255fca03e1239b}
+      \strng{fullhash}{6e4c1c4a6cfb7a90fc255fca03e1239b}
+      \strng{bibnamehash}{6e4c1c4a6cfb7a90fc255fca03e1239b}
+      \strng{authorbibnamehash}{6e4c1c4a6cfb7a90fc255fca03e1239b}
+      \strng{authornamehash}{6e4c1c4a6cfb7a90fc255fca03e1239b}
+      \strng{authorfullhash}{6e4c1c4a6cfb7a90fc255fca03e1239b}
+      \field{labelalpha}{Akb03}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy}
+      \field{number}{9}
+      \field{title}{Measured energy savings from the application of reflective roofs in two small non-residential buildings}
+      \field{volume}{28}
+      \field{year}{2003}
+      \field{pages}{953\bibrangedash 967}
+      \range{pages}{15}
+    \endentry
     \entry{abas2015review}{article}{}
       \name{author}{3}{}{%
         {{hash=1f17ae0cc81e51561658c0abc225925d}{%
@@ -385,6 +415,30 @@
       \field{year}{2020}
       \field{pages}{40\bibrangedash 47}
       \range{pages}{8}
+    \endentry
+    \entry{bhatia2015hvac}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b17b6fda1b2be78283306f3569e6548a}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b17b6fda1b2be78283306f3569e6548a}
+      \strng{fullhash}{b17b6fda1b2be78283306f3569e6548a}
+      \strng{bibnamehash}{b17b6fda1b2be78283306f3569e6548a}
+      \strng{authorbibnamehash}{b17b6fda1b2be78283306f3569e6548a}
+      \strng{authornamehash}{b17b6fda1b2be78283306f3569e6548a}
+      \strng{authorfullhash}{b17b6fda1b2be78283306f3569e6548a}
+      \field{labelalpha}{Bha15}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Continuing Education and Development, Inc}
+      \field{title}{HVAC Cooling systems for data centers}
+      \field{volume}{22}
+      \field{year}{2015}
     \endentry
     \entry{techtargetMajorServer}{misc}{}
       \name{author}{2}{}{%
@@ -686,6 +740,58 @@
       \field{title}{{Energy logic: reducing data center energy consumption by creating savings that cascade across systems}}
       \field{year}{2015}
     \endentry
+    \entry{ewim2023impact}{article}{}
+      \name{author}{6}{}{%
+        {{hash=0510bc30de254db8f7f397f2ad09e55e}{%
+           family={Ewim},
+           familyi={E\bibinitperiod},
+           given={Daniel\bibnamedelimb Raphael\bibnamedelima Ejike},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=713e772382123d7a33715e79d5a29159}{%
+           family={Ninduwezuor-Ehiobu},
+           familyi={N\bibinithyphendelim E\bibinitperiod},
+           given={Nwakamma},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1254c6ce09573a4a9a6e981a278e2c5c}{%
+           family={Orikpete},
+           familyi={O\bibinitperiod},
+           given={Ochuko\bibnamedelima Felix},
+           giveni={O\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=232fd579f547aeef865386c894b73ffc}{%
+           family={Egbokhaebho},
+           familyi={E\bibinitperiod},
+           given={Blessed\bibnamedelima Afeyokalo},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d62fe2dffb45458c0c36642ed3228692}{%
+           family={Fawole},
+           familyi={F\bibinitperiod},
+           given={Akeeb\bibnamedelima Adepoju},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=37d4879d6e7d5de1cca3a63d8f63aab7}{%
+           family={Onunka},
+           familyi={O\bibinitperiod},
+           given={Chiemela},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a25dae97101eeee8150e5c48be00ccda}
+      \strng{fullhash}{addd2e76f15fec95231416fff4231908}
+      \strng{bibnamehash}{addd2e76f15fec95231416fff4231908}
+      \strng{authorbibnamehash}{addd2e76f15fec95231416fff4231908}
+      \strng{authornamehash}{a25dae97101eeee8150e5c48be00ccda}
+      \strng{authorfullhash}{addd2e76f15fec95231416fff4231908}
+      \field{labelalpha}{ENO+23}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Engineering and Exact Sciences}
+      \field{number}{6}
+      \field{title}{Impact of Data Centers on Climate Change: A Review of Energy Efficient Strategies}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{16397\bibrangedash 01e}
+      \range{pages}{-1}
+    \endentry
     \entry{firozjaei2020effect}{article}{}
       \name{author}{5}{}{%
         {{hash=846288713da2d974dc3edcbe98bccddd}{%
@@ -983,6 +1089,53 @@
       \field{title}{{H}ow {M}uch {E}nergy {D}o {D}ata {C}enters {R}eally {U}se?}
       \field{year}{2020}
     \endentry
+    \entry{jin2020case}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{4}{}{%
+        {{hash=dae3ce123eee51e39a7f159f5d8eccb1}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Chaoqiang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a3732f47da955f23da92a793cf88dd88}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Xuelian},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b78c83b7b6e2fdc405a0d89d13df2866}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Jiacheng},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6acf593281fdd61dd3edd5d1d9499e3d}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Jiahui},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ffc030736bdc2af56b4edd97f2fa7999}
+      \strng{fullhash}{3a1f20dba6597be5f9361a5239e9ee58}
+      \strng{bibnamehash}{3a1f20dba6597be5f9361a5239e9ee58}
+      \strng{authorbibnamehash}{3a1f20dba6597be5f9361a5239e9ee58}
+      \strng{authornamehash}{ffc030736bdc2af56b4edd97f2fa7999}
+      \strng{authorfullhash}{3a1f20dba6597be5f9361a5239e9ee58}
+      \field{extraname}{1}
+      \field{labelalpha}{JBNS+20}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Building and Environment}
+      \field{title}{Case study regarding the thermal environment and energy efficiency of raised-floor and row-based cooling}
+      \field{volume}{182}
+      \field{year}{2020}
+      \field{pages}{107110}
+      \range{pages}{1}
+    \endentry
     \entry{JIN2020114806}{article}{}
       \name{author}{5}{}{%
         {{hash=dae3ce123eee51e39a7f159f5d8eccb1}{%
@@ -1017,6 +1170,7 @@
       \strng{authorbibnamehash}{7add153bd520a7e66c37136add7deab5}
       \strng{authornamehash}{ffc030736bdc2af56b4edd97f2fa7999}
       \strng{authorfullhash}{7add153bd520a7e66c37136add7deab5}
+      \field{extraname}{2}
       \field{labelalpha}{JBY+20}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
@@ -1040,6 +1194,46 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0306261920303184
       \endverb
       \keyw{Server,Power consumption model,Data center,Energy performance}
+    \endentry
+    \entry{jin2019effects}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dae3ce123eee51e39a7f159f5d8eccb1}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Chaoqiang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a3732f47da955f23da92a793cf88dd88}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Xuelian},
+           giveni={X\bibinitperiod}}}%
+        {{hash=454ea16c1c785e565fba3d4d6241e59b}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ffc030736bdc2af56b4edd97f2fa7999}
+      \strng{fullhash}{7a404c9edab3fb62f7453df2070556bd}
+      \strng{bibnamehash}{7a404c9edab3fb62f7453df2070556bd}
+      \strng{authorbibnamehash}{7a404c9edab3fb62f7453df2070556bd}
+      \strng{authornamehash}{ffc030736bdc2af56b4edd97f2fa7999}
+      \strng{authorfullhash}{7a404c9edab3fb62f7453df2070556bd}
+      \field{extraname}{3}
+      \field{labelalpha}{JBY19}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science of the total environment}
+      \field{title}{Effects of airflow on the thermal environment and energy efficiency in raised-floor data centers: A review}
+      \field{volume}{695}
+      \field{year}{2019}
+      \field{pages}{133801}
+      \range{pages}{1}
     \endentry
     \entry{jiang2015energy}{book}{}
       \name{author}{3}{}{%
@@ -1582,6 +1776,55 @@
       \field{pages}{981\bibrangedash 989}
       \range{pages}{9}
     \endentry
+    \entry{moazamigoodarzi2019influence}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0f821a2b3e46c947717aa4276c462afb}{%
+           family={Moazamigoodarzi},
+           familyi={M\bibinitperiod},
+           given={Hosein},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7ec43dc9f6ad3aa69367808ec897be32}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Peiying\bibnamedelima Jennifer},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d26aed0ac26d25b846ebe6354c8e701d}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Souvik},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a84f763fa4a14281cce3dc6044aa5eab}{%
+           family={Ghosh},
+           familyi={G\bibinitperiod},
+           given={Suvojit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9fc0a757374f73449b5ec5d3c82f7597}{%
+           family={Puri},
+           familyi={P\bibinitperiod},
+           given={Ishwar\bibnamedelima K},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{65f62d3dcf7b07848bbce1dd4c6f629e}
+      \strng{fullhash}{d90ecb43b3cf1ec7d87ed6641394776b}
+      \strng{bibnamehash}{d90ecb43b3cf1ec7d87ed6641394776b}
+      \strng{authorbibnamehash}{d90ecb43b3cf1ec7d87ed6641394776b}
+      \strng{authornamehash}{65f62d3dcf7b07848bbce1dd4c6f629e}
+      \strng{authorfullhash}{d90ecb43b3cf1ec7d87ed6641394776b}
+      \field{labelalpha}{MTP+19}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy}
+      \field{title}{Influence of cooling architecture on data center power consumption}
+      \field{volume}{183}
+      \field{year}{2019}
+      \field{pages}{525\bibrangedash 535}
+      \range{pages}{11}
+    \endentry
     \entry{nevado2019improving}{article}{}
       \name{author}{3}{}{%
         {{hash=42eb040e8d7026011476e7bb2d1391db}{%
@@ -1620,6 +1863,45 @@
       \field{year}{2019}
       \field{pages}{119734}
       \range{pages}{1}
+    \endentry
+    \entry{nadjahi2018review}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c11ec8f044c22d908be4197b30b9b6a8}{%
+           family={Nadjahi},
+           familyi={N\bibinitperiod},
+           given={Chayan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fe12d31bf7fd40eab804aa6f757b51a7}{%
+           family={Louahlia},
+           familyi={L\bibinitperiod},
+           given={Hasna},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5225d402bd12545f607fbd856dd3fdc9}{%
+           family={Lemasson},
+           familyi={L\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{280ba680232d3e2a4e281da8d92548b0}
+      \strng{fullhash}{f0f3c6f62a78874ba2d74aa6a1b2fa3d}
+      \strng{bibnamehash}{f0f3c6f62a78874ba2d74aa6a1b2fa3d}
+      \strng{authorbibnamehash}{f0f3c6f62a78874ba2d74aa6a1b2fa3d}
+      \strng{authornamehash}{280ba680232d3e2a4e281da8d92548b0}
+      \strng{authorfullhash}{f0f3c6f62a78874ba2d74aa6a1b2fa3d}
+      \field{labelalpha}{NLL18}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Computing: Informatics and Systems}
+      \field{title}{A review of thermal management and innovative cooling strategies for data center}
+      \field{volume}{19}
+      \field{year}{2018}
+      \field{pages}{14\bibrangedash 28}
+      \range{pages}{15}
     \endentry
     \entry{palmer2006}{misc}{}
       \name{author}{1}{}{%
@@ -2100,6 +2382,46 @@
       \field{pages}{213\bibrangedash 215}
       \range{pages}{3}
     \endentry
+    \entry{susca2011positive}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3934281e85f63d88157eb41d2e391793}{%
+           family={Susca},
+           familyi={S\bibinitperiod},
+           given={Tiziana},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f0cee386d1467b71c133b518a995d344}{%
+           family={Gaffin},
+           familyi={G\bibinitperiod},
+           given={Stuart\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=65be4778bbce56c583d098b2dfdc9c6d}{%
+           family={Dell’Osso},
+           familyi={D\bibinitperiod},
+           given={GR},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e6bf2d0e5bfbc152653e991f19d59644}
+      \strng{fullhash}{1822d317126821acd16abc383ad41b4b}
+      \strng{bibnamehash}{1822d317126821acd16abc383ad41b4b}
+      \strng{authorbibnamehash}{1822d317126821acd16abc383ad41b4b}
+      \strng{authornamehash}{e6bf2d0e5bfbc152653e991f19d59644}
+      \strng{authorfullhash}{1822d317126821acd16abc383ad41b4b}
+      \field{labelalpha}{SGD11}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental pollution}
+      \field{number}{8-9}
+      \field{title}{Positive effects of vegetation: Urban heat island and green roofs}
+      \field{volume}{159}
+      \field{year}{2011}
+      \field{pages}{2119\bibrangedash 2126}
+      \range{pages}{8}
+    \endentry
     \entry{schomaker2015energy}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=be7c73c2c8f9174d264f250f35c8e9dc}{%
@@ -2197,6 +2519,49 @@
       \field{howpublished}{\url{https://www.servethehome.com/memory-bandwidth-per-core-and-per-socket-for-intel-xeon-and-amd-epyc/}}
       \field{month}{2}
       \field{title}{Memory Bandwidth Per Core and Per Socket for Intel Xeon and AMD EPYC}
+      \field{year}{2023}
+    \endentry
+    \entry{stavreva2023best}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f133b7686ea3f2596d3c10820ab24cc6}{%
+           family={Stavreva},
+           familyi={S\bibinitperiod},
+           given={Sevde},
+           giveni={S\bibinitperiod}}}%
+        {{hash=613a370ebbf5de90c108039acc1ab84d}{%
+           family={Popovska-Vasilevska},
+           familyi={P\bibinithyphendelim V\bibinitperiod},
+           given={Sanja},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d997f432df7dcaf7c0edcbc24255207d}{%
+           family={Hristovska},
+           familyi={H\bibinitperiod},
+           given={Elizabeta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=044fe2396a1ebad4a4358af5bfa29e61}{%
+           family={Andreevski},
+           familyi={A\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IJSER Publishing, Inc.}%
+      }
+      \strng{namehash}{2d02f31909566e51d34fa527e38748bc}
+      \strng{fullhash}{49cc5165f2df509fbc219aa8a1220e32}
+      \strng{bibnamehash}{49cc5165f2df509fbc219aa8a1220e32}
+      \strng{authorbibnamehash}{49cc5165f2df509fbc219aa8a1220e32}
+      \strng{authornamehash}{2d02f31909566e51d34fa527e38748bc}
+      \strng{authorfullhash}{49cc5165f2df509fbc219aa8a1220e32}
+      \field{labelalpha}{SPHA23}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific \& Engineering Research}
+      \field{number}{3}
+      \field{title}{Best Practices for Energy Efficiency in Data Center Heating, Ventilation, and Air Conditioning Systems}
+      \field{volume}{14}
       \field{year}{2023}
     \endentry
     \entry{Gartner2024}{article}{}
@@ -2444,6 +2809,122 @@
       \field{year}{2021}
       \field{pages}{100492}
       \range{pages}{1}
+    \endentry
+    \entry{zhang2021survey}{article}{}
+      \name{author}{9}{}{%
+        {{hash=823d3b06eb88f07d9a4ff5ce894b3a38}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qingxia},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=89400352825af551a60b0f74731ed048}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Zihao},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=f0383874f3e8a529f27394be21e6970e}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Xianwen},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6bcae356d68485e6f3988903d73ce0d1}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Yuhao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c3c72b33338b8ef6c1fca8b2abc557ac}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f328aaa73de94b46fc0b775592bcb057}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Jiabao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5c80bbe3b556eb6647d0c87dcf9b20f6}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod}}}%
+        {{hash=58c38c32e53ad52d94b519cfc885f390}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Junyu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5c0c0d984c1b2812b99e9e0587190cb4}{%
+           family={Deen},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima Jamal},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{09f03171f1680c74d1f9874c1983b746}
+      \strng{fullhash}{e5bdc53677194f0ee26f85aa04342f62}
+      \strng{bibnamehash}{e5bdc53677194f0ee26f85aa04342f62}
+      \strng{authorbibnamehash}{e5bdc53677194f0ee26f85aa04342f62}
+      \strng{authornamehash}{09f03171f1680c74d1f9874c1983b746}
+      \strng{authorfullhash}{e5bdc53677194f0ee26f85aa04342f62}
+      \field{extraname}{1}
+      \field{labelalpha}{ZMH+21}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Systems Architecture}
+      \field{title}{A survey on data center cooling systems: Technology, power consumption modeling and control strategy optimization}
+      \field{volume}{119}
+      \field{year}{2021}
+      \field{pages}{102253}
+      \range{pages}{1}
+    \endentry
+    \entry{zhang2021optimization}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3e9bdcbb8bbc1d52ef1d6e391b4b5a59}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=b0fee98ace575eb063c64ebf6160e80b}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Baolian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8496c17beed97149cde26aeaad46a9cd}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhongbin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=026991feaf0116f0234e46d2ed01ca14}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{8ad14cfc5ed27379b0a0c53261962111}
+      \strng{fullhash}{2e26a3d17745f2254bce3bee5dd57332}
+      \strng{bibnamehash}{2e26a3d17745f2254bce3bee5dd57332}
+      \strng{authorbibnamehash}{2e26a3d17745f2254bce3bee5dd57332}
+      \strng{authornamehash}{8ad14cfc5ed27379b0a0c53261962111}
+      \strng{authorfullhash}{2e26a3d17745f2254bce3bee5dd57332}
+      \field{extraname}{2}
+      \field{labelalpha}{ZNZS21}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Science \& Engineering}
+      \field{number}{11}
+      \field{title}{Optimization on jet-induced ventilation to enhance the uniformity of airflow distribution in data center}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{1973\bibrangedash 1996}
+      \range{pages}{24}
     \endentry
     \entry{zhu2023future}{article}{}
       \name{author}{9}{}{%

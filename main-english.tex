@@ -475,33 +475,44 @@ Backup generators play a crucial role in ensuring the operational reliability of
 
 \section{Energy used for thermal management}
 
-Historically, data centers have heavily relied on traditional HVAC (Heating, Ventilation, and Air Conditioning) systems to maintain desired temperatures. However, these systems are known for their high energy consumption. The main reason for this is their use of mechanical cooling, which involves compressors and refrigerants that consume significant amounts of energy, sometimes even matching the energy consumption of the servers themselves.
+Historically, data centers have heavily relied on traditional HVAC (Heating, Ventilation, and Air Conditioning) systems to maintain desired temperatures. However, these systems are known for their high energy consumption. The main reason for this is their use of mechanical cooling, which involves compressors and refrigerants that consume significant amounts of energy, sometimes even matching the energy consumption of the servers themselves\cite{bhatia2015hvac}.
 
-In addition to the energy required to power the servers, a substantial amount of energy is dedicated to cooling them and maintaining optimal operating temperatures. This is necessary because the processors within the servers generate a significant amount of heat during operation. Consequently, server rooms tend to become hot due to the heat produced. To address this challenge, numerous measures have been implemented to effectively manage heat distribution and ensure efficient cooling within data centers.
+In addition to the energy required to power the servers, a substantial amount of energy is dedicated to cooling them and maintaining optimal operating temperatures\cite{zhang2021survey}. This is necessary because the processors within the servers generate a significant amount of heat during operation. Consequently, server rooms tend to become hot due to the heat produced. To address this challenge, numerous measures have been implemented to effectively manage heat distribution and ensure efficient cooling within data centers\cite{zhang2021survey}. Figure \ref{servers_cooling_system} is a design configuration of underfloor air distribution system uses a raised floor plenum to supply conditioned air into a space. The air conditioning equipment, such as CRAC units, is located around the room's perimeter. The conditioned air is delivered upwards through vents or diffusers in the raised floor.
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{Cooling_System_with_Raised_Floor_Configuration.png}
+	\caption{Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\cite{bhatia2015hvac}}
+	\label{servers_cooling_system}
+\end{figure}
 
 Operating computing systems for extended periods of time at high temperatures
 greatly reduces reliability, longevity of components and will likely decrease QoS. ASHRAE has in fact now recommended an acceptable operating temperature range of 18° to 27°C (64° to 81°F) to be optimal for system reliability. For environments with low levels of both copper and silver corrosion, the recommended temperature range is between 18° and 21°C (64 to 69.8 °F). However server manufacturer Dell states that the temperature “sweet spot” for their servers is 26.7°C (80°F)\cite{AVTECH}. Expensive IT equipment should not be operated in computer rooms or data centers where the ambient room temperature exceeds 85°F (30°C)\cite{42U_2016}.
 
-It is worth noting that the excessive energy consumption associated with traditional HVAC systems has prompted the exploration and adoption of more sustainable and energy-efficient cooling solutions in modern data centers. These innovative approaches aim to reduce both the environmental impact and operational costs of data center cooling. By employing advanced cooling techniques, such as liquid cooling, airflow optimization, and heat recycling, data centers can achieve greater energy efficiency and minimize their carbon footprint.
+It is worth noting that the excessive energy consumption associated with traditional HVAC systems has prompted the exploration and adoption of more sustainable and energy-efficient cooling solutions in modern data centers\cite{nadjahi2018review}. These innovative approaches aim to reduce both the environmental impact and operational costs of data center cooling. By employing advanced cooling techniques, such as liquid cooling, airflow optimization, and heat recycling, data centers can achieve greater energy efficiency and minimize their carbon footprint.
 
-Approximately 15–27\% of the energy consumed by DC can be reduced via research and development of advanced cooling technologies, including natural cooling and liquid cooling to achieve sustainability.
+According to \cite{ZHU2023104322} approximately 15–27\% of the energy consumed by DC can be reduced via research and development of advanced cooling technologies, including natural cooling and liquid cooling to achieve sustainability.
 
+Below are some strategies and layout designs that improve air circulation in the server rooms:
+\begin{description}
+	
+	\item[Enhancing Natural Ventilation and Thermal Efficiency]
+	Designs that prioritize natural ventilation, use thermally conductive materials, and optimize server layout can reduce the need for artificial cooling. By enabling efficient airflow, these designs improve temperature regulation in data centers. Materials with high thermal conductivity also help dissipate heat more effectively, keeping servers at optimal operating temperatures. This combination of natural ventilation and thermally conductive materials creates a more energy-efficient data center environment.\cite{zhang2021optimization}\cite{stavreva2023best}.
 
+	\item[Utilizing Energy-Efficient Architectural Features]
+	Implementing certain architectural designs can further enhance the energy efficiency of a data center\cite{moazamigoodarzi2019influence}. For instance, roofs painted with reflective coatings help to reduce heat absorption from the sun, minimizing the need for additional cooling\cite{akbari2003measured}. Green roofs, which incorporate vegetation, provide natural insulation and cooling effects, reducing the overall energy demand\cite{susca2011positive}. Additionally, incorporating thermal buffers such as double-wall constructions can act as a barrier against external temperature fluctuations, maintaining a more stable internal environment. By integrating these features, a data center can inherently become more energy-efficient\cite{ewim2023impact}.
 
-1. Enhancing Natural Ventilation and Thermal Efficiency:
-Designs that prioritize natural ventilation, incorporate thermally conductive materials, and optimize server layout can significantly reduce the reliance on artificial cooling methods. By allowing for the efficient flow of air, these designs promote better airflow management and temperature regulation within data centers. Additionally, utilizing materials with high thermal conductivity helps in dissipating heat more effectively, ensuring that the servers remain at optimum operating temperatures. This combination of natural ventilation and thermally conducive materials creates a more energy-efficient environment within the data center.
+	\item[Innovative Layout Strategies]
+	Hot/cold aisle containment is a cooling strategy for data centers. It involves arranging server racks so that the hot air exhausts are directed one way, and the cold air intakes are directed the other way. This separation of hot and cold airflows helps prevent hot air from being recirculated back into the cold aisle. This improves the overall cooling efficiency and reduces energy consumption\cite{jin2020case}\cite{jin2019effects}.
+	
+	Another layout strategy being explored is vertical server stacking. This configuration takes advantage of the natural physics of heat rising, as hot air naturally moves upward. By stacking servers vertically and strategically placing vents, the vertical arrangement can facilitate better heat dissipation and improve cooling efficiency\cite{jin2020case}\cite{jin2019effects}.
 
-2. Utilizing Energy-Efficient Architectural Features:
-Implementing certain architectural nuances can further enhance the energy efficiency of a data center. For instance, roofs painted with reflective coatings help to reduce heat absorption from the sun, minimizing the need for additional cooling. Green roofs, which incorporate vegetation, provide natural insulation and cooling effects, reducing the overall energy demand. Additionally, incorporating thermal buffers such as double-wall constructions can act as a barrier against external temperature fluctuations, maintaining a more stable internal environment. By integrating these features, a data center can inherently become more energy-efficient.
-
-3. Innovative Layout Strategies:
-Hot/cold aisle containment is an effective strategy that involves arranging server racks in a way that consolidates hot exhausts in one direction and cold intakes in another. This segregation ensures that servers do not inadvertently recirculate hot air, thereby making cooling more effective and energy-efficient. By directing the airflow in a controlled manner, hot/cold aisle containment optimizes cooling efficiency and reduces energy wastage.
-
-Another layout strategy being explored is vertical server stacking, as opposed to the traditional horizontal alignment. By stacking servers vertically and strategically placing vents, this configuration takes advantage of the natural physics of heat rising. As hot air naturally moves upward, the vertical arrangement facilitates better heat dissipation, improving overall cooling efficiency.
+\end{description}
 
 By implementing these design principles and layout strategies, data centers can significantly reduce their energy consumption, enhance cooling efficiency, and contribute to a more sustainable and environmentally friendly operation.
 
-DCs’ ECER strategies are affected by the differences in geographical location, natural resources and economic basis, and the single energy-saving method is difficult to meet the goal of zero-carbon emission.
+The strategies for achieving energy-efficient and carbon-emission reduction (ECER) in different districts (DCs) can vary based on factors like geographical location, natural resources, and economic foundations. A single energy-saving approach may not be sufficient to meet the goal of zero-carbon emission across all DCs.
 
 
 \subsection{Free cooling}
