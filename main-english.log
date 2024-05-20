@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 09:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3247,10 +3247,10 @@ Underfull \hbox (badness 1939) in paragraph at lines 683--683
 ).
  []
 
-[57] [58] (latexhints-english.tex [59] [60
-
-
-]
+[57] [58]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.1pt on input line 682.
+ (latexhints-english.tex [59] [60]
 chapter A.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 9.40002pt on input line 11.
@@ -3321,7 +3321,10 @@ Package mdframed Info: mdframed inside twoside mode but
 (democode.tex)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 60.
- [61]
+ [61
+
+
+]
 
 LaTeX Warning: Writing or overwriting file `democode'.
 
@@ -3512,8 +3515,6 @@ LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
 (Font)              scaled to size 7.52002pt on input line 152.
 LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
 (Font)              scaled to size 5.73401pt on input line 152.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 155.
 
 [64{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-rm.enc
 }]
@@ -3526,7 +3527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-<graphics//choreography.pdf, id=1082, 588.1442pt x 377.82657pt>
+<graphics//choreography.pdf, id=1099, 588.1442pt x 377.82657pt>
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 218.
@@ -3708,10 +3709,10 @@ Package logreq Info: Writing requests to 'main-english.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 90152 strings out of 474485
- 2094438 string characters out of 5745150
- 3371761 words of memory out of 5000000
- 110239 multiletter control sequences out of 15000+600000
+ 90174 strings out of 474485
+ 2095390 string characters out of 5745150
+ 3376582 words of memory out of 5000000
+ 110256 multiletter control sequences out of 15000+600000
  700780 words of font info for 358 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  126i,21n,197p,10923b,3482s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3733,9 +3734,9 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (77 pages, 2926544 bytes).
+Output written on main-english.pdf (77 pages, 2931372 bytes).
 PDF statistics:
- 1488 PDF objects out of 1728 (max. 8388607)
- 358 named destinations out of 1000 (max. 500000)
+ 1507 PDF objects out of 1728 (max. 8388607)
+ 363 named destinations out of 1000 (max. 500000)
  111151 words of extra memory for PDF output out of 128383 (max. 10000000)
 

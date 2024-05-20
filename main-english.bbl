@@ -1651,6 +1651,45 @@
       \endverb
       \keyw{Servers;Energy consumption;Time factors;Optimization;Data models;Scheduling;Histograms;Cloud computing;Energy;Green data centers;Task Scheduling;Greedy Algorithm;Integer Programming}
     \endentry
+    \entry{lange2020digitalization}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b91c5cc9e6cef6340711a8e041f6b07c}{%
+           family={Lange},
+           familyi={L\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5e67f391a91d6df540a9f549e3fc917b}{%
+           family={Pohl},
+           familyi={P\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4a7646367756b07ab6e8ccc4821aadc4}{%
+           family={Santarius},
+           familyi={S\bibinitperiod},
+           given={Tilman},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0d4641f089a319574cd67e6e2f0830a7}
+      \strng{fullhash}{1028f17f2fe478460aebc46136d7aa2a}
+      \strng{bibnamehash}{1028f17f2fe478460aebc46136d7aa2a}
+      \strng{authorbibnamehash}{1028f17f2fe478460aebc46136d7aa2a}
+      \strng{authornamehash}{0d4641f089a319574cd67e6e2f0830a7}
+      \strng{authorfullhash}{1028f17f2fe478460aebc46136d7aa2a}
+      \field{labelalpha}{LPS20}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecological economics}
+      \field{title}{Digitalization and energy consumption. Does ICT reduce energy demand?}
+      \field{volume}{176}
+      \field{year}{2020}
+      \field{pages}{106760}
+      \range{pages}{1}
+    \endentry
     \entry{li2023china}{article}{}
       \name{author}{9}{}{%
         {{hash=9329c526ce7a2f58316f833464498691}{%
@@ -2342,6 +2381,42 @@
       \field{title}{Exploring data centers' free cooling potential}
       \field{year}{2021}
     \endentry
+    \entry{rahimi2017internet}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0eee709d0fc07e4282248f88c3f9e55d}{%
+           family={Rahimi},
+           familyi={R\bibinitperiod},
+           given={Marzieh},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a44d3518930ca7b5405775b237baf34e}{%
+           family={Rad},
+           familyi={R\bibinitperiod},
+           given={Abbas\bibnamedelima Alavi},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {İlhan ÖZTÜRK}%
+      }
+      \strng{namehash}{bae92db9e7256b8819c5e8daf4454943}
+      \strng{fullhash}{bae92db9e7256b8819c5e8daf4454943}
+      \strng{bibnamehash}{bae92db9e7256b8819c5e8daf4454943}
+      \strng{authorbibnamehash}{bae92db9e7256b8819c5e8daf4454943}
+      \strng{authornamehash}{bae92db9e7256b8819c5e8daf4454943}
+      \strng{authorfullhash}{bae92db9e7256b8819c5e8daf4454943}
+      \field{labelalpha}{RR17}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Energy Economics and Policy}
+      \field{number}{3}
+      \field{title}{Internet usage, electricity consumption and economic growth: Evidence from a panel of developing-8 countries}
+      \field{volume}{7}
+      \field{year}{2017}
+      \field{pages}{152\bibrangedash 156}
+      \range{pages}{5}
+    \endentry
     \entry{owid-fossil-fuels}{article}{}
       \name{author}{2}{}{%
         {{hash=a6d904a648976069036f5eddb4ad0151}{%
@@ -2364,6 +2439,7 @@
       \field{labelalpha}{RR17}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extraalpha}{2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Our World in Data}
@@ -2646,6 +2722,36 @@
       \field{year}{2013}
       \field{pages}{213\bibrangedash 215}
       \range{pages}{3}
+    \endentry
+    \entry{schaller1997moore}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4dd6755d9c6ec610496bb494acde8af6}{%
+           family={Schaller},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima R},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4dd6755d9c6ec610496bb494acde8af6}
+      \strng{fullhash}{4dd6755d9c6ec610496bb494acde8af6}
+      \strng{bibnamehash}{4dd6755d9c6ec610496bb494acde8af6}
+      \strng{authorbibnamehash}{4dd6755d9c6ec610496bb494acde8af6}
+      \strng{authornamehash}{4dd6755d9c6ec610496bb494acde8af6}
+      \strng{authorfullhash}{4dd6755d9c6ec610496bb494acde8af6}
+      \field{labelalpha}{Sch97}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE spectrum}
+      \field{number}{6}
+      \field{title}{Moore's law: past, present and future}
+      \field{volume}{34}
+      \field{year}{1997}
+      \field{pages}{52\bibrangedash 59}
+      \range{pages}{8}
     \endentry
     \entry{simslifecycleEquipmentProcessed}{misc}{}
       \name{author}{1}{}{%
@@ -3037,6 +3143,51 @@
       \field{title}{Navigating and addressing the data centre e-waste crisis}
       \field{year}{2022}
     \endentry
+    \entry{distributed_head}{article}{}
+      \name{author}{4}{}{%
+        {{hash=02e786d75ec5984ff963c9d9ac2bf301}{%
+           family={Woodruff},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5d4c5f5ee97d22f3ca7c3eac15a64d28}{%
+           family={Brenner},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=10a1c13685dc580a3bed0a3ada9de960}{%
+           family={Buccellato},
+           familyi={B\bibinitperiod},
+           given={Aimee},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b9e7c9ae87caa9f57768c0e1b0898bd}{%
+           family={Go},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{adb13b5aba85e065a9988ed281ed6822}
+      \strng{fullhash}{dd2cb2b4002758c7f586f08ddfa876ef}
+      \strng{bibnamehash}{dd2cb2b4002758c7f586f08ddfa876ef}
+      \strng{authorbibnamehash}{dd2cb2b4002758c7f586f08ddfa876ef}
+      \strng{authornamehash}{adb13b5aba85e065a9988ed281ed6822}
+      \strng{authorfullhash}{dd2cb2b4002758c7f586f08ddfa876ef}
+      \field{labelalpha}{WBBG14}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{02}
+      \field{title}{Environmentally opportunistic computing: A distributed waste heat reutilization approach to energy-efficient buildings and data centers}
+      \field{volume}{69}
+      \field{year}{2014}
+      \field{pages}{41\bibrangedash 50}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2013.09.036
+      \endverb
+    \endentry
     \entry{WSPA}{book}{}
       \name{author}{5}{}{%
         {{hash=ad25b96bff24b15f8bc4c35beab635c7}{%
@@ -3158,6 +3309,56 @@
       \field{volume}{16}
       \field{year}{2023}
       \field{pages}{1279}
+      \range{pages}{1}
+    \endentry
+    \entry{zaharia2019factors}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6bac41eb544dc92a6b8cb30241a27f0e}{%
+           family={Zaharia},
+           familyi={Z\bibinitperiod},
+           given={Alina},
+           giveni={A\bibinitperiod}}}%
+        {{hash=32fb21299a6fa9741e52a2794dea14e0}{%
+           family={Diaconeasa},
+           familyi={D\bibinitperiod},
+           given={Maria\bibnamedelima Claudia},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=baf4fe3b3846a2b6ff4f032b33f68f20}{%
+           family={Brad},
+           familyi={B\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ba58ac6ab3db43f93cfd04e207bd8255}{%
+           family={Lădaru},
+           familyi={L\bibinitperiod},
+           given={Georgiana-Raluca},
+           giveni={G\bibinithyphendelim R\bibinitperiod}}}%
+        {{hash=f74321ef70c2b5a1b14eedc99493126e}{%
+           family={Ioanăș},
+           familyi={I\bibinitperiod},
+           given={Corina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{1fab283c818b596b01fe45111105a974}
+      \strng{fullhash}{9ae0ff57ead0786a5dc1159312e5d906}
+      \strng{bibnamehash}{9ae0ff57ead0786a5dc1159312e5d906}
+      \strng{authorbibnamehash}{9ae0ff57ead0786a5dc1159312e5d906}
+      \strng{authornamehash}{1fab283c818b596b01fe45111105a974}
+      \strng{authorfullhash}{9ae0ff57ead0786a5dc1159312e5d906}
+      \field{labelalpha}{ZDB+19}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{number}{15}
+      \field{title}{Factors influencing energy consumption in the context of sustainable development}
+      \field{volume}{11}
+      \field{year}{2019}
+      \field{pages}{4147}
       \range{pages}{1}
     \endentry
     \entry{zhou2021role}{article}{}

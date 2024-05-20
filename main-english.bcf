@@ -2482,13 +2482,23 @@
     <bcf:citekey order="130" intorder="1">tao2022can</bcf:citekey>
     <bcf:citekey order="131" intorder="1">shahbaz2022impact</bcf:citekey>
     <bcf:citekey order="132" intorder="1">google-datacenters</bcf:citekey>
-    <bcf:citekey order="133" intorder="1">google2020thirddecade</bcf:citekey>
-    <bcf:citekey order="134" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="135" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="136" intorder="1">WSPA</bcf:citekey>
-    <bcf:citekey order="137" intorder="1">RVvdA2016</bcf:citekey>
-    <bcf:citekey order="138" intorder="1">RVvdA2016</bcf:citekey>
-    <bcf:citekey order="139" intorder="1">ApacheODE</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">rahimi2017internet</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">lange2020digitalization</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">lange2020digitalization</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">lange2020digitalization</bcf:citekey>
+    <bcf:citekey order="137" intorder="1">zaharia2019factors</bcf:citekey>
+    <bcf:citekey order="138" intorder="1">lange2020digitalization</bcf:citekey>
+    <bcf:citekey order="139" intorder="1">lange2020digitalization</bcf:citekey>
+    <bcf:citekey order="140" intorder="1">lange2020digitalization</bcf:citekey>
+    <bcf:citekey order="141" intorder="1">schaller1997moore</bcf:citekey>
+    <bcf:citekey order="142" intorder="1">distributed_head</bcf:citekey>
+    <bcf:citekey order="143" intorder="1">google2020thirddecade</bcf:citekey>
+    <bcf:citekey order="144" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="145" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="146" intorder="1">WSPA</bcf:citekey>
+    <bcf:citekey order="147" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="148" intorder="1">RVvdA2016</bcf:citekey>
+    <bcf:citekey order="149" intorder="1">ApacheODE</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">
