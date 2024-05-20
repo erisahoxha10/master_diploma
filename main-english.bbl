@@ -2647,6 +2647,29 @@
       \field{pages}{213\bibrangedash 215}
       \range{pages}{3}
     \endentry
+    \entry{simslifecycleEquipmentProcessed}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fc3442867e27d37e776860d1164bf13b}{%
+           family={Services},
+           familyi={S\bibinitperiod},
+           given={Sims\bibnamedelima Lifecycle},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc3442867e27d37e776860d1164bf13b}
+      \strng{fullhash}{fc3442867e27d37e776860d1164bf13b}
+      \strng{bibnamehash}{fc3442867e27d37e776860d1164bf13b}
+      \strng{authorbibnamehash}{fc3442867e27d37e776860d1164bf13b}
+      \strng{authornamehash}{fc3442867e27d37e776860d1164bf13b}
+      \strng{authorfullhash}{fc3442867e27d37e776860d1164bf13b}
+      \field{labelalpha}{Ser24}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.simslifecycle.com/data-center/faq/how-equipment-is-processed/}}
+      \field{title}{How equipment is processed}
+      \field{year}{2024}
+    \endentry
     \entry{susca2011positive}{article}{}
       \name{author}{3}{}{%
         {{hash=3934281e85f63d88157eb41d2e391793}{%

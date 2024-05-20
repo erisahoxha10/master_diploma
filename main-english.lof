@@ -16,6 +16,7 @@
 \contentsline {figure}{\numberline {4.4}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{33}{figure.caption.19}%
 \contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{35}{figure.caption.20}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{38}{figure.caption.21}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -24,13 +25,13 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{65}{figure.caption.33}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{66}{figure.caption.34}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{66}{figure.caption.35}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{67}{figure.caption.36}%
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{68}{figure.caption.37}%
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{69}{figure.caption.38}%
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{69}{figure.caption.39}%
-\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{70}{figure.caption.40}%
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{71}{figure.caption.41}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{65}{figure.caption.34}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{66}{figure.caption.35}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{66}{figure.caption.36}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{67}{figure.caption.37}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{68}{figure.caption.38}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{69}{figure.caption.39}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{69}{figure.caption.40}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{70}{figure.caption.41}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{71}{figure.caption.42}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

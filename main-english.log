@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 09:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  20 MAY 2024 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3052,7 +3052,7 @@ Using TeX to sort glossary entries---this may take a while
 
 ]
 chapter 1.
-<graphics//total_data_traffic_zb.png, id=366, 198.40791pt x 99.37125pt>
+<graphics//total_data_traffic_zb.png, id=371, 198.40791pt x 99.37125pt>
 File: graphics//total_data_traffic_zb.png Graphic file (type png)
 <use graphics//total_data_traffic_zb.png>
 Package pdftex.def Info: graphics//total_data_traffic_zb.png  used on input lin
@@ -3060,13 +3060,13 @@ e 213.
 (pdftex.def)             Requested size: 426.79135pt x 213.75621pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 214.
-<graphics//datacentermap.jpg, id=367, 520.94624pt x 274.626pt>
+<graphics//datacentermap.jpg, id=372, 520.94624pt x 274.626pt>
 File: graphics//datacentermap.jpg Graphic file (type jpg)
 <use graphics//datacentermap.jpg>
 Package pdftex.def Info: graphics//datacentermap.jpg  used on input line 219.
 (pdftex.def)             Requested size: 426.79135pt x 224.99362pt.
 [17 <./graphics//total_data_traffic_zb.png>]
-<graphics//leading-countries-by-number-of-data-centers-2024.png, id=381, 1003.7
+<graphics//leading-countries-by-number-of-data-centers-2024.png, id=386, 1003.7
 5pt x 1437.37pt>
 File: graphics//leading-countries-by-number-of-data-centers-2024.png Graphic fi
 le (type png)
@@ -3086,13 +3086,13 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 [19{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.en
 c}] [20 <./graphics//leading-countries-by-number-of-data-centers-2024.png>]
 chapter 2.
-<graphics//pie_chart_energy_draw.png, id=415, 407.121pt x 237.88875pt>
+<graphics//pie_chart_energy_draw.png, id=420, 407.121pt x 237.88875pt>
 File: graphics//pie_chart_energy_draw.png Graphic file (type png)
 <use graphics//pie_chart_energy_draw.png>
 Package pdftex.def Info: graphics//pie_chart_energy_draw.png  used on input lin
 e 292.
 (pdftex.def)             Requested size: 426.79135pt x 249.39851pt.
-<graphics//energy_management.jpg, id=418, 374.09235pt x 305.05548pt>
+<graphics//energy_management.jpg, id=423, 374.09235pt x 305.05548pt>
 File: graphics//energy_management.jpg Graphic file (type jpg)
 <use graphics//energy_management.jpg>
 Package pdftex.def Info: graphics//energy_management.jpg  used on input line 30
@@ -3102,7 +3102,7 @@ Package pdftex.def Info: graphics//energy_management.jpg  used on input line 30
 
 
 ] [22 <./graphics//pie_chart_energy_draw.png>]
-<graphics//total-ghg-emissions.png, id=454, 3412.75pt x 3403.71625pt>
+<graphics//total-ghg-emissions.png, id=459, 3412.75pt x 3403.71625pt>
 File: graphics//total-ghg-emissions.png Graphic file (type png)
 <use graphics//total-ghg-emissions.png>
 Package pdftex.def Info: graphics//total-ghg-emissions.png  used on input line 
@@ -3110,7 +3110,7 @@ Package pdftex.def Info: graphics//total-ghg-emissions.png  used on input line
 (pdftex.def)             Requested size: 426.79135pt x 425.6193pt.
  [23 <./graphics//energy_management.jpg>] [24 <./graphics//total-ghg-emissions.
 png>]
-<graphics//data_center_structure.jpg, id=475, 397.16522pt x 298.0338pt>
+<graphics//data_center_structure.jpg, id=480, 397.16522pt x 298.0338pt>
 File: graphics//data_center_structure.jpg Graphic file (type jpg)
 <use graphics//data_center_structure.jpg>
 Package pdftex.def Info: graphics//data_center_structure.jpg  used on input lin
@@ -3126,7 +3126,7 @@ chapter 3.
 
 ]
 chapter 4.
-<graphics//recalibrating_global_data_center_energy-use_estimates.jpeg, id=503, 
+<graphics//recalibrating_global_data_center_energy-use_estimates.jpeg, id=508, 
 1284.8pt x 513.92pt>
 File: graphics//recalibrating_global_data_center_energy-use_estimates.jpeg Grap
 hic file (type jpg)
@@ -3135,7 +3135,7 @@ Package pdftex.def Info: graphics//recalibrating_global_data_center_energy-use_
 estimates.jpeg  used on input line 421.
 (pdftex.def)             Requested size: 426.79135pt x 170.71548pt.
 [29 <./graphics//recalibrating_global_data_center_energy-use_estimates.jpeg>]
-<graphics//Component-wise-energy-consumption-of-a-server.png, id=520, 289.68225
+<graphics//Component-wise-energy-consumption-of-a-server.png, id=525, 289.68225
 pt x 173.448pt>
 File: graphics//Component-wise-energy-consumption-of-a-server.png Graphic file 
 (type png)
@@ -3147,7 +3147,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.0pt on input line 444.
 
 [30 <./graphics//Component-wise-energy-consumption-of-a-server.png>]
-<graphics//power_breakdown_across_the_components_of_two_servers.jpg, id=536, 42
+<graphics//power_breakdown_across_the_components_of_two_servers.jpg, id=541, 42
 9.40425pt x 220.4235pt>
 File: graphics//power_breakdown_across_the_components_of_two_servers.jpg Graphi
 c file (type jpg)
@@ -3158,7 +3158,7 @@ _servers.jpg  used on input line 456.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 (Font)              scaled to size 11.28003pt on input line 463.
  [31 <./graphics//power_breakdown_across_the_components_of_two_servers.jpg>]
-<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=562, 415.5525
+<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=567, 415.5525
 pt x 121.6545pt>
 File: graphics//Cooling_System_with_Raised_Floor_Configuration.png Graphic file
  (type png)
@@ -3168,7 +3168,7 @@ on.png  used on input line 485.
 (pdftex.def)             Requested size: 426.79135pt x 124.94911pt.
  [32] [33 <./graphics//Cooling_System_with_Raised_Floor_Configuration.png>] [34
 ]
-<graphics//indirect_water_cooling_system.png, id=622, 1822.4085pt x 829.9005pt>
+<graphics//indirect_water_cooling_system.png, id=627, 1822.4085pt x 829.9005pt>
 
 File: graphics//indirect_water_cooling_system.png Graphic file (type png)
 <use graphics//indirect_water_cooling_system.png>
@@ -3177,10 +3177,16 @@ nput line 551.
 (pdftex.def)             Requested size: 426.79135pt x 194.35548pt.
  [35 <./graphics//indirect_water_cooling_system.png>] [36]
 chapter 5.
+<graphics//dc_component_recycling_process.png, id=655, 1445.4pt x 794.97pt>
+File: graphics//dc_component_recycling_process.png Graphic file (type png)
+<use graphics//dc_component_recycling_process.png>
+Package pdftex.def Info: graphics//dc_component_recycling_process.png  used on 
+input line 586.
+(pdftex.def)             Requested size: 426.79135pt x 234.73245pt.
 [37
 
 
-] [38]
+] [38 <./graphics//dc_component_recycling_process.png>]
 chapter 6.
 [39
 
@@ -3216,26 +3222,26 @@ chapter 11.
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 674.
+(Font)              scaled to size 10.95pt on input line 682.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 674.
+(Font)              scaled to size 10.95pt on input line 682.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 67
-4.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 68
+2.
 (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 674.
+(Font)              scaled to size 9.85492pt on input line 682.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 674.
+(Font)              scaled to size 10.95pt on input line 682.
 
 [53{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
 pc.enc}{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i
 4-t1-1.enc}] [54] [55] [56]
-Underfull \hbox (badness 1939) in paragraph at lines 675--675
+Underfull \hbox (badness 1939) in paragraph at lines 683--683
 []\T1/ntxtlf/m/n/10.95 (+20) H. Ritchie, P. Rosado. ^^P  Fos-sil fu-els^^Q. In:
  \T1/ntxtlf/m/it/10.95 (+20) Our World in Data \T1/ntxtlf/m/n/10.95 (+20) (2017
 ).
@@ -3520,7 +3526,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-<graphics//choreography.pdf, id=1071, 588.1442pt x 377.82657pt>
+<graphics//choreography.pdf, id=1082, 588.1442pt x 377.82657pt>
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 218.
@@ -3687,18 +3693,26 @@ Package nag Warning: 1 complaints in total.
 LaTeX2e <2023-11-01>
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main-english.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main-english.run.xml'.
 \openout1 = `main-english.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 90134 strings out of 474485
- 2093685 string characters out of 5745150
- 3370793 words of memory out of 5000000
- 110225 multiletter control sequences out of 15000+600000
- 700776 words of font info for 357 fonts, out of 8000000 for 9000
+ 90152 strings out of 474485
+ 2094438 string characters out of 5745150
+ 3371761 words of memory out of 5000000
+ 110239 multiletter control sequences out of 15000+600000
+ 700780 words of font info for 358 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  126i,21n,197p,10923b,3482s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inc
@@ -3719,9 +3733,9 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (77 pages, 2871997 bytes).
+Output written on main-english.pdf (77 pages, 2926544 bytes).
 PDF statistics:
- 1477 PDF objects out of 1728 (max. 8388607)
- 356 named destinations out of 1000 (max. 500000)
- 111146 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 1488 PDF objects out of 1728 (max. 8388607)
+ 358 named destinations out of 1000 (max. 500000)
+ 111151 words of extra memory for PDF output out of 128383 (max. 10000000)
 
