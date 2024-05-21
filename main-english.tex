@@ -36,7 +36,7 @@
 	examiner={Prof.\ Dr.\ Marco Aiello},
 	supervisor={Prof.\ Dr.\ Marco Aiello},
 	startdate={November 22, 2023},
-	enddate={May 22, 2024}
+	enddate={May 21, 2024}
 ]{scientific-thesis-cover}
 
 \input{acronyms}
@@ -121,8 +121,8 @@
 % \addtocontents{toc}{\protect\newpage}
 % an der passenden Stelle im Fließtext erzwungen werden.
 
-\listoffigures
-\listoftables
+%\listoffigures
+%\listoftables
 
 %Wird nur bei Verwendung von der lstlisting-Umgebung mit dem "caption"-Parameter benoetigt
 %\lstlistoflistings
@@ -130,7 +130,7 @@
 \ifdeutsch
   \listof{Listing}{Verzeichnis der Listings}
 \else
-  \listof{Listing}{List of Listings}
+  %\listof{Listing}{List of Listings}
 \fi
 
 %mittels \newfloat wurde die Algorithmus-Gleitumgebung definiert.
@@ -138,7 +138,7 @@
 \ifdeutsch
   \listof{Algorithmus}{Verzeichnis der Algorithmen}
 \else
-  \listof{Algorithmus}{List of Algorithms}
+  %\listof{Algorithmus}{List of Algorithms}
 \fi
 %\listofalgorithms %Ist nur für Algorithmen, die mittels \begin{algorithm} umschlossen werden, nötig
 
@@ -759,11 +759,11 @@ According to an official statement from Google, they have announced their commit
 \end{description}
 
 
-\blinddocument
+%\blinddocument
 
-\chapter{Related Work}
+%\chapter{Related Work}
 
-Describe relevant scientific literature related to your work.
+%Describe relevant scientific literature related to your work.
 
 \chapter{Conclusion}
 \label{chap:zusfas}
@@ -789,8 +789,8 @@ The following steps are essential:
 
 All links were last followed on May 21, 2024.
 
-\appendix
-\input{latexhints-english}
+%\appendix
+%\input{latexhints-english}
 
 \pagestyle{empty}
 \renewcommand*{\chapterpagestyle}{empty}

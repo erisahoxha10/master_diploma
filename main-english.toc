@@ -1,63 +1,28 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{17}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Motivation}{17}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Problem Statement}{19}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Structure}{19}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Background}{23}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Energy}{23}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Greenhouse Gases}{25}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Data Centers}{27}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Study Design}{29}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Research Questions}{29}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Methodology}{29}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Energy used from Data Centers}{31}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Energy used for running Servers}{31}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Server States}{33}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Backup Generators}{33}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{34}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{35}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{37}{subsection.4.2.2}%
-\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{39}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Clouds and Virtualization}{41}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{45}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{46}{section.7.1}%
-\contentsline {chapter}{\numberline {8}DCIM Software for Carbon Footprint Measuring}{47}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Results}{49}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Heading on Level\xspace 0 (chapter)}{51}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Heading on Level\xspace 1 (section)}{51}{section.10.1}%
-\contentsline {subsection}{\numberline {10.1.1}Heading on Level\xspace 2 (subsection)}{51}{subsection.10.1.1}%
-\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{51}{subsubsection*.27}%
-\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{52}{paragraph*.29}%
-\contentsline {section}{\numberline {10.2}Lists}{52}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}Example for list\xspace (itemize)}{52}{subsection.10.2.1}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{52}{subsubsection*.31}%
-\contentsline {subsection}{\numberline {10.2.2}Example for list\xspace (enumerate)}{53}{subsection.10.2.2}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{53}{subsubsection*.33}%
-\contentsline {subsection}{\numberline {10.2.3}Example for list\xspace (description)}{53}{subsection.10.2.3}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{54}{subsubsection*.35}%
-\contentsline {chapter}{\numberline {11}Related Work}{55}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Conclusion}{57}{chapter.12}%
-\contentsline {chapter}{\nonumberline Bibliography}{59}{chapter*.36}%
-\contentsline {chapter}{\numberline {A}LaTeX Hints}{67}{appendix.A}%
-\contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{67}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Citations}{67}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Formulas and Equations}{68}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Sourcecode}{69}{section.A.4}%
-\contentsline {section}{\numberline {A.5}Pseudocode}{70}{section.A.5}%
-\contentsline {section}{\numberline {A.6}Figures}{71}{section.A.6}%
-\contentsline {section}{\numberline {A.7}More Illustrations}{71}{section.A.7}%
-\contentsline {section}{\numberline {A.8}Plots with pgfplots}{75}{section.A.8}%
-\contentsline {section}{\numberline {A.9}Figures with tikz}{75}{section.A.9}%
-\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{76}{section.A.10}%
-\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{76}{section.A.11}%
-\contentsline {section}{\numberline {A.12}Linguistic Forests}{76}{section.A.12}%
-\contentsline {section}{\numberline {A.13}Tables}{76}{section.A.13}%
-\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{76}{subsection.A.13.1}%
-\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{78}{section.A.14}%
-\contentsline {section}{\numberline {A.15}Abbreviations}{80}{section.A.15}%
-\contentsline {section}{\numberline {A.16}References}{81}{section.A.16}%
-\contentsline {section}{\numberline {A.17}Definitions}{81}{section.A.17}%
-\contentsline {section}{\numberline {A.18}Footnotes}{81}{section.A.18}%
-\contentsline {section}{\numberline {A.19}Various Things}{81}{section.A.19}%
-\contentsline {section}{\numberline {A.20}Closing remarks}{82}{section.A.20}%
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Structure}{11}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Background}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Energy}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Greenhouse Gases}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Data Centers}{19}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Study Design}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Questions}{21}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methodology}{21}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Energy used from Data Centers}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Energy used for running Servers}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Server States}{25}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Backup Generators}{25}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{26}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{27}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{29}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{31}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Clouds and Virtualization}{33}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{37}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{38}{section.7.1}%
+\contentsline {chapter}{\numberline {8}DCIM Software for Carbon Footprint Measuring}{39}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Results}{41}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Conclusion}{43}{chapter.10}%
+\contentsline {chapter}{\nonumberline Bibliography}{45}{chapter*.22}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
