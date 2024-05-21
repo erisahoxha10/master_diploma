@@ -4,36 +4,36 @@
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Data Center distribution worldwide; Source: Data Center Map \blx@tocontentsinit {0}\cite {datacentermapDataCenters}}}{18}{figure.caption.10}%
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Leading countries by the number of data centers; Source Statista\blx@tocontentsinit {0}\cite {statista_2024}}}{20}{figure.caption.11}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Analysis of a typical 465 m2 data center, Source Emerson Network power\blx@tocontentsinit {0}\cite {emerson2015}}}{22}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces The power flow and heat flow in general data centers \blx@tocontentsinit {0}\cite {JIN2020114806}}}{23}{figure.caption.13}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Greenhouse gas emissions, 2022 \blx@tocontentsinit {0}\cite {owid-co2-and-greenhouse-gas-emissions}}}{24}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrammatic representation of the DC's overall structure\blx@tocontentsinit {0}\cite {ZHU2023104322}}}{26}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Analysis of a typical 465 m2 data center, Source Emerson Network power\blx@tocontentsinit {0}\cite {emerson2015}}}{24}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The power flow and heat flow in general data centers \blx@tocontentsinit {0}\cite {JIN2020114806}}}{25}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Greenhouse gas emissions, 2022 \blx@tocontentsinit {0}\cite {owid-co2-and-greenhouse-gas-emissions}}}{26}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrammatic representation of the DC's overall structure\blx@tocontentsinit {0}\cite {ZHU2023104322}}}{28}{figure.caption.15}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{30}{figure.caption.16}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{31}{figure.caption.17}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{32}{figure.caption.18}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Hot aisle- Cold aisle Layout )\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{34}{figure.caption.19}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{35}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{32}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{33}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{34}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Hot aisle- Cold aisle Layout )\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{36}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{37}{figure.caption.20}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{38}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{40}{figure.caption.21}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Public cloud services end-user spending worldwide from 2017 to 2024\blx@tocontentsinit {0}\cite {cloud_economy2023}}}{40}{figure.caption.22}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022\blx@tocontentsinit {0}\cite {clouds_pue}}}{41}{figure.caption.23}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Public cloud services end-user spending worldwide from 2017 to 2024\blx@tocontentsinit {0}\cite {cloud_economy2023}}}{42}{figure.caption.22}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022\blx@tocontentsinit {0}\cite {clouds_pue}}}{43}{figure.caption.23}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{67}{figure.caption.36}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{68}{figure.caption.37}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{68}{figure.caption.38}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{69}{figure.caption.39}%
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{70}{figure.caption.40}%
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{71}{figure.caption.41}%
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{71}{figure.caption.42}%
-\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{72}{figure.caption.43}%
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{73}{figure.caption.44}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{69}{figure.caption.36}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{70}{figure.caption.37}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{70}{figure.caption.38}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{71}{figure.caption.39}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{72}{figure.caption.40}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{73}{figure.caption.41}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{73}{figure.caption.42}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{74}{figure.caption.43}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{75}{figure.caption.44}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

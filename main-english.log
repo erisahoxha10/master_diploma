@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  21 MAY 2024 03:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.18)  21 MAY 2024 04:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3085,48 +3085,49 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 
 [19{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.en
 c}] [20 <./graphics//leading-countries-by-number-of-data-centers-2024.png>]
+[21] [22
+
+
+]
 chapter 2.
-<graphics//pie_chart_energy_draw.png, id=494, 407.121pt x 237.88875pt>
+<graphics//pie_chart_energy_draw.png, id=502, 407.121pt x 237.88875pt>
 File: graphics//pie_chart_energy_draw.png Graphic file (type png)
 <use graphics//pie_chart_energy_draw.png>
 Package pdftex.def Info: graphics//pie_chart_energy_draw.png  used on input lin
 e 296.
 (pdftex.def)             Requested size: 426.79135pt x 249.39851pt.
-<graphics//energy_management.jpg, id=503, 374.09235pt x 305.05548pt>
+<graphics//energy_management.jpg, id=511, 374.09235pt x 305.05548pt>
 File: graphics//energy_management.jpg Graphic file (type jpg)
 <use graphics//energy_management.jpg>
 Package pdftex.def Info: graphics//energy_management.jpg  used on input line 30
 8.
 (pdftex.def)             Requested size: 426.79135pt x 348.05545pt.
-[21
-
-
-] [22 <./graphics//pie_chart_energy_draw.png>] [23 <./graphics//energy_manageme
-nt.jpg>]
-<graphics//total-ghg-emissions.png, id=545, 3412.75pt x 3403.71625pt>
+[23] [24 <./graphics//pie_chart_energy_draw.png>] [25 <./graphics//energy_manag
+ement.jpg>]
+<graphics//total-ghg-emissions.png, id=554, 3412.75pt x 3403.71625pt>
 File: graphics//total-ghg-emissions.png Graphic file (type png)
 <use graphics//total-ghg-emissions.png>
 Package pdftex.def Info: graphics//total-ghg-emissions.png  used on input line 
 350.
 (pdftex.def)             Requested size: 426.79135pt x 425.6193pt.
- [24 <./graphics//total-ghg-emissions.png>]
-<graphics//data_center_structure.jpg, id=564, 397.16522pt x 298.0338pt>
+ [26 <./graphics//total-ghg-emissions.png>]
+<graphics//data_center_structure.jpg, id=573, 397.16522pt x 298.0338pt>
 File: graphics//data_center_structure.jpg Graphic file (type jpg)
 <use graphics//data_center_structure.jpg>
 Package pdftex.def Info: graphics//data_center_structure.jpg  used on input lin
 e 372.
 (pdftex.def)             Requested size: 426.79135pt x 320.27092pt.
- [25] [26 <./graphics//data_center_structure.jpg>]
+ [27] [28 <./graphics//data_center_structure.jpg>]
 chapter 3.
-[27
+[29
 
 
-] [28
+] [30
 
 
 ]
 chapter 4.
-<graphics//Component-wise-energy-consumption-of-a-server.png, id=600, 289.68225
+<graphics//Component-wise-energy-consumption-of-a-server.png, id=608, 289.68225
 pt x 173.448pt>
 File: graphics//Component-wise-energy-consumption-of-a-server.png Graphic file 
 (type png)
@@ -3136,8 +3137,8 @@ r.png  used on input line 453.
 (pdftex.def)             Requested size: 426.79135pt x 255.56361pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.0pt on input line 458.
-[29]
-<graphics//power_breakdown_across_the_components_of_two_servers.jpg, id=620, 42
+[31]
+<graphics//power_breakdown_across_the_components_of_two_servers.jpg, id=629, 42
 9.40425pt x 220.4235pt>
 File: graphics//power_breakdown_across_the_components_of_two_servers.jpg Graphi
 c file (type jpg)
@@ -3147,9 +3148,9 @@ _servers.jpg  used on input line 470.
 (pdftex.def)             Requested size: 426.79135pt x 219.09439pt.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 (Font)              scaled to size 11.28003pt on input line 477.
- [30 <./graphics//Component-wise-energy-consumption-of-a-server.png>]
-[31 <./graphics//power_breakdown_across_the_components_of_two_servers.jpg>]
-<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=657, 415.5525
+ [32 <./graphics//Component-wise-energy-consumption-of-a-server.png>]
+[33 <./graphics//power_breakdown_across_the_components_of_two_servers.jpg>]
+<graphics//Cooling_System_with_Raised_Floor_Configuration.png, id=665, 415.5525
 pt x 121.6545pt>
 File: graphics//Cooling_System_with_Raised_Floor_Configuration.png Graphic file
  (type png)
@@ -3158,37 +3159,37 @@ Package pdftex.def Info: graphics//Cooling_System_with_Raised_Floor_Configurati
 on.png  used on input line 503.
 (pdftex.def)             Requested size: 426.79135pt x 124.94911pt.
 
-[32 <./graphics//Cooling_System_with_Raised_Floor_Configuration.png>]
-<graphics//Hot_aisle_Cold_aisle_Layout.png, id=690, 478.1865pt x 195.129pt>
+[34 <./graphics//Cooling_System_with_Raised_Floor_Configuration.png>]
+<graphics//Hot_aisle_Cold_aisle_Layout.png, id=698, 478.1865pt x 195.129pt>
 File: graphics//Hot_aisle_Cold_aisle_Layout.png Graphic file (type png)
 <use graphics//Hot_aisle_Cold_aisle_Layout.png>
 Package pdftex.def Info: graphics//Hot_aisle_Cold_aisle_Layout.png  used on inp
 ut line 533.
 (pdftex.def)             Requested size: 426.79135pt x 174.16446pt.
- [33]
-[34 <./graphics//Hot_aisle_Cold_aisle_Layout.png>]
-<graphics//indirect_water_cooling_system.png, id=730, 1822.4085pt x 829.9005pt>
+ [35]
+[36 <./graphics//Hot_aisle_Cold_aisle_Layout.png>]
+<graphics//indirect_water_cooling_system.png, id=738, 1822.4085pt x 829.9005pt>
 
 File: graphics//indirect_water_cooling_system.png Graphic file (type png)
 <use graphics//indirect_water_cooling_system.png>
 Package pdftex.def Info: graphics//indirect_water_cooling_system.png  used on i
 nput line 580.
 (pdftex.def)             Requested size: 426.79135pt x 194.35548pt.
- [35 <./graphics//indirect_water_cooling_system.png>] [36]
+ [37 <./graphics//indirect_water_cooling_system.png>] [38]
 chapter 5.
-<graphics//dc_component_recycling_process.png, id=763, 1445.4pt x 794.97pt>
+<graphics//dc_component_recycling_process.png, id=772, 1445.4pt x 794.97pt>
 File: graphics//dc_component_recycling_process.png Graphic file (type png)
 <use graphics//dc_component_recycling_process.png>
 Package pdftex.def Info: graphics//dc_component_recycling_process.png  used on 
 input line 616.
 (pdftex.def)             Requested size: 426.79135pt x 234.73245pt.
-[37
+[39
 
 
-] [38 <./graphics//dc_component_recycling_process.png>]
+] [40 <./graphics//dc_component_recycling_process.png>]
 chapter 6.
 <graphics//Public_cloud_services_end_user_spending_worldwide_from_2017_to_2024.
-png, id=789, 1003.75pt x 745.78625pt>
+png, id=797, 1003.75pt x 745.78625pt>
 File: graphics//Public_cloud_services_end_user_spending_worldwide_from_2017_to_
 2024.png Graphic file (type png)
 <use graphics//Public_cloud_services_end_user_spending_worldwide_from_2017_to_2
@@ -3196,12 +3197,12 @@ File: graphics//Public_cloud_services_end_user_spending_worldwide_from_2017_to_
 Package pdftex.def Info: graphics//Public_cloud_services_end_user_spending_worl
 dwide_from_2017_to_2024.png  used on input line 637.
 (pdftex.def)             Requested size: 426.79135pt x 317.1086pt.
-[39
+[41
 
 
 ]
 <graphics//statistic_id1362483_prominent-cloud-provider-annual-power-usage-effe
-ctiveness--pue--worldwide-2022.png, id=813, 1003.75pt x 745.78625pt>
+ctiveness--pue--worldwide-2022.png, id=821, 1003.75pt x 745.78625pt>
 File: graphics//statistic_id1362483_prominent-cloud-provider-annual-power-usage
 -effectiveness--pue--worldwide-2022.png Graphic file (type png)
 <use graphics//statistic_id1362483_prominent-cloud-provider-annual-power-usage-
@@ -3210,68 +3211,68 @@ Package pdftex.def Info: graphics//statistic_id1362483_prominent-cloud-provider
 -annual-power-usage-effectiveness--pue--worldwide-2022.png  used on input line 
 653.
 (pdftex.def)             Requested size: 426.79135pt x 317.1086pt.
- [40 <./graphics//Public_cloud_services_end_user_spending_worldwide_from_2017_t
-o_2024.png>] [41 <./graphics//statistic_id1362483_prominent-cloud-provider-annu
-al-power-usage-effectiveness--pue--worldwide-2022.png>] [42
+ [42 <./graphics//Public_cloud_services_end_user_spending_worldwide_from_2017_t
+o_2024.png>] [43 <./graphics//statistic_id1362483_prominent-cloud-provider-annu
+al-power-usage-effectiveness--pue--worldwide-2022.png>] [44
 
 
 ]
 chapter 7.
-[43] [44]
+[45] [46]
 chapter 8.
-[45
+[47
 
 
-] [46
+] [48
 
 
 ]
 chapter 9.
-[47] [48] [49] [50]
+[49] [50] [51] [52]
 chapter 10.
-[51
+[53
 
 
-] [52
+] [54
 
 
 ]
 chapter 11.
-[53] [54
+[55] [56
 
 
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 731.
+(Font)              scaled to size 10.95pt on input line 732.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 731.
+(Font)              scaled to size 10.95pt on input line 732.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 73
-1.
+2.
 (C:\Users\ac\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 731.
+(Font)              scaled to size 9.85492pt on input line 732.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 731.
+(Font)              scaled to size 10.95pt on input line 732.
 
-[55{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
+[57{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-
 pc.enc}{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i
-4-t1-1.enc}] [56] [57] [58]
-Underfull \hbox (badness 1939) in paragraph at lines 732--732
+4-t1-1.enc}] [58] [59] [60]
+Underfull \hbox (badness 1939) in paragraph at lines 733--733
 []\T1/ntxtlf/m/n/10.95 (+20) H. Ritchie, P. Rosado. ^^P  Fos-sil fu-els^^Q. In:
  \T1/ntxtlf/m/it/10.95 (+20) Our World in Data \T1/ntxtlf/m/n/10.95 (+20) (2017
 ).
  []
 
-[59] [60]
+[61] [62]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 731.
- [61] (latexhints-english.tex [62]
+(Font)              scaled to size 6.1pt on input line 732.
+ [63] (latexhints-english.tex [64]
 chapter A.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 9.40002pt on input line 11.
@@ -3342,7 +3343,7 @@ Package mdframed Info: mdframed inside twoside mode but
 (democode.tex)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 60.
- [63
+ [65
 
 
 ]
@@ -3436,7 +3437,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolC/m/n/5.5'
 
 (microtype)             (new value: 5.5pt) on input line 91.
 
-[64]
+[66]
 
 LaTeX Warning: Writing or overwriting file `democode'.
 
@@ -3516,7 +3517,7 @@ File: latin1.def 2021/02/14 v1.3d Input encoding file
 ))
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 140.
- [65{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntxsups_t1
+ [67{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntxsups_t1
 .enc}]
 Package hyperref Info: bookmark level for unknown Algorithmus defaults to 0 on 
 input line 148.
@@ -3537,7 +3538,7 @@ LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
 LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
 (Font)              scaled to size 5.73401pt on input line 152.
 
-[66{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-rm.enc
+[68{C:/Users/ac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-rm.enc
 }]
 Overfull \hbox (10.95pt too wide) in paragraph at lines 184--197
 []$[]$ 
@@ -3548,7 +3549,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
-<graphics//choreography.pdf, id=1254, 588.1442pt x 377.82657pt>
+<graphics//choreography.pdf, id=1273, 588.1442pt x 377.82657pt>
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 218.
@@ -3575,14 +3576,14 @@ File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 287.
 (pdftex.def)             Requested size: 426.79135pt x 274.17955pt.
-[67
+[69
 
- <./graphics//choreography.pdf>] [68] [69]
+ <./graphics//choreography.pdf>] [70] [71]
 File: graphics//choreography.pdf Graphic file (type pdf)
 <use graphics//choreography.pdf>
 Package pdftex.def Info: graphics//choreography.pdf  used on input line 296.
 (pdftex.def)             Requested size: 426.79135pt x 274.17955pt.
- [70]
+ [72]
 LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
 (Font)              scaled to size 8.46002pt on input line 330.
 LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
@@ -3611,7 +3612,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no 2 in font nullfont!
-[71
+[73
 
 
 ]
@@ -3636,7 +3637,7 @@ PGFPlots: reading {data/data.csv}
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[72] [73] [74] [75]
+[74] [75] [76] [77]
 Overfull \hbox (4.05582pt too wide) in paragraph at lines 596--597
 []\T1/ntxtlf/m/n/10.95 (-20) Abbreviations are de-fined in [][]\T1/zi4/m/n/10.9
 5 (-20) \content\ausarbeitung.tex []\T1/ntxtlf/m/n/10.95 (-20) by means of [][]
@@ -3644,7 +3645,7 @@ Overfull \hbox (4.05582pt too wide) in paragraph at lines 596--597
 . 
  []
 
-[76]
+[78]
 Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
 nput line 625.
 
@@ -3681,7 +3682,7 @@ Package mdframed Info: mdframed inside twoside mode but
 (democode.tex)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 663.
- [77]) [78] [79
+ [79]) [80] [81
 
 
 ]
@@ -3715,25 +3716,17 @@ Package nag Warning: 1 complaints in total.
 LaTeX2e <2023-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main-english.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main-english.run.xml'.
 \openout1 = `main-english.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 90760 strings out of 474485
- 2105972 string characters out of 5745150
- 3387320 words of memory out of 5000000
- 110812 multiletter control sequences out of 15000+600000
+ 90772 strings out of 474485
+ 2106211 string characters out of 5745150
+ 3387966 words of memory out of 5000000
+ 110827 multiletter control sequences out of 15000+600000
  701008 words of font info for 360 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  126i,21n,197p,10923b,3482s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3755,9 +3748,9 @@ TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/ac/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/newtx/ztmr.pfb><C:/Users/ac/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmri.pfb>
-Output written on main-english.pdf (79 pages, 2856869 bytes).
+Output written on main-english.pdf (81 pages, 2860795 bytes).
 PDF statistics:
- 1667 PDF objects out of 1728 (max. 8388607)
- 389 named destinations out of 1000 (max. 500000)
+ 1685 PDF objects out of 1728 (max. 8388607)
+ 386 named destinations out of 1000 (max. 500000)
  111161 words of extra memory for PDF output out of 128383 (max. 10000000)
 

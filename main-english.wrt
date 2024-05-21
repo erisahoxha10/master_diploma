@@ -14,139 +14,139 @@
 \@writefile{toc}{\contentsline {section}{\numberline {1.2}Problem Statement}{19}{section.1.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Structure}{19}{section.1.3}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {1.3}{\ignorespaces Leading countries by the number of data centers; Source Statista\blx@tocontentsinit {0}\cite {statista_2024}}}{20}{figure.caption.11}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {2}Background}{21}{chapter.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}Background}{23}{chapter.2}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {2.1}Energy}{21}{section.2.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Analysis of a typical 465 m2 data center, Source Emerson Network power\blx@tocontentsinit {0}\cite {emerson2015}}}{22}{figure.caption.12}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces The power flow and heat flow in general data centers \blx@tocontentsinit {0}\cite {JIN2020114806}}}{23}{figure.caption.13}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2.2}Greenhouse Gases}{23}{section.2.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Greenhouse gas emissions, 2022 \blx@tocontentsinit {0}\cite {owid-co2-and-greenhouse-gas-emissions}}}{24}{figure.caption.14}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2.3}Data Centers}{25}{section.2.3}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrammatic representation of the DC's overall structure\blx@tocontentsinit {0}\cite {ZHU2023104322}}}{26}{figure.caption.15}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {3}Study Design}{27}{chapter.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Energy}{23}{section.2.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Analysis of a typical 465 m2 data center, Source Emerson Network power\blx@tocontentsinit {0}\cite {emerson2015}}}{24}{figure.caption.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces The power flow and heat flow in general data centers \blx@tocontentsinit {0}\cite {JIN2020114806}}}{25}{figure.caption.13}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Greenhouse Gases}{25}{section.2.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Greenhouse gas emissions, 2022 \blx@tocontentsinit {0}\cite {owid-co2-and-greenhouse-gas-emissions}}}{26}{figure.caption.14}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Data Centers}{27}{section.2.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrammatic representation of the DC's overall structure\blx@tocontentsinit {0}\cite {ZHU2023104322}}}{28}{figure.caption.15}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Study Design}{29}{chapter.3}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {3.1}Research Questions}{27}{section.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3.2}Methodology}{27}{section.3.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Energy used from Data Centers}{29}{chapter.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Research Questions}{29}{section.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Methodology}{29}{section.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Energy used from Data Centers}{31}{chapter.4}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Energy used for running Servers}{29}{section.4.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{30}{figure.caption.16}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{31}{figure.caption.17}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Server States}{31}{subsection.4.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Backup Generators}{31}{subsection.4.1.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{32}{figure.caption.18}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{32}{section.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{33}{subsection.4.2.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Hot aisle- Cold aisle Layout )\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{34}{figure.caption.19}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{35}{figure.caption.20}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{35}{subsection.4.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{37}{chapter.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Energy used for running Servers}{31}{section.4.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{32}{figure.caption.16}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{33}{figure.caption.17}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Server States}{33}{subsection.4.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Backup Generators}{33}{subsection.4.1.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{34}{figure.caption.18}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{34}{section.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{35}{subsection.4.2.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Hot aisle- Cold aisle Layout )\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{36}{figure.caption.19}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{37}{figure.caption.20}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{37}{subsection.4.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{39}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{38}{figure.caption.21}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {6}Clouds and Virtualization}{39}{chapter.6}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{40}{figure.caption.21}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Clouds and Virtualization}{41}{chapter.6}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Public cloud services end-user spending worldwide from 2017 to 2024\blx@tocontentsinit {0}\cite {cloud_economy2023}}}{40}{figure.caption.22}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022\blx@tocontentsinit {0}\cite {clouds_pue}}}{41}{figure.caption.23}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{43}{chapter.7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Public cloud services end-user spending worldwide from 2017 to 2024\blx@tocontentsinit {0}\cite {cloud_economy2023}}}{42}{figure.caption.22}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022\blx@tocontentsinit {0}\cite {clouds_pue}}}{43}{figure.caption.23}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{45}{chapter.7}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{44}{section.7.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {8}Results}{45}{chapter.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7.1}Carbon-Free Energy Data Centers}{46}{section.7.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {8}Results}{47}{chapter.8}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {9}Heading on Level\xspace 0 (chapter)}{47}{chapter.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {9}Heading on Level\xspace 0 (chapter)}{49}{chapter.9}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {9.1}Heading on Level\xspace 1 (section)}{47}{section.9.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {9.1.1}Heading on Level\xspace 2 (subsection)}{47}{subsection.9.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{47}{subsubsection*.25}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{48}{paragraph*.27}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {9.2}Lists}{48}{section.9.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {9.2.1}Example for list\xspace (itemize)}{48}{subsection.9.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{48}{subsubsection*.29}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {9.2.2}Example for list\xspace (enumerate)}{49}{subsection.9.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{49}{subsubsection*.31}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {9.2.3}Example for list\xspace (description)}{49}{subsection.9.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{50}{subsubsection*.33}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {10}Related Work}{51}{chapter.10}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {9.1}Heading on Level\xspace 1 (section)}{49}{section.9.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.1.1}Heading on Level\xspace 2 (subsection)}{49}{subsection.9.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{49}{subsubsection*.25}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{50}{paragraph*.27}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {9.2}Lists}{50}{section.9.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.2.1}Example for list\xspace (itemize)}{50}{subsection.9.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{50}{subsubsection*.29}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.2.2}Example for list\xspace (enumerate)}{51}{subsection.9.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{51}{subsubsection*.31}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.2.3}Example for list\xspace (description)}{51}{subsection.9.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{52}{subsubsection*.33}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {10}Related Work}{53}{chapter.10}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {11}Conclusion and Outlook}{53}{chapter.11}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {11}Conclusion and Outlook}{55}{chapter.11}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\nonumberline Bibliography}{55}{chapter*.35}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\nonumberline Bibliography}{57}{chapter*.35}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}LaTeX Hints}{63}{appendix.A}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}LaTeX Hints}{65}{appendix.A}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{63}{section.A.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.2}Citations}{63}{section.A.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.3}Formulas and Equations}{64}{section.A.3}\protected@file@percent }
-\@writefile{code}{\contentsline {Listing}{\numberline {A.1}{\ignorespaces The code is separated by two horizontal lines in the listings environment.}}{65}{Listing.A.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.4}Sourcecode}{65}{section.A.4}\protected@file@percent }
-\@writefile{alg}{\contentsline {Algorithmus}{\numberline {A.1}{\ignorespaces Sample algorithm}}{66}{Algorithmus.A.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.5}Pseudocode}{66}{section.A.5}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{67}{figure.caption.36}\protected@file@percent }
-\@writefile{alg}{\contentsline {Algorithmus}{\numberline {A.2}{\ignorespaces Description \relax }}{67}{Algorithmus.A.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.6}Figures}{67}{section.A.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.7}More Illustrations}{67}{section.A.7}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{68}{figure.caption.37}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{68}{figure.caption.38}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{69}{figure.caption.39}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{70}{figure.caption.40}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.8}Plots with pgfplots}{71}{section.A.8}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{71}{figure.caption.41}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{71}{figure.caption.42}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.9}Figures with tikz}{71}{section.A.9}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{72}{figure.caption.43}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{72}{section.A.10}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{72}{section.A.11}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.12}Linguistic Forests}{72}{section.A.12}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.13}Tables}{72}{section.A.13}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{72}{subsection.A.13.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{73}{figure.caption.44}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {A.1}{\ignorespaces Example Table}}{73}{table.caption.45}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {A.2}{\ignorespaces Example table for 4 constraints (W-Z), each having 4 parameters with (M und SD). Note: use always the same number of decimal places.}}{74}{table.caption.46}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {A.3}{\ignorespaces Table directly generated from the values of a csf file.}}{74}{table.caption.47}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{74}{section.A.14}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {A.4}{\ignorespaces A sample long table.}}{74}{table.A.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.15}Abbreviations}{76}{section.A.15}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.16}References}{77}{section.A.16}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.17}Definitions}{77}{section.A.17}\protected@file@percent }
-\@writefile{thm}{\contentsline {definition}{{Definition}{A.17.{1}}{Title}}{77}{definition.A.17.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.18}Footnotes}{77}{section.A.18}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.19}Various Things}{77}{section.A.19}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {A.20}Closing remarks}{78}{section.A.20}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.1}File Encoding and Support of Umlauts}{65}{section.A.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.2}Citations}{65}{section.A.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.3}Formulas and Equations}{66}{section.A.3}\protected@file@percent }
+\@writefile{code}{\contentsline {Listing}{\numberline {A.1}{\ignorespaces The code is separated by two horizontal lines in the listings environment.}}{67}{Listing.A.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.4}Sourcecode}{67}{section.A.4}\protected@file@percent }
+\@writefile{alg}{\contentsline {Algorithmus}{\numberline {A.1}{\ignorespaces Sample algorithm}}{68}{Algorithmus.A.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.5}Pseudocode}{68}{section.A.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{69}{figure.caption.36}\protected@file@percent }
+\@writefile{alg}{\contentsline {Algorithmus}{\numberline {A.2}{\ignorespaces Description \relax }}{69}{Algorithmus.A.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.6}Figures}{69}{section.A.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.7}More Illustrations}{69}{section.A.7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{70}{figure.caption.37}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{70}{figure.caption.38}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{71}{figure.caption.39}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{72}{figure.caption.40}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.8}Plots with pgfplots}{73}{section.A.8}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{73}{figure.caption.41}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{73}{figure.caption.42}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.9}Figures with tikz}{73}{section.A.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{74}{figure.caption.43}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.10}UML diagrams using tikz-uml}{74}{section.A.10}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.11}UML diagrams using PlantUML}{74}{section.A.11}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.12}Linguistic Forests}{74}{section.A.12}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.13}Tables}{74}{section.A.13}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {A.13.1}Tables with pgfplots}{74}{subsection.A.13.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{75}{figure.caption.44}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {A.1}{\ignorespaces Example Table}}{75}{table.caption.45}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {A.2}{\ignorespaces Example table for 4 constraints (W-Z), each having 4 parameters with (M und SD). Note: use always the same number of decimal places.}}{76}{table.caption.46}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {A.3}{\ignorespaces Table directly generated from the values of a csf file.}}{76}{table.caption.47}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.14}Tables spanning multiple pages}{76}{section.A.14}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {A.4}{\ignorespaces A sample long table.}}{76}{table.A.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.15}Abbreviations}{78}{section.A.15}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.16}References}{79}{section.A.16}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.17}Definitions}{79}{section.A.17}\protected@file@percent }
+\@writefile{thm}{\contentsline {definition}{{Definition}{A.17.{1}}{Title}}{79}{definition.A.17.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.18}Footnotes}{79}{section.A.18}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.19}Various Things}{79}{section.A.19}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A.20}Closing remarks}{80}{section.A.20}\protected@file@percent }
 \@writefile{toc}{\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file }
 \@writefile{lof}{\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file }
 \@writefile{lot}{\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file }

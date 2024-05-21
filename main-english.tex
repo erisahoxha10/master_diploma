@@ -266,12 +266,12 @@ In the following, the structure is outlined as follows:
 
 
 \begin{itemize}
-	\item Chapter 2 is the background of this all this theses and has three subpoints: Energy, Greenhouse Gases and Data Centers
-	\item Chapter 3 is the Study Design along where I included my research questions and the methodology in my research used to find answers for those questions
-	\item Chapter 4 is about all about Energy. In this chapter I studied separately the energy used for running servers and energy used for cooling
-	\item Chapter 5 is the hardware footprint of data centers in years
-	\item Chapter 6 is about Cloud and Virtualization and answers the research question 4
-	\item Chapter 7 is about Energy saved from data centers and clouds and the concept of Carbon-Free Energy Data centers
+	\item Chapter 2 is the Background. It contains 3 subsections: \enquote{Energy}, \enquote{Greenhouse Gases} and \enquote{Data Centers}.
+	\item Chapter 3 is the Study Design where I included my research questions and the methodology I used in this research to answer the 5 research questions
+	\item Chapter 4 is Energy used in Data Centers. In this chapter I studied separately the energy used for running servers and energy used for thermal management
+	\item Chapter 5 is the Hardware Footprint and E-waste of data centers. In this chapter it is included also the study of hardware recycling
+	\item Chapter 6 is about Clouds and Virtualization. In this chapter it is included PUE of different cloud providers
+	\item Chapter 7 is about Energy saved from data centers and clouds and the concept of Carbon-Free Energy Data centers. Here are included real life scenarios of how clouds have changed industries
 	\item Chapter 8 - here there are the conclusions from my my research 
 \end{itemize}
 
@@ -329,7 +329,7 @@ Energy can be generated from various sources. Some of the most common methods of
 
 It's important to note that the availability and utilization of different energy sources can vary depending on factors such as geographical location, technological advancements, and economic considerations\cite{firozjaei2020effect}\cite{kryzia2019dampening}\cite{abas2015review}. The transition toward renewable and sustainable energy sources is gaining momentum globally due to concerns about climate change and the finite nature of fossil fuel resources\cite{qazi2019towards}.
 
-\section{Greenhouse Gases}
+\section{Greenhouse Gases}\label{ghg_section_background}
 United Nations Climate Change Conference (COP26) held in Glasgow reached an agreement to ensure global net zero emissions by mid-century and to reduce global emissions by 45\% by 2030\cite{Arora_Mishra_2021}. 
 
 
@@ -421,7 +421,7 @@ In this thesis I tried to include the latest publicly available research or deve
 
 %%%%%%%%%%%  chapter4 %%%%%%%%%%%%%%%%%%%%
 
-\chapter{Energy used from Data Centers}
+\chapter{Energy used from Data Centers}\label{chap4}
 
 The US data centers handled about 300 million Terabyte of data that consumed around 8.3 billion kWh per year in 2016, hence 27.7 kWh per Terabyte with a carbon footprint of approximately 35 kg CO2 per Terabyte of data\cite{corbett2018sustainable}.
 
@@ -491,7 +491,7 @@ In data centers, the servers are not always active, as they can be idle. Further
 \subsection{Backup Generators}
 Backup generators play a crucial role in ensuring the operational reliability of data centers. These generators, powered by diesel fuel, are responsible for generating electricity during power outages or routine testing. However, it is important to note that when these generators are activated, they produce direct emissions that can have an impact on the environment. While their operational hours may be limited compared to primary equipment, the combustion of fuel leads to a higher release of \gls{ghg}\cite{jiang2015energy}.
 
-\section{Energy used for Thermal Management}
+\section{Energy used for Thermal Management}\label{thermal_energy_section}
 
 Historically, data centers have heavily relied on traditional \gls{hvac} systems to maintain desired temperatures. However, these systems are known for their high energy consumption. The main reason for this is their use of mechanical cooling, which involves compressors and refrigerants that consume significant amounts of energy, sometimes even matching the energy consumption of the servers themselves\cite{bhatia2015hvac}.
 
@@ -591,7 +591,7 @@ It's important to acknowledge that maintaining a liquid cooling system presents 
 
 %%%%%%%%%%%%%   Chapter5   %%%%%%%%%%%%%%%
 
-\chapter{Hardware Footprint and E-waste}
+\chapter{Hardware Footprint and E-waste}\label{chap5}
 %The IT equipment consume approximately 50\% of the DC energy \(Rteil, Bashroush, \& Kenny, 2022).
 It is estimated that manufacturing storage devices has resulted in 20 million metric tonnes of CO2 emissions in 2021 alone\cite{networkworldHDDsGreener}.
 
@@ -626,7 +626,7 @@ Technological advancements in server design, the reduction of redundant hardware
 
 %%%%%%%%%%%%%   Chapter6   %%%%%%%%%%%%%%%%%%%
 
-\chapter{Clouds and Virtualization}
+\chapter{Clouds and Virtualization}\label{chap6}
 
 In the early days, industries relied on physical, role-based servers. These servers posed several challenges. Firstly, scaling them according to the workload they received was difficult. As the demand on the servers increased, it was hard to expand the infrastructure to accommodate the growing load. Secondly, managing the infrastructure of these servers was a complex task. The maintenance, configuration, and overall upkeep required significant time and resources. Additionally, if one of these physical servers failed, it would directly impact the corresponding service, resulting in downtime and disrupted operations. Due to these challenges, companies started considering alternative approaches to tackle them, which eventually gave rise to the concept of outsourcing the infrastructure and maintenance of servers. This led to the development of cloud computing, where organizations could ship these responsibilities and concentrate on their core operations, benefiting from remote server management. As of today, Cloud computing is the fastest growing internet technology, \ref{cloud_increase}\cite{anand2021need}. Berkley RAD lab defines "Cloud Computing refers to both the applications delivered as services over the Internet and the hardware and systems software in the datacenters that provide those services. The services themselves have long been referred to as Software as a Service (SaaS), so we use that term. The \gls{dc} hardware and software is what we will call a Cloud"\cite{fox2009above}.
 Clouds perform better in terms of CPU utilization, latency, scalability which in the long run translates to less energy use \cite{khanghahi2013cloud}. 
@@ -660,7 +660,7 @@ Cloud evaluation is difficult compared to systems as many factors have to be tak
 
 %%%%%%%%%%%%%%   Chapter7   %%%%%%%%%%%%%%%
 
-\chapter{Energy saved from Data Centers/Clouds}
+\chapter{Energy saved from Data Centers/Clouds}\label{chap7}
 
 Reducing the carbon footprint on your project should not increase the carbon footprint elsewhere. This means that outsourcing to data centers and clouds does not necessarily reduce carbon footprint. The impact can vary depending on factors like energy sources and workloads.
 
@@ -693,25 +693,26 @@ According to an official statement from Google, they have announced their commit
 
 \chapter{Results}
 
-\begin{enumerate}
-	\item How much GHG do data centers currently produce, and what can be an estimate of the GHG production for the upcoming years?
+\begin{description}
+	\item[RQ1]
 	
-	1st question is answered throughout the whole thesis. In each section we have something related to how much GHG is produced. And we also have an estimation of 720 million tones of CO2 emission in 2030.
+	This question is answered throughout the whole thesis. In each section we have something related to how much GHG is produced. And we also have an estimation of 720 million tones of CO2 emission in 2030.
+	\gls{ghg} is an essential term in this whole research. In 2022 data centers produced 3.7\% of all \gls{ghg} worldwide. It is estimated that by 2030 \gls{dc} will produce 720 million tones of CO2.
 	
-	\item Study of the emission causes in data centers, focusing on factors like electricity, cooling and physical hardware fragments.
+	\item[RQ2]
 	
-	2nd question is answered in chapters 4, 5
+	This question is studied in chapters \ref{chap4} and \ref{chap5}
 	
-	\item Introduction to carbon footprint and study of the (existing) measures for the reduction of carbon footprint.
+	\item[RQ3] 
 	
-	3rd question is answered in chapter 7
+	Carbon footprint is introduced in section \ref{ghg_section_background}. The measures to reduce carbon footprint are elaborated in different chapters. In section \ref{thermal_energy_section} there are given strategies to improve thermal management in \gls{dc}. While in chapter \ref{chap5} it is studied the concept of circular economy and recycling.
 	
-	\item How can outsourcing to cloud computing reduce the environmental impact?
+	\item[RQ4] 
 	
-	4th question is answered in chapter 6
+	The efficiency of cloud providers in utilizing resources is discussed in Chapter \ref{chap6}. Chapter \ref{chap7} examines the energy savings and reduced CO2 emissions that result from outsourcing to cloud data centers.
 	
 	\item Study of the DCIM Software for carbon footprint measuring and evaluation of the software's accuracy via experiments.
-\end{enumerate}
+\end{description}
 
 
 \blinddocument
