@@ -22,18 +22,20 @@
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022\blx@tocontentsinit {0}\cite {clouds_pue}}}{43}{figure.caption.23}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces An example: Environmental monitoring dashboard in netTerrain DCIM\blx@tocontentsinit {0}\cite {graphicalnetworksLoweringYour}}}{47}{figure.caption.24}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{69}{figure.caption.36}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{70}{figure.caption.37}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{70}{figure.caption.38}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{71}{figure.caption.39}%
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{72}{figure.caption.40}%
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{73}{figure.caption.41}%
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{73}{figure.caption.42}%
-\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{74}{figure.caption.43}%
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{75}{figure.caption.44}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Example Choreography}}{71}{figure.caption.37}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Example Choreography}}{72}{figure.caption.38}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Example to place 3 illustrations next to each other. Further, it is possible to reference each separately.}}{72}{figure.caption.39}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Example Choreography I}}{73}{figure.caption.40}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Example Choreography II}}{74}{figure.caption.41}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Plot of $\sin (x)$ direclty inside the figure environment with pgfplots.}}{75}{figure.caption.42}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Coordinates $x$ and $y$ read from csv file and plotted pgfplots.}}{75}{figure.caption.43}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces A regular grid generated easily with two for loops.}}{76}{figure.caption.44}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Class diagram generated with tikz-uml. Example adapted from Nicolas Kielbasiewicz.}}{77}{figure.caption.45}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

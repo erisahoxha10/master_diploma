@@ -1566,6 +1566,30 @@
       \field{pages}{590\bibrangedash 604}
       \range{pages}{15}
     \endentry
+    \entry{graphicalnetworksLoweringYour}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f94ce0c3e517cc1e5b16498afecd8f3c}{%
+           family={Koh},
+           familyi={K\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f94ce0c3e517cc1e5b16498afecd8f3c}
+      \strng{fullhash}{f94ce0c3e517cc1e5b16498afecd8f3c}
+      \strng{bibnamehash}{f94ce0c3e517cc1e5b16498afecd8f3c}
+      \strng{authorbibnamehash}{f94ce0c3e517cc1e5b16498afecd8f3c}
+      \strng{authornamehash}{f94ce0c3e517cc1e5b16498afecd8f3c}
+      \strng{authorfullhash}{f94ce0c3e517cc1e5b16498afecd8f3c}
+      \field{labelalpha}{Koh23}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://graphicalnetworks.com/blog-lowering-your-pue-goes-way-beyond-just-your-carbon-footprint/}}
+      \field{month}{7}
+      \field{title}{Lowering Your PUE Goes Way Beyond Just Your Carbon Footprint}
+      \field{year}{2023}
+    \endentry
     \entry{kryzia2019dampening}{inproceedings}{}
       \name{author}{6}{}{%
         {{hash=047f9cee066795c685b1d1eee0dfb8bd}{%
@@ -1937,6 +1961,61 @@
       \verb https://doi.org/10.1145/2528521.1508269
       \endverb
       \keyw{servers,power management}
+    \endentry
+    \entry{murino2023sustainable}{article}{}
+      \name{author}{6}{}{%
+        {{hash=065b80bcb3941b8fa9eb2b4a029c0f51}{%
+           family={Murino},
+           familyi={M\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fac0ea83f64970f47140a27789e2de23}{%
+           family={Monaco},
+           familyi={M\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=77c6094368a934d1f0b48e8475077275}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Per\bibnamedelima Sieverts},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2e658b733e21217cb02950066ceeef3b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiufeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bd597da0ab84c7925713d355ac79c6ea}{%
+           family={Esposito},
+           familyi={E\bibinitperiod},
+           given={Gianluigi},
+           giveni={G\bibinitperiod}}}%
+        {{hash=22baa3095b315bb6ab2a1ff4033538f4}{%
+           family={Scognamiglio},
+           familyi={S\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{a8b026a7b62eb6d0e5e9f6a493871429}
+      \strng{fullhash}{96c8f22a2bc7196902f12e4cd54c40e3}
+      \strng{bibnamehash}{96c8f22a2bc7196902f12e4cd54c40e3}
+      \strng{authorbibnamehash}{96c8f22a2bc7196902f12e4cd54c40e3}
+      \strng{authornamehash}{a8b026a7b62eb6d0e5e9f6a493871429}
+      \strng{authorfullhash}{96c8f22a2bc7196902f12e4cd54c40e3}
+      \field{labelalpha}{MMN+23}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{15}
+      \field{title}{Sustainable energy data centres: A holistic conceptual framework for design and operations}
+      \field{volume}{16}
+      \field{year}{2023}
+      \field{pages}{5764}
+      \range{pages}{1}
     \endentry
     \entry{malkamaki2012solar}{article}{}
       \name{author}{2}{}{%
@@ -2765,6 +2844,27 @@
       \field{pages}{674\bibrangedash 691}
       \range{pages}{18}
     \endentry
+    \entry{salimenergy}{article}{}
+      \name{author}{1}{}{%
+        {{hash=88b24c6d015eafe72d2ac4bc7e1b8514}{%
+           family={Salim},
+           familyi={S\bibinitperiod},
+           given={Munther},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{88b24c6d015eafe72d2ac4bc7e1b8514}
+      \strng{fullhash}{88b24c6d015eafe72d2ac4bc7e1b8514}
+      \strng{bibnamehash}{88b24c6d015eafe72d2ac4bc7e1b8514}
+      \strng{authorbibnamehash}{88b24c6d015eafe72d2ac4bc7e1b8514}
+      \strng{authornamehash}{88b24c6d015eafe72d2ac4bc7e1b8514}
+      \strng{authorfullhash}{88b24c6d015eafe72d2ac4bc7e1b8514}
+      \field{labelalpha}{Sal}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Energy Efficiency Aspects of DCIM}
+    \endentry
     \entry{sipahutar2013renewable}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -3062,6 +3162,27 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{https://www.gartner.com/en/newsroom/press-releases/2024-04-16-gartner-forecast-worldwide-it-spending-to-grow-8-percent-in-2024}
       \field{title}{{G}artner {F}orecasts {W}orldwide {I}{T} {S}pending to {G}row 8\% in 2024}
+      \field{year}{2024}
+    \endentry
+    \entry{sunbirddcimDataCenter}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=eca8fab712b2fd4817bd6d065d97bfde}{%
+           family={SunBird},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{eca8fab712b2fd4817bd6d065d97bfde}
+      \strng{fullhash}{eca8fab712b2fd4817bd6d065d97bfde}
+      \strng{bibnamehash}{eca8fab712b2fd4817bd6d065d97bfde}
+      \strng{authorbibnamehash}{eca8fab712b2fd4817bd6d065d97bfde}
+      \strng{authornamehash}{eca8fab712b2fd4817bd6d065d97bfde}
+      \strng{authorfullhash}{eca8fab712b2fd4817bd6d065d97bfde}
+      \field{labelalpha}{Sun24}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.sunbirddcim.com/glossary/data-center-carbon-footprint}}
+      \field{title}{Data Center Carbon Footprint}
       \field{year}{2024}
     \endentry
     \entry{swacha2022models}{article}{}
