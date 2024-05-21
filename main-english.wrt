@@ -33,35 +33,36 @@
 \@writefile{lopytx}{\addvspace {10\p@ }}
 \@writefile{toc}{\contentsline {section}{\numberline {3.1}Research Questions}{29}{section.3.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {3.2}Methodology}{29}{section.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Number of publications per year used in this research}}{30}{figure.caption.16}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {4}Energy used from Data Centers}{31}{chapter.4}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
 \@writefile{toc}{\contentsline {section}{\numberline {4.1}Energy used for running Servers}{31}{section.4.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{32}{figure.caption.16}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{33}{figure.caption.17}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Component-wise energy consumption of a server; Source\blx@tocontentsinit {0}\cite {ahmed2021review}}}{32}{figure.caption.17}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Power breakdown across the components of two servers\blx@tocontentsinit {0}\cite {dayarathna2015data}}}{33}{figure.caption.18}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Server States}{33}{subsection.4.1.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Backup Generators}{33}{subsection.4.1.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{34}{figure.caption.18}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Cooling System with Raised Floor Configuration (hot aisle/cold aisle layout)\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{34}{figure.caption.19}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.2}Energy used for Thermal Management}{34}{section.4.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Free Cooling}{35}{subsection.4.2.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Hot aisle- Cold aisle Layout )\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{36}{figure.caption.19}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{37}{figure.caption.20}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Hot aisle- Cold aisle Layout )\blx@tocontentsinit {0}\cite {bhatia2015hvac}}}{36}{figure.caption.20}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces The schematic diagram of indirect water cooling system; Source: \blx@tocontentsinit {0}\cite {khalaj2017review}}}{37}{figure.caption.21}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Liquid Cooling}{37}{subsection.4.2.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {5}Hardware Footprint and E-waste}{39}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{40}{figure.caption.21}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces IT Equipment Recycling Process; Source: Sims Lifecycle Services\blx@tocontentsinit {0}\cite {simslifecycleEquipmentProcessed}}}{40}{figure.caption.22}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {6}Clouds and Virtualization}{41}{chapter.6}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Public cloud services end-user spending worldwide from 2017 to 2024\blx@tocontentsinit {0}\cite {cloud_economy2023}}}{42}{figure.caption.22}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022\blx@tocontentsinit {0}\cite {clouds_pue}}}{43}{figure.caption.23}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Public cloud services end-user spending worldwide from 2017 to 2024\blx@tocontentsinit {0}\cite {cloud_economy2023}}}{42}{figure.caption.23}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022\blx@tocontentsinit {0}\cite {clouds_pue}}}{43}{figure.caption.24}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {7}Energy saved from Data Centers/Clouds}{45}{chapter.7}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
@@ -73,7 +74,7 @@
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {8.1}{\ignorespaces An example: Environmental monitoring dashboard in netTerrain DCIM\blx@tocontentsinit {0}\cite {graphicalnetworksLoweringYour}}}{47}{figure.caption.24}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8.1}{\ignorespaces An example: Environmental monitoring dashboard in netTerrain DCIM\blx@tocontentsinit {0}\cite {graphicalnetworksLoweringYour}}}{47}{figure.caption.25}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {9}Results}{49}{chapter.9}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
@@ -86,21 +87,21 @@
 \@writefile{lopytx}{\addvspace {10\p@ }}
 \@writefile{toc}{\contentsline {section}{\numberline {10.1}Heading on Level\xspace 1 (section)}{51}{section.10.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {10.1.1}Heading on Level\xspace 2 (subsection)}{51}{subsection.10.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{51}{subsubsection*.26}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{52}{paragraph*.28}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{51}{subsubsection*.27}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{52}{paragraph*.29}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {10.2}Lists}{52}{section.10.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {10.2.1}Example for list\xspace (itemize)}{52}{subsection.10.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{52}{subsubsection*.30}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{52}{subsubsection*.31}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {10.2.2}Example for list\xspace (enumerate)}{53}{subsection.10.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{53}{subsubsection*.32}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{53}{subsubsection*.33}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {10.2.3}Example for list\xspace (description)}{53}{subsection.10.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{54}{subsubsection*.34}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{54}{subsubsection*.35}\protected@file@percent }
 \@writefile{toc}{\contentsline {chapter}{\numberline {11}Related Work}{55}{chapter.11}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}
 \@writefile{lopytx}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {12}Conclusion and Outlook}{57}{chapter.12}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {12}Conclusion}{57}{chapter.12}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lol}{\addvspace {10\p@ }}

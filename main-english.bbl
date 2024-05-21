@@ -2051,6 +2051,66 @@
       \field{pages}{1004\bibrangedash 1009}
       \range{pages}{6}
     \endentry
+    \entry{doi:10.1126/science.aba3758}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f60849884bee24169fdade67f4446732}{%
+           family={Masanet},
+           familyi={M\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8096724142e90c2bbd9770089f76969b}{%
+           family={Shehabi},
+           familyi={S\bibinitperiod},
+           given={Arman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=43514fc3264df0756440cc8aa45b5556}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Nuoa},
+           giveni={N\bibinitperiod}}}%
+        {{hash=2912904f92df0eacbcb2f7fbeaedfaea}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1120ab390aacef8b6273606f9224131f}{%
+           family={Koomey},
+           familyi={K\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6bf4e7bfb6687766914748c756d98ea2}
+      \strng{fullhash}{945efed2e485d54521243e9a7acb67c7}
+      \strng{bibnamehash}{945efed2e485d54521243e9a7acb67c7}
+      \strng{authorbibnamehash}{945efed2e485d54521243e9a7acb67c7}
+      \strng{authornamehash}{6bf4e7bfb6687766914748c756d98ea2}
+      \strng{authorfullhash}{945efed2e485d54521243e9a7acb67c7}
+      \field{labelalpha}{MSL+20}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Growth in energy use has slowed owing to efficiency gains that smart policies can help maintain in the near term Data centers represent the information backbone of an increasingly digitalized world. Demand for their services has been rising rapidly (1), and data-intensive technologies such as artificial intelligence, smart and connected energy systems, distributed manufacturing systems, and autonomous vehicles promise to increase demand further (2). Given that data centers are energy-intensive enterprises, estimated to account for around 1\% of worldwide electricity use, these trends have clear implications for global energy demand and must be analyzed rigorously. Several oft-cited yet simplistic analyses claim that the energy used by the world's data centers has doubled over the past decade and that their energy use will triple or even quadruple within the next decade (3–5). Such estimates contribute to a conventional wisdom (5, 6) that as demand for data center services rises rapidly, so too must their global energy use. But such extrapolations based on recent service demand growth indicators overlook strong countervailing energy efficiency trends that have occurred in parallel (see the first figure). Here, we integrate new data from different sources that have emerged recently and suggest more modest growth in global data center energy use (see the second figure). This provides policy-makers and energy analysts a recalibrated understanding of global data center energy use, its drivers, and near-term efficiency potential.}
+      \field{journaltitle}{Science}
+      \field{number}{6481}
+      \field{title}{Recalibrating global data center energy-use estimates}
+      \field{volume}{367}
+      \field{year}{2020}
+      \field{pages}{984\bibrangedash 986}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.aba3758
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.aba3758
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aba3758
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aba3758
+      \endverb
+    \endentry
     \entry{mekhilef2012comparative}{article}{}
       \name{author}{3}{}{%
         {{hash=a5186597376c7b31a4aa4fc0c6534565}{%

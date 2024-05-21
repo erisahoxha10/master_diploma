@@ -283,7 +283,7 @@ In the following, the structure is outlined as follows:
 
 \chapter{Background}
 
-We start with providing insights into relevant background knowledge of this thesis. The relevant topics include: "data center", "data center carbon footprint", "data center energy consumption", "data center sustainability", "cloud efficiency", \enquote{energy conservation}, \enquote{emission reduction technology}, \enquote{server thermal management}, "cooling in data centers", "liquid cooling". 
+This start with providing insights into relevant background knowledge for this thesis. The relevant topics include: "data center", "data center carbon footprint", "data center energy consumption", "data center sustainability", "cloud efficiency", \enquote{energy conservation}, \enquote{emission reduction technology}, \enquote{server thermal management}, "cooling in data centers", "liquid cooling". 
 
 
 \section{Energy}
@@ -383,7 +383,7 @@ Spending on data center systems is expected to see a notable jump in growth from
 \section{Research Questions}
 
 \begin{description}
-	\item[RQ1] How much GHG do data centers currently produce, and what can be an estimate of the GHG production for the upcoming years?
+	\item[RQ1] How much \gls{ghg} do data centers currently produce, and what can be an estimate of the \gls{ghg} production for the upcoming years?
 	\item[RQ2] Study of the emission causes in data centers, focusing on factors like electricity, cooling and physical hardware fragments.
 	\item[RQ3] Introduction to carbon footprint and study of the (existing) measures for the reduction of carbon footprint. 
 	\item[RQ4] How can outsourcing to cloud computing reduce the environmental impact?
@@ -391,6 +391,33 @@ Spending on data center systems is expected to see a notable jump in growth from
 \end{description}
 
 \section{Methodology}
+
+This section describes the methods used to answer the research questions. 
+\begin{description}
+	\item[RQ1] 
+	Conduct a thorough review of academic literature, industry reports, and government publications to collect current data on \gls{ghg} emissions from data centers globally. Queries used for this were "GHG emissions from data centers", "CO2 emissions data centers", "CO2 emissions cloud".
+	
+	\item[RQ2] 
+	Gather data on energy consumption, cooling system efficiency, and hardware lifecycle emissions from data center operators, equipment manufacturers, and academic literature. Queries used were "server energy consumption", \enquote{data center thermal management}, \enquote{data center cooling}, \enquote{data center e-waste}, \enquote{liquid cooling}, \enquote{free cooling}, \enquote{data center PUE}
+	
+	\item[RQ3] 
+	Gather data on current carbon footprint reduction measures employed by data center operators, such as renewable energy methods, energy efficiency initiatives, and circular economy practices. Queries used were "data center carbon footprint", "renewable energy resources", \enquote{PUE in data centers}, \enquote{circular economy}. For this question, review papers were efficient to find measures taken over the years.
+	
+	\item[RQ4] 
+	Develop scenarios to understand how factors like cloud provider efficiency, virtualization, and resource utilization can affect the environmental impact of cloud computing compared to on-premises data centers. Bring real life scenarios of how clouds changed the industry.
+	
+	\item[RQ5] 
+	Conduct a review of the existing literature on DCIM 
+\end{description}
+
+This thesis includes the latest publicly available research and developments on the specific topic, as some older papers were no longer relevant. The papers and publications used in this thesis are primarily related to electrical engineering, thermal engineering, and climate change. As additional sources, the thesis references blogs from major cloud providers such as AWS, Google, and Microsoft. The figure \ref{publications} shows a report from the publications used in this thesis.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{num_of_publications_per_year.png}
+	\caption{Number of publications per year used in this research}
+	\label{publications}
+\end{figure}
 
 %1.	Gathering data about carbon footprint of the data centers
 %2.	What causes the emissions in data centers
@@ -400,8 +427,8 @@ Spending on data center systems is expected to see a notable jump in growth from
 %5.	Experiment to track the footprint of a server and make comparisons to the software computations
 
 
-Before starting conducting the research about energy and CO2 of cloud/backend processing, I saw that the most energy consumption comes from this massive server rooms that would process data non stop, called data centers. So I focused my study on data centers, their infrastructure and the energy that these rooms were consuming. Servers are the primary powerhouses within data centers.
-In this thesis I tried to include the latest publicly available research or development of the specific topic because some old papers were not relevant anymore. There were many old publications about data centers and their energy consumption, whose outcome was already applied in real life several times or their outcome was overridden. Papers and publications used in this thesis are related to electrical engineering, thermal engineering and climate change. As a resource for this thesis I also checked the activity of main cloud providers such as AWS, Google and Microsoft. Even though these companies are working independently from each other, they have all made huge advancements in their common goal to reach net zero carbon emissions.
+%Before starting conducting the research about energy and CO2 of cloud/backend processing, it became clear that the most energy consumption comes from this massive server rooms that would process data non stop, called data centers. So this study was focused on data centers, their infrastructure and the energy that these rooms were consuming. Servers are the primary powerhouses within data centers.
+%In this thesis I tried to include the latest publicly available research or development of the specific topic because some old papers were not relevant anymore. There were many old publications about data centers and their energy consumption, whose outcome was already applied in real life several times or their outcome was overridden. Papers and publications used in this thesis are related to electrical engineering, thermal engineering and climate change. As a resource for this thesis I also checked the activity of main cloud providers such as AWS, Google and Microsoft. Even though these companies are working independently from each other, they have all made huge advancements in their common goal to reach net zero carbon emissions.
 
 %Energy and CO2 are two different things, but in data center context they are closely related. Data centers do need energy to run and to keep the server rooms temperature optimal. But to generate this energy, usually electricity, tons of CO2 is released in the atmosphere. Carbon release is the outcome that should be reduced and it is causing the harmful greenhouse effect to our planet.
 
@@ -710,7 +737,7 @@ According to an official statement from Google, they have announced their commit
 \begin{description}
 	\item[RQ1]
 	
-	This question is answered throughout the whole thesis. In each section we have something related to how much GHG is produced. And we also have an estimation of 720 million tones of CO2 emission in 2030.
+	This question is answered throughout the whole thesis. In each section we have something related to how much \gls{ghg} is produced. And we also have an estimation of 720 million tones of CO2 emission in 2030.
 	\gls{ghg} is an essential term in this whole research. In 2022 data centers produced 3.7\% of all \gls{ghg} worldwide. It is estimated that by 2030 \gls{dc} will produce 720 million tones of CO2.
 	
 	\item[RQ2]
@@ -738,17 +765,29 @@ According to an official statement from Google, they have announced their commit
 
 Describe relevant scientific literature related to your work.
 
-\chapter{Conclusion and Outlook}
+\chapter{Conclusion}
 \label{chap:zusfas}
-The demand for data storage and processing will continue increasing. The need for electricity therefore will be increasing too. But with the newest advancements in technology, the hardware efficiency has actually increased and the power consumption has decreased for the same processing of data. Also 
-electricity production does not produce as much carbon as it used to due to usage of renewable resources. 
+Over the past year, the demand for data storage and processing has been steadily increasing. Correspondingly, the demand for data centers has also risen significantly. Currently, data centers consume around 3.7\% of the world's total energy, surpassing even the energy usage of the aircraft industry.
 
+However, despite this growing number of data centers, there has also been a notable improvement in data processing efficiency. Today, data centers are able to achieve the same level of data processing while consuming less energy compared to the previous year. A 6\% increase in data center energy in 2018, translated to 550\% increase in compute instances. Expressed as energy use per compute instance, the energy intensity of global data centers has decreased by 20\% annually since 2010\cite{doi:10.1126/science.aba3758}. This increased efficiency has helped offset some of the impacts of the rise in the number of data centers.
 
-\section*{Outlook}
+ As our reliance on digital technologies continues to grow, finding ways to make data centers more sustainable will be crucial going forward. 
+ 
+The following steps are essential:
+\begin{itemize}
+	\item Accelerate research and development of cloud computing technologies and improve the power usage effectiveness (PUE) of cloud infrastructure.
+	\item Enhance the management of computing, storage, and networking resources within data centers to optimize energy usage.
+	\item Invest in and integrate renewable energy resources, such as solar and wind power, to power data center operations in a sustainable manner.
+	\item Implement advanced thermal management techniques to improve cooling efficiency in data centers.
+	\item Focus on the overall architectural design of data centers to integrate energy-efficient principles from the ground up.
+	\item Ensure hardware components are recycled in an environmentally responsible manner.
+	\item Raise public awareness about the energy consumption of the internet and encourage more mindful internet usage habits.
+\end{itemize}
+
 
 \printbibliography
 
-All links were last followed on March 17, 2018.
+All links were last followed on May 21, 2024.
 
 \appendix
 \input{latexhints-english}
