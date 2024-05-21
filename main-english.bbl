@@ -38,6 +38,7 @@
       \field{labelalpha}{23}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraalpha}{1}
       \field{journaltitle}{How much carbon dioxide is produced per kilowatthour of U.S. electricity generation?}
       \field{month}{12}
       \field{year}{2023}
@@ -46,6 +47,46 @@
       \endverb
       \verb{url}
       \verb https://eia.gov/tools/faqs/faq.php?id=74%5C&t=11
+      \endverb
+    \endentry
+    \entry{clouds_pue}{misc}{}
+      \list{publisher}{1}{%
+        {Dgtl Infra}%
+      }
+      \field{labelalpha}{23}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraalpha}{2}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statista}
+      \field{month}{1}
+      \field{title}{Prominent data center operators and cloud providers annual power usage effectiveness (PUE) in 2022}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.statista.com/statistics/1362483/data-center-operator-annual-pue-worldwide/
+      \endverb
+      \verb{url}
+      \verb https://www.statista.com/statistics/1362483/data-center-operator-annual-pue-worldwide/
+      \endverb
+    \endentry
+    \entry{cloud_economy2023}{misc}{}
+      \list{publisher}{1}{%
+        {Gartner}%
+      }
+      \field{labelalpha}{23}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraalpha}{3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statista}
+      \field{month}{11}
+      \field{title}{Public cloud services end-user spending worldwide from 2017 to 2024}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.statista.com/statistics/273818/global-revenue-generated-with-cloud-computing-since-2009/
+      \endverb
+      \verb{url}
+      \verb https://www.statista.com/statistics/273818/global-revenue-generated-with-cloud-computing-since-2009/
       \endverb
     \endentry
     \entry{Britannica_2024}{misc}{}
@@ -1896,6 +1937,40 @@
       \verb https://doi.org/10.1145/2528521.1508269
       \endverb
       \keyw{servers,power management}
+    \endentry
+    \entry{malkamaki2012solar}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0b2a43867047aeba6886c8326e8781da}{%
+           family={Malkamäki},
+           familyi={M\bibinitperiod},
+           given={Tuomo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=774695230526436840934f089cfbecdd}{%
+           family={Ovaska},
+           familyi={O\bibinitperiod},
+           given={Seppo\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2864eab784a14c22056b0d72764eb760}
+      \strng{fullhash}{2864eab784a14c22056b0d72764eb760}
+      \strng{bibnamehash}{2864eab784a14c22056b0d72764eb760}
+      \strng{authorbibnamehash}{2864eab784a14c22056b0d72764eb760}
+      \strng{authornamehash}{2864eab784a14c22056b0d72764eb760}
+      \strng{authorfullhash}{2864eab784a14c22056b0d72764eb760}
+      \field{labelalpha}{MO12}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia computer science}
+      \field{title}{Solar energy and free cooling potential in European data centers}
+      \field{volume}{10}
+      \field{year}{2012}
+      \field{pages}{1004\bibrangedash 1009}
+      \range{pages}{6}
     \endentry
     \entry{mekhilef2012comparative}{article}{}
       \name{author}{3}{}{%
